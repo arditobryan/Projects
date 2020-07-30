@@ -1,0 +1,5368 @@
+1
+00:00:00,050 --> 00:00:14,440
+[Music]
+
+2
+00:00:11,820 --> 00:00:17,260
+today we're going to talk a little bit
+
+3
+00:00:14,439 --> 00:00:22,570
+more about the fractionation of openness
+
+4
+00:00:17,260 --> 00:00:24,099
+to experience and we've done a fair
+
+5
+00:00:22,570 --> 00:00:25,899
+number of studies with the Big Five
+
+6
+00:00:24,099 --> 00:00:28,419
+aspect scale which we talked about a lot
+
+7
+00:00:25,899 --> 00:00:30,789
+which enables the Big Five model to be
+
+8
+00:00:28,419 --> 00:00:35,170
+differentiated down into two aspects per
+
+9
+00:00:30,789 --> 00:00:37,420
+trait and those aspects have been useful
+
+10
+00:00:35,170 --> 00:00:39,609
+for a variety of reasons for example
+
+11
+00:00:37,420 --> 00:00:41,579
+when we're looking at political behavior
+
+12
+00:00:39,609 --> 00:00:44,530
+we've been able to determine that
+
+13
+00:00:41,579 --> 00:00:46,539
+conservatives who are generally regarded
+
+14
+00:00:44,530 --> 00:00:48,820
+as higher in conscientiousness are
+
+15
+00:00:46,539 --> 00:00:50,800
+actually more specifically higher in
+
+16
+00:00:48,820 --> 00:00:53,018
+orderliness it's not a lot of difference
+
+17
+00:00:50,799 --> 00:00:54,578
+between liberals and conservatives with
+
+18
+00:00:53,018 --> 00:00:57,100
+regards to industriousness and we've
+
+19
+00:00:54,579 --> 00:00:59,588
+also been able to determine at least to
+
+20
+00:00:57,100 --> 00:01:02,100
+some degree that orderliness seems to be
+
+21
+00:00:59,588 --> 00:01:04,329
+associated with disgust sensitivity and
+
+22
+00:01:02,100 --> 00:01:06,189
+disgust sensitivity as part of the
+
+23
+00:01:04,329 --> 00:01:08,379
+behavioural immune system and so part of
+
+24
+00:01:06,189 --> 00:01:10,239
+the reasons that conservatives are more
+
+25
+00:01:08,379 --> 00:01:11,859
+inclined to want things like close
+
+26
+00:01:10,239 --> 00:01:13,509
+borders is because they're more
+
+27
+00:01:11,859 --> 00:01:15,189
+concerned about maintaining the
+
+28
+00:01:13,510 --> 00:01:17,890
+boundaries between things and the reason
+
+29
+00:01:15,189 --> 00:01:20,739
+for that seems to be fundamentally
+
+30
+00:01:17,890 --> 00:01:22,239
+associated with disgust and I'll talk to
+
+31
+00:01:20,739 --> 00:01:25,269
+you a lot about that next week because
+
+32
+00:01:22,239 --> 00:01:28,478
+once we've sorted that out it really
+
+33
+00:01:25,269 --> 00:01:29,978
+really illuminated my way of thinking
+
+34
+00:01:28,478 --> 00:01:32,289
+about things that had happened for
+
+35
+00:01:29,978 --> 00:01:34,799
+example in Nazi Germany because people
+
+36
+00:01:32,289 --> 00:01:37,118
+tend to people tend to think about like
+
+37
+00:01:34,799 --> 00:01:39,039
+when people have been studying
+
+38
+00:01:37,118 --> 00:01:40,930
+conservatism from the scientific
+
+39
+00:01:39,039 --> 00:01:42,789
+perspective they've tended to assume
+
+40
+00:01:40,930 --> 00:01:44,829
+that it's associated with fear of the
+
+41
+00:01:42,789 --> 00:01:46,149
+out-group say and the Conservatives are
+
+42
+00:01:44,828 --> 00:01:47,788
+more fearful the Liberals but that
+
+43
+00:01:46,149 --> 00:01:49,780
+actually doesn't seem to be
+
+44
+00:01:47,789 --> 00:01:51,280
+conservatives are not hiring trait
+
+45
+00:01:49,780 --> 00:01:53,200
+neuroticism and that's a really tough
+
+46
+00:01:51,280 --> 00:01:55,030
+one because if you are going to make a
+
+47
+00:01:53,200 --> 00:01:57,189
+case that a group one group is more
+
+48
+00:01:55,030 --> 00:01:58,659
+anxious let's say or threat sensitive
+
+49
+00:01:57,188 --> 00:02:00,339
+than another and you don't get
+
+50
+00:01:58,659 --> 00:02:10,360
+differences in treatment autism then
+
+51
+00:02:00,340 --> 00:02:12,099
+you've really got a problem well yeah
+
+52
+00:02:10,360 --> 00:02:14,260
+but the theories the theories seem to be
+
+53
+00:02:12,099 --> 00:02:17,229
+more trade like rather than situation
+
+54
+00:02:14,259 --> 00:02:19,209
+yeah so so but what we have found is
+
+55
+00:02:17,229 --> 00:02:20,649
+that that you know for a long time
+
+56
+00:02:19,210 --> 00:02:23,260
+people thought that all of the negative
+
+57
+00:02:20,650 --> 00:02:24,760
+emotions loaded on neuroticism and it
+
+58
+00:02:23,259 --> 00:02:26,408
+was like the global
+
+59
+00:02:24,759 --> 00:02:29,199
+the global trade for negative emotion
+
+60
+00:02:26,408 --> 00:02:32,408
+but disgust seems to be its own peculiar
+
+61
+00:02:29,199 --> 00:02:36,158
+thing and but I will talk to you more
+
+62
+00:02:32,408 --> 00:02:38,469
+about that next week and but that's just
+
+63
+00:02:36,158 --> 00:02:40,929
+an example of why differentiation at the
+
+64
+00:02:38,469 --> 00:02:42,669
+aspect level seems useful you also pick
+
+65
+00:02:40,930 --> 00:02:44,590
+up differences between men and women at
+
+66
+00:02:42,669 --> 00:02:47,048
+the aspect level that aren't obvious at
+
+67
+00:02:44,590 --> 00:02:49,900
+the trade level as well so you can think
+
+68
+00:02:47,049 --> 00:02:51,670
+about the model says you know you have a
+
+69
+00:02:49,900 --> 00:02:53,610
+model that operates at different levels
+
+70
+00:02:51,669 --> 00:02:55,449
+of resolution and low resolution
+
+71
+00:02:53,610 --> 00:02:57,780
+representations are good for one set of
+
+72
+00:02:55,449 --> 00:02:59,518
+operations and higher resolution
+
+73
+00:02:57,780 --> 00:03:01,870
+representations are good for other
+
+74
+00:02:59,519 --> 00:03:03,340
+purposes and the purpose of course is to
+
+75
+00:03:01,870 --> 00:03:05,680
+predict at least that's one of the
+
+76
+00:03:03,340 --> 00:03:07,539
+primary scientific purposes and so you
+
+77
+00:03:05,680 --> 00:03:09,340
+pick the level of analysis that gives
+
+78
+00:03:07,539 --> 00:03:11,318
+you the most prediction and perhaps also
+
+79
+00:03:09,340 --> 00:03:14,890
+the most utility in terms of formulating
+
+80
+00:03:11,318 --> 00:03:16,500
+scientific theories so and so we'll
+
+81
+00:03:14,889 --> 00:03:18,878
+concentrate a little bit more today on
+
+82
+00:03:16,500 --> 00:03:21,568
+openness per se so openness to
+
+83
+00:03:18,878 --> 00:03:23,679
+experience fragments into intellect and
+
+84
+00:03:21,568 --> 00:03:25,060
+openness proper and I think the right
+
+85
+00:03:23,680 --> 00:03:28,090
+way to think about intellect is that
+
+86
+00:03:25,060 --> 00:03:29,560
+it's the personality instantiation of IQ
+
+87
+00:03:28,090 --> 00:03:31,299
+roughly speaking and the reason I think
+
+88
+00:03:29,560 --> 00:03:34,479
+that is because well first of all
+
+89
+00:03:31,299 --> 00:03:36,579
+working memory predicts intellect quite
+
+90
+00:03:34,479 --> 00:03:39,068
+nicely and working memory tests are very
+
+91
+00:03:36,579 --> 00:03:41,319
+very highly correlated with G and
+
+92
+00:03:39,068 --> 00:03:43,780
+specifically G being the first factor
+
+93
+00:03:41,318 --> 00:03:44,979
+that you pull out of any set of IQ tests
+
+94
+00:03:43,780 --> 00:03:48,400
+right that that's the technical
+
+95
+00:03:44,979 --> 00:03:50,379
+definition of G you set up sets of
+
+96
+00:03:48,400 --> 00:03:52,090
+questions do a factor analysis and
+
+97
+00:03:50,379 --> 00:03:54,129
+extract out the first factor which is
+
+98
+00:03:52,090 --> 00:03:56,829
+roughly equivalent by the way to the
+
+99
+00:03:54,129 --> 00:03:58,750
+total or to that to the mean of the
+
+100
+00:03:56,829 --> 00:04:00,250
+items if it's if there's a one factor
+
+101
+00:03:58,750 --> 00:04:02,560
+solution it's not much different than
+
+102
+00:04:00,250 --> 00:04:06,310
+the average so the average is actually a
+
+103
+00:04:02,560 --> 00:04:08,229
+factor that's that that where the
+
+104
+00:04:06,310 --> 00:04:11,049
+hypothesis is that every single item
+
+105
+00:04:08,229 --> 00:04:12,098
+loads equally on that factor because
+
+106
+00:04:11,049 --> 00:04:14,139
+you're adding them all up and then
+
+107
+00:04:12,098 --> 00:04:15,399
+dividing them by the number so it's no
+
+108
+00:04:14,139 --> 00:04:17,319
+different than a factor analysis
+
+109
+00:04:15,400 --> 00:04:18,608
+sometimes you'll hear people like Steve
+
+110
+00:04:17,319 --> 00:04:20,379
+and Jay Google did this when he was
+
+111
+00:04:18,608 --> 00:04:23,109
+complaining about IQ back in the 90s he
+
+112
+00:04:20,379 --> 00:04:24,098
+said a factor and a factor analysis like
+
+113
+00:04:23,110 --> 00:04:27,430
+a factor is just a mathematical
+
+114
+00:04:24,098 --> 00:04:28,990
+abstraction it's like well yeah so is
+
+115
+00:04:27,430 --> 00:04:31,598
+the average you think it's the average
+
+116
+00:04:28,990 --> 00:04:33,430
+of a set of numbers real and answer that
+
+117
+00:04:31,598 --> 00:04:35,860
+question is depends on how you define
+
+118
+00:04:33,430 --> 00:04:37,240
+real you can use it for certain
+
+119
+00:04:35,860 --> 00:04:38,310
+functions which is a pretty good
+
+120
+00:04:37,240 --> 00:04:40,590
+definition of real
+
+121
+00:04:38,310 --> 00:04:42,480
+as far as I'm concerned but when you ask
+
+122
+00:04:40,589 --> 00:04:44,159
+questions like that you have to define
+
+123
+00:04:42,480 --> 00:04:48,330
+both your terms and you do that somewhat
+
+124
+00:04:44,160 --> 00:04:49,800
+arbitrarily anyways people with high IQs
+
+125
+00:04:48,329 --> 00:04:51,389
+tend to think that they're smart which
+
+126
+00:04:49,800 --> 00:04:53,160
+is and that's right and so then they can
+
+127
+00:04:51,389 --> 00:04:54,810
+to describe themselves as smart if you
+
+128
+00:04:53,160 --> 00:04:56,640
+give them the opportunity to do that and
+
+129
+00:04:54,810 --> 00:04:58,230
+then that shows up when you ask them
+
+130
+00:04:56,639 --> 00:05:00,209
+questions about their problem-solving
+
+131
+00:04:58,230 --> 00:05:02,879
+ability and that loads mostly on
+
+132
+00:05:00,209 --> 00:05:04,620
+intellect and so it isn't even obvious
+
+133
+00:05:02,879 --> 00:05:07,050
+that there's any real utility in
+
+134
+00:05:04,620 --> 00:05:09,509
+assessing intellect from the self-report
+
+135
+00:05:07,050 --> 00:05:11,550
+perspective when you could replace that
+
+136
+00:05:09,509 --> 00:05:15,120
+with an IQ test because the IQ test is
+
+137
+00:05:11,550 --> 00:05:16,410
+way more accurate so but that gives you
+
+138
+00:05:15,120 --> 00:05:17,670
+some sense you think about the whole
+
+139
+00:05:16,410 --> 00:05:19,470
+five factor model you know where
+
+140
+00:05:17,670 --> 00:05:22,650
+intelligence slots it slots in
+
+141
+00:05:19,470 --> 00:05:24,870
+underneath opens now the openness proper
+
+142
+00:05:22,649 --> 00:05:26,459
+part of openness to experience which
+
+143
+00:05:24,870 --> 00:05:29,519
+which I tend to think about as
+
+144
+00:05:26,459 --> 00:05:30,899
+creativity you can use that at least as
+
+145
+00:05:29,519 --> 00:05:32,879
+a shorthand to sort of aid your
+
+146
+00:05:30,899 --> 00:05:36,569
+understanding of what it is creativity
+
+147
+00:05:32,879 --> 00:05:38,129
+seems related to IQ in that more people
+
+148
+00:05:36,569 --> 00:05:39,930
+with higher IQs are likely to be
+
+149
+00:05:38,129 --> 00:05:41,909
+creative or if you take people who are
+
+150
+00:05:39,930 --> 00:05:43,230
+noted for their creativity there's a
+
+151
+00:05:41,910 --> 00:05:46,189
+high probability that they'll have a
+
+152
+00:05:43,230 --> 00:05:50,550
+higher IQ but there's more to it than IQ
+
+153
+00:05:46,189 --> 00:05:52,889
+and and what what creativity seems to be
+
+154
+00:05:50,550 --> 00:05:54,389
+associated with then again depends on
+
+155
+00:05:52,889 --> 00:05:56,639
+whether or not on how you define
+
+156
+00:05:54,389 --> 00:05:59,310
+creativity because you could define it
+
+157
+00:05:56,639 --> 00:06:00,719
+as the sum total of creative
+
+158
+00:05:59,310 --> 00:06:02,370
+achievements that you've made in your
+
+159
+00:06:00,720 --> 00:06:04,830
+life which would be the actual
+
+160
+00:06:02,370 --> 00:06:06,959
+production of say artifacts of one form
+
+161
+00:06:04,829 --> 00:06:09,599
+or another performances or inventions or
+
+162
+00:06:06,959 --> 00:06:11,129
+artworks or or what-have-you we'll go
+
+163
+00:06:09,600 --> 00:06:13,200
+over the dimensions in the middle in a
+
+164
+00:06:11,129 --> 00:06:15,240
+minute or you could also define it as
+
+165
+00:06:13,199 --> 00:06:17,099
+the proclivity to engage in creative
+
+166
+00:06:15,240 --> 00:06:19,139
+thought and I think we'll start with
+
+167
+00:06:17,100 --> 00:06:22,560
+that first so what does it mean to think
+
+168
+00:06:19,139 --> 00:06:25,159
+creatively it's it's sort of like it's
+
+169
+00:06:22,560 --> 00:06:28,139
+something like this you imagine that I
+
+170
+00:06:25,160 --> 00:06:29,939
+toss you out an idea and there's some
+
+171
+00:06:28,139 --> 00:06:31,620
+probability that when I toss you that
+
+172
+00:06:29,939 --> 00:06:34,230
+idea that that will trigger off other
+
+173
+00:06:31,620 --> 00:06:36,060
+ideas in your imagination so you can
+
+174
+00:06:34,230 --> 00:06:37,350
+think about it as a threshold issue if
+
+175
+00:06:36,060 --> 00:06:39,420
+you're not very creative I'll throw you
+
+176
+00:06:37,350 --> 00:06:41,370
+an idea and hardly any other ideas will
+
+177
+00:06:39,420 --> 00:06:42,960
+be triggered and the ones that will be
+
+178
+00:06:41,370 --> 00:06:45,629
+triggered are going to be very closely
+
+179
+00:06:42,959 --> 00:06:48,329
+associated with that initial idea so
+
+180
+00:06:45,629 --> 00:06:50,069
+let's say I toss each of you an idea and
+
+181
+00:06:48,329 --> 00:06:52,109
+I asked you to think tell me the first
+
+182
+00:06:50,069 --> 00:06:54,480
+thing that comes to mind okay so what we
+
+183
+00:06:52,110 --> 00:06:56,819
+would see first is that the first thing
+
+184
+00:06:54,480 --> 00:06:58,470
+that comes to mind for you the first
+
+185
+00:06:56,819 --> 00:07:00,500
+thing that comes to mind in like in all
+
+186
+00:06:58,470 --> 00:07:02,610
+likelihood we'd be shared by many of you
+
+187
+00:07:00,500 --> 00:07:04,529
+okay so then you can think about that as
+
+188
+00:07:02,610 --> 00:07:06,569
+a common response right and so that's a
+
+189
+00:07:04,529 --> 00:07:08,549
+less creative response and then there'll
+
+190
+00:07:06,569 --> 00:07:10,649
+be some things that come to mind for you
+
+191
+00:07:08,550 --> 00:07:12,180
+that are that they're so idiosyncratic
+
+192
+00:07:10,649 --> 00:07:14,459
+that you're the only person that thinks
+
+193
+00:07:12,180 --> 00:07:16,650
+that and no one can understand it well
+
+194
+00:07:14,459 --> 00:07:19,199
+that's also not exactly creative because
+
+195
+00:07:16,649 --> 00:07:20,729
+the thing that you for something to be
+
+196
+00:07:19,199 --> 00:07:22,680
+creative it has to be novel and useful
+
+197
+00:07:20,730 --> 00:07:25,410
+at the same time that's sort of rough
+
+198
+00:07:22,680 --> 00:07:28,050
+definition creative something creative
+
+199
+00:07:25,410 --> 00:07:29,670
+is novel and useful and obviously you
+
+200
+00:07:28,050 --> 00:07:31,579
+know there's a there's a certain amount
+
+201
+00:07:29,670 --> 00:07:34,949
+of judgment that goes along with that
+
+202
+00:07:31,579 --> 00:07:36,689
+clearly but if it's too novel then no
+
+203
+00:07:34,949 --> 00:07:38,819
+one else can understand it and it's
+
+204
+00:07:36,689 --> 00:07:41,189
+unlikely to be useful so there's there's
+
+205
+00:07:38,819 --> 00:07:42,389
+a there's a range of convenience so
+
+206
+00:07:41,189 --> 00:07:44,129
+anyways if you want to decide if
+
+207
+00:07:42,389 --> 00:07:46,889
+something's creative like what we would
+
+208
+00:07:44,129 --> 00:07:48,149
+do for I could say to you okay in the
+
+209
+00:07:46,889 --> 00:07:51,029
+next three minutes I want you to write
+
+210
+00:07:48,149 --> 00:07:53,459
+down all the uses you can think of for a
+
+211
+00:07:51,029 --> 00:08:01,679
+brick so okay so someone tell me your
+
+212
+00:07:53,459 --> 00:08:05,909
+use for a brick breaking windows yes
+
+213
+00:08:01,680 --> 00:08:08,819
+okay what else can use a brick for build
+
+214
+00:08:05,910 --> 00:08:12,140
+a wall it's very small wall haha a wall
+
+215
+00:08:08,819 --> 00:08:16,949
+for ant and what else
+
+216
+00:08:12,139 --> 00:08:18,599
+paperweight okay okay well so you get
+
+217
+00:08:16,949 --> 00:08:21,629
+the idea you're not feeling very multi
+
+218
+00:08:18,600 --> 00:08:24,900
+today obviously but so so you see that
+
+219
+00:08:21,629 --> 00:08:26,550
+so if we gathered your responses say I
+
+220
+00:08:24,899 --> 00:08:28,439
+said you have to think of 20 items that
+
+221
+00:08:26,550 --> 00:08:31,379
+20 things that that you could do with a
+
+222
+00:08:28,439 --> 00:08:32,940
+brick then a bunch of the things that
+
+223
+00:08:31,379 --> 00:08:33,960
+you thought would be the same and some
+
+224
+00:08:32,940 --> 00:08:35,340
+people would come up with something
+
+225
+00:08:33,960 --> 00:08:36,930
+different like yours was reasonably
+
+226
+00:08:35,340 --> 00:08:38,490
+different than one about using it as a
+
+227
+00:08:36,929 --> 00:08:39,659
+publish stone for your feet but someone
+
+228
+00:08:38,490 --> 00:08:41,820
+else might come up with that but it's
+
+229
+00:08:39,659 --> 00:08:44,009
+it's a good creative response because
+
+230
+00:08:41,820 --> 00:08:47,280
+it's unexpected and it you could
+
+231
+00:08:44,009 --> 00:08:49,319
+actually do it you know so anyway so
+
+232
+00:08:47,279 --> 00:08:52,740
+you'll get a graph of probability of
+
+233
+00:08:49,320 --> 00:08:55,260
+response right and the more probable the
+
+234
+00:08:52,740 --> 00:08:56,639
+less creative roughly speaking it's not
+
+235
+00:08:55,259 --> 00:08:58,769
+the only criteria though because you
+
+236
+00:08:56,639 --> 00:09:00,269
+also have to look at utility so if I
+
+237
+00:08:58,769 --> 00:09:01,980
+said okay you've got three minutes to
+
+238
+00:09:00,269 --> 00:09:02,759
+write down as many uses as you can think
+
+239
+00:09:01,980 --> 00:09:04,470
+of for a brick
+
+240
+00:09:02,759 --> 00:09:05,639
+I would score that in a variety of ways
+
+241
+00:09:04,470 --> 00:09:07,019
+the first thing I would do is
+
+242
+00:09:05,639 --> 00:09:09,569
+just figure out how many uses you
+
+243
+00:09:07,019 --> 00:09:10,829
+generated that's called fluency and we
+
+244
+00:09:09,570 --> 00:09:12,210
+could also do that I could just say
+
+245
+00:09:10,830 --> 00:09:13,770
+write down as many words as you can
+
+246
+00:09:12,210 --> 00:09:15,389
+begin with the letter s in three minutes
+
+247
+00:09:13,769 --> 00:09:17,220
+or that begin with the letter C or
+
+248
+00:09:15,389 --> 00:09:19,620
+four-letter words that begin with the
+
+249
+00:09:17,220 --> 00:09:21,960
+letter D no I can I can constrain it and
+
+250
+00:09:19,620 --> 00:09:24,870
+if I counted how many words you
+
+251
+00:09:21,960 --> 00:09:26,250
+generated if I had an IQ measure and I
+
+252
+00:09:24,870 --> 00:09:28,710
+had a measure of how many words you
+
+253
+00:09:26,250 --> 00:09:30,389
+generated IQ plus the number of words
+
+254
+00:09:28,710 --> 00:09:32,580
+that you generated would be a better
+
+255
+00:09:30,389 --> 00:09:35,069
+predictor of your creativity than just
+
+256
+00:09:32,580 --> 00:09:37,410
+IQ so there's this fluency element
+
+257
+00:09:35,070 --> 00:09:39,240
+that's and so that's something like the
+
+258
+00:09:37,409 --> 00:09:40,769
+rate at which you can produce say verbal
+
+259
+00:09:39,240 --> 00:09:44,299
+ideas and one of the things we do know
+
+260
+00:09:40,769 --> 00:09:47,100
+about about the creativity dimension of
+
+261
+00:09:44,299 --> 00:09:48,990
+openness is that it is associated with
+
+262
+00:09:47,100 --> 00:09:52,220
+fluency and it's also associated with
+
+263
+00:09:48,990 --> 00:09:55,740
+originality and originality would be how
+
+264
+00:09:52,220 --> 00:09:59,190
+improbable your use was compared to the
+
+265
+00:09:55,740 --> 00:10:01,259
+uses generated by other people so so
+
+266
+00:09:59,190 --> 00:10:02,460
+anyway so you can think of you get
+
+267
+00:10:01,259 --> 00:10:04,230
+thrown an idea and there's some
+
+268
+00:10:02,460 --> 00:10:05,940
+probability that that will Co activate
+
+269
+00:10:04,230 --> 00:10:08,370
+other ideas and if it Co activates many
+
+270
+00:10:05,940 --> 00:10:10,290
+other ideas that's like fluency and if
+
+271
+00:10:08,370 --> 00:10:12,509
+it co activates ideas that are quite
+
+272
+00:10:10,289 --> 00:10:14,399
+distant from the original idea something
+
+273
+00:10:12,509 --> 00:10:17,340
+like that and you could you could track
+
+274
+00:10:14,399 --> 00:10:19,019
+distance by comparing it to to
+
+275
+00:10:17,340 --> 00:10:20,879
+probability that other people have
+
+276
+00:10:19,019 --> 00:10:22,919
+generated it then that's also another
+
+277
+00:10:20,879 --> 00:10:25,950
+indication of creativity so they have to
+
+278
+00:10:22,919 --> 00:10:26,699
+be unlikely many unlikely responses that
+
+279
+00:10:25,950 --> 00:10:28,350
+are useful
+
+280
+00:10:26,700 --> 00:10:30,030
+that's what creativity is roughly
+
+281
+00:10:28,350 --> 00:10:31,830
+speaking and then you can tracks innate
+
+282
+00:10:30,029 --> 00:10:33,000
+it in two different dimensions so that's
+
+283
+00:10:31,830 --> 00:10:34,800
+creative thinking
+
+284
+00:10:33,000 --> 00:10:37,289
+but then creative achievement would be
+
+285
+00:10:34,799 --> 00:10:38,879
+the ability to take those original ideas
+
+286
+00:10:37,289 --> 00:10:40,319
+and then actually to implement them in
+
+287
+00:10:38,879 --> 00:10:42,090
+the world and that's obviously much more
+
+288
+00:10:40,320 --> 00:10:46,050
+different than merely being creative and
+
+289
+00:10:42,090 --> 00:10:47,430
+so and then what creativity is depends
+
+290
+00:10:46,049 --> 00:10:49,529
+on which of those measurement routes
+
+291
+00:10:47,429 --> 00:10:51,299
+that you take now I developed a
+
+292
+00:10:49,529 --> 00:10:54,750
+questionnaire it's one of my students
+
+293
+00:10:51,299 --> 00:10:56,459
+Shelley Carson about Jesus just about 30
+
+294
+00:10:54,750 --> 00:10:58,259
+years ago now 20 years ago I guess
+
+295
+00:10:56,460 --> 00:10:59,940
+called the creative achievement
+
+296
+00:10:58,259 --> 00:11:02,370
+questionnaire and I'll show you that
+
+297
+00:10:59,940 --> 00:11:05,490
+here and I'll show you some of the
+
+298
+00:11:02,370 --> 00:11:07,409
+things that are interesting about it you
+
+299
+00:11:05,490 --> 00:11:09,029
+know you hear very frequently people say
+
+300
+00:11:07,409 --> 00:11:11,669
+things like everyone's creative it's
+
+301
+00:11:09,029 --> 00:11:13,049
+like that's wrong okay it's wrong it's
+
+302
+00:11:11,669 --> 00:11:14,849
+just as wrong as saying that everyone's
+
+303
+00:11:13,049 --> 00:11:16,469
+extroverted first of all you have to be
+
+304
+00:11:14,850 --> 00:11:18,210
+pretty damn smart to be creative because
+
+305
+00:11:16,470 --> 00:11:19,139
+otherwise you're just going to get to
+
+306
+00:11:18,210 --> 00:11:21,509
+where other people have
+
+307
+00:11:19,139 --> 00:11:24,899
+already got and that's not creative by
+
+308
+00:11:21,509 --> 00:11:26,220
+definition so so being fast and being
+
+309
+00:11:24,899 --> 00:11:27,389
+out there at the front of things really
+
+310
+00:11:26,220 --> 00:11:29,009
+makes a difference and then you also
+
+311
+00:11:27,389 --> 00:11:30,808
+have to have these divergent thinking
+
+312
+00:11:29,009 --> 00:11:32,850
+capabilities and that's part of your
+
+313
+00:11:30,808 --> 00:11:34,318
+trait structure and creative people are
+
+314
+00:11:32,850 --> 00:11:36,629
+really different than non creative
+
+315
+00:11:34,318 --> 00:11:38,479
+people you know partly because for
+
+316
+00:11:36,629 --> 00:11:40,528
+example they're highly motivated to do
+
+317
+00:11:38,480 --> 00:11:43,619
+creative things and to experience
+
+318
+00:11:40,528 --> 00:11:45,568
+novelty in two and two and to chase down
+
+319
+00:11:43,619 --> 00:11:47,309
+aesthetic experiences in to attend
+
+320
+00:11:45,568 --> 00:11:50,039
+movies and to read fiction and to go to
+
+321
+00:11:47,308 --> 00:11:51,958
+museums and to enjoy poetry and and and
+
+322
+00:11:50,039 --> 00:11:53,009
+to enjoy music that's not conventional
+
+323
+00:11:51,958 --> 00:11:55,858
+music for example
+
+324
+00:11:53,009 --> 00:11:58,168
+these aren't trivial differences and so
+
+325
+00:11:55,859 --> 00:12:00,119
+and so it's a real it's a real myth
+
+326
+00:11:58,168 --> 00:12:02,188
+statement to make the proposition that
+
+327
+00:12:00,119 --> 00:12:03,809
+everyone's creative it's just simply not
+
+328
+00:12:02,188 --> 00:12:05,759
+the case it's a matter of wishful
+
+329
+00:12:03,808 --> 00:12:07,019
+thinking it's like saying that everyone
+
+330
+00:12:05,759 --> 00:12:08,609
+is intelligent it's like well if
+
+331
+00:12:07,019 --> 00:12:11,039
+everyone is intelligent and then the
+
+332
+00:12:08,609 --> 00:12:12,569
+term loses all of its meaning because
+
+333
+00:12:11,039 --> 00:12:14,578
+any term that you can apply to every
+
+334
+00:12:12,568 --> 00:12:17,458
+member of a category has absolutely no
+
+335
+00:12:14,578 --> 00:12:18,568
+meaning now that doesn't and you know
+
+336
+00:12:17,458 --> 00:12:20,159
+the other thing you want to be thinking
+
+337
+00:12:18,568 --> 00:12:21,599
+about here is that don't be thinking
+
+338
+00:12:20,159 --> 00:12:25,078
+that creativity is such a good thing
+
+339
+00:12:21,600 --> 00:12:26,489
+it's a high-risk high-return strategy so
+
+340
+00:12:25,078 --> 00:12:28,078
+if you're creative you just try this
+
+341
+00:12:26,489 --> 00:12:29,459
+there's creative people in this room man
+
+342
+00:12:28,078 --> 00:12:31,498
+you guys are going to have a hell of a
+
+343
+00:12:29,458 --> 00:12:33,479
+time monetizing your creativity it's
+
+344
+00:12:31,499 --> 00:12:35,489
+virtually impossible it's really really
+
+345
+00:12:33,480 --> 00:12:37,110
+difficult because first of all let's say
+
+346
+00:12:35,489 --> 00:12:39,089
+you make an original product you think
+
+347
+00:12:37,110 --> 00:12:40,318
+the world will beat a pathway to your
+
+348
+00:12:39,089 --> 00:12:42,360
+door if you build a better mousetrap
+
+349
+00:12:40,318 --> 00:12:45,149
+it's like that's complete rubbish it
+
+350
+00:12:42,360 --> 00:12:47,249
+isn't it isn't true in the least if you
+
+351
+00:12:45,149 --> 00:12:50,159
+make a good creative product you've
+
+352
+00:12:47,249 --> 00:12:52,290
+probably solved about 5% of your problem
+
+353
+00:12:50,159 --> 00:12:53,999
+because then you have marketing which is
+
+354
+00:12:52,289 --> 00:12:55,828
+insanely difficult and then you have
+
+355
+00:12:53,999 --> 00:12:56,909
+sales and then you have customer support
+
+356
+00:12:55,828 --> 00:12:59,668
+and then you have to build an
+
+357
+00:12:56,909 --> 00:13:01,139
+organization and you have to if it's
+
+358
+00:12:59,668 --> 00:13:03,418
+really novel you have to tell people
+
+359
+00:13:01,139 --> 00:13:04,889
+what the hell the thing is you know we
+
+360
+00:13:03,418 --> 00:13:07,409
+built this future authoring program
+
+361
+00:13:04,889 --> 00:13:09,839
+right and so it's available for people
+
+362
+00:13:07,409 --> 00:13:11,308
+online how do you market that no one
+
+363
+00:13:09,839 --> 00:13:13,049
+knows what that is and that's a real
+
+364
+00:13:11,308 --> 00:13:14,249
+problem if you wrote a book well then
+
+365
+00:13:13,048 --> 00:13:15,899
+you have the problem that another
+
+366
+00:13:14,249 --> 00:13:17,428
+million people have also written a book
+
+367
+00:13:15,899 --> 00:13:18,839
+but if you produce something that's
+
+368
+00:13:17,428 --> 00:13:20,879
+completely new and doesn't have a
+
+369
+00:13:18,839 --> 00:13:23,039
+category people can't search for it
+
+370
+00:13:20,879 --> 00:13:24,989
+online how are they going to find it so
+
+371
+00:13:23,038 --> 00:13:27,869
+you just have and then you have pricing
+
+372
+00:13:24,989 --> 00:13:29,939
+problems and it's really unbelievably
+
+373
+00:13:27,869 --> 00:13:32,100
+difficult to produce something creative
+
+374
+00:13:29,938 --> 00:13:32,990
+and then monetize it and even worse if
+
+375
+00:13:32,100 --> 00:13:34,240
+you're the creative
+
+376
+00:13:32,990 --> 00:13:36,889
+let's say you have a spectacular
+
+377
+00:13:34,240 --> 00:13:38,029
+invention you've got no money right
+
+378
+00:13:36,889 --> 00:13:40,189
+you've got no customers
+
+379
+00:13:38,029 --> 00:13:41,990
+those are big problems and so maybe you
+
+380
+00:13:40,190 --> 00:13:43,250
+go and you find a venture capitalist we
+
+381
+00:13:41,990 --> 00:13:44,779
+start with family and friends because
+
+382
+00:13:43,250 --> 00:13:46,129
+that's how it works you raise money for
+
+383
+00:13:44,779 --> 00:13:48,169
+your product you raise money from your
+
+384
+00:13:46,129 --> 00:13:49,820
+family and friends that's assuming you
+
+385
+00:13:48,169 --> 00:13:51,529
+have family and friends that have some
+
+386
+00:13:49,820 --> 00:13:53,090
+money and that they're going to give it
+
+387
+00:13:51,529 --> 00:13:55,159
+to you and most people aren't in that
+
+388
+00:13:53,090 --> 00:13:56,840
+situation so it's a terrible barrier
+
+389
+00:13:55,159 --> 00:13:58,129
+right off the bat and then of course
+
+390
+00:13:56,840 --> 00:14:00,200
+you're putting your family and friends
+
+391
+00:13:58,129 --> 00:14:02,240
+it's substantial financial risk because
+
+392
+00:14:00,200 --> 00:14:03,650
+the probability that your stupid idea is
+
+393
+00:14:02,240 --> 00:14:05,960
+going to make money is virtually zero
+
+394
+00:14:03,649 --> 00:14:08,029
+even if it's a really brilliant idea and
+
+395
+00:14:05,960 --> 00:14:09,470
+so then let's say well you get past
+
+396
+00:14:08,029 --> 00:14:11,449
+family and friends and you get venture
+
+397
+00:14:09,470 --> 00:14:13,550
+capitalist capitalists involved because
+
+398
+00:14:11,450 --> 00:14:15,950
+that's often the next step or an angel
+
+399
+00:14:13,549 --> 00:14:17,659
+investor that's there's their steps in
+
+400
+00:14:15,950 --> 00:14:20,090
+building a business family and friends
+
+401
+00:14:17,659 --> 00:14:21,980
+angel investor that's some rich guy that
+
+402
+00:14:20,090 --> 00:14:24,139
+you happen to meet some manner in some
+
+403
+00:14:21,980 --> 00:14:25,820
+way who's who's into this sort of thing
+
+404
+00:14:24,139 --> 00:14:27,529
+and is willing to provide you with some
+
+405
+00:14:25,820 --> 00:14:30,590
+money to get your product off the ground
+
+406
+00:14:27,529 --> 00:14:33,529
+well how much of your product is that
+
+407
+00:14:30,590 --> 00:14:36,200
+person going to take well most of it
+
+408
+00:14:33,529 --> 00:14:38,149
+most of it and then if you get a venture
+
+409
+00:14:36,200 --> 00:14:40,009
+and no wonder because you know you don't
+
+410
+00:14:38,149 --> 00:14:41,659
+have any money how are you going to
+
+411
+00:14:40,009 --> 00:14:43,549
+bargain for control over your product
+
+412
+00:14:41,659 --> 00:14:44,240
+he'll just say well do you want the
+
+413
+00:14:43,549 --> 00:14:46,490
+money or not
+
+414
+00:14:44,240 --> 00:14:48,080
+and if your answer is no then he'll go
+
+415
+00:14:46,490 --> 00:14:50,659
+and do something else with his money
+
+416
+00:14:48,080 --> 00:14:52,280
+it's not like there's no shortage of
+
+417
+00:14:50,659 --> 00:14:53,839
+things that you can do with your money
+
+418
+00:14:52,279 --> 00:14:55,069
+because there's a million things you can
+
+419
+00:14:53,840 --> 00:14:57,139
+do with it so you're not in a great
+
+420
+00:14:55,070 --> 00:14:58,520
+bargaining position and then if you get
+
+421
+00:14:57,139 --> 00:15:00,049
+venture capitalists involved they'll
+
+422
+00:14:58,519 --> 00:15:01,460
+take another big chunk and maybe if
+
+423
+00:15:00,049 --> 00:15:03,589
+they're not very straight with you
+
+424
+00:15:01,460 --> 00:15:04,970
+they'll just throw you out because maybe
+
+425
+00:15:03,590 --> 00:15:06,470
+by that point in the company's
+
+426
+00:15:04,970 --> 00:15:07,670
+development you're nothing but a pain in
+
+427
+00:15:06,470 --> 00:15:10,129
+the neck because what do you know about
+
+428
+00:15:07,669 --> 00:15:12,469
+marketing and sales and customer service
+
+429
+00:15:10,129 --> 00:15:14,210
+and building an organization and running
+
+430
+00:15:12,470 --> 00:15:17,029
+a business like you don't have a clue so
+
+431
+00:15:14,210 --> 00:15:19,670
+why do they need you so even if you're
+
+432
+00:15:17,029 --> 00:15:21,409
+successful at generating a new idea and
+
+433
+00:15:19,669 --> 00:15:23,299
+you put it into a business the
+
+434
+00:15:21,409 --> 00:15:25,429
+probability that you as the originator
+
+435
+00:15:23,299 --> 00:15:28,399
+of the of the idea are going to make
+
+436
+00:15:25,429 --> 00:15:29,989
+some money from it is very very low so
+
+437
+00:15:28,399 --> 00:15:31,970
+don't be thinking that creativity is
+
+438
+00:15:29,990 --> 00:15:35,000
+such a is such a something you would
+
+439
+00:15:31,970 --> 00:15:37,070
+want to curse yourself with now you know
+
+440
+00:15:35,000 --> 00:15:39,019
+it's not all bad because it opens up
+
+441
+00:15:37,070 --> 00:15:40,400
+avenues of experience for creative
+
+442
+00:15:39,019 --> 00:15:42,379
+people that aren't available to people
+
+443
+00:15:40,399 --> 00:15:44,809
+who aren't creative but it definitely is
+
+444
+00:15:42,379 --> 00:15:46,399
+a high-risk high-return strategy you
+
+445
+00:15:44,809 --> 00:15:49,338
+know so the overwhelming
+
+446
+00:15:46,399 --> 00:15:50,990
+probability is that you will fail but a
+
+447
+00:15:49,339 --> 00:15:55,040
+small proportion of creative people
+
+448
+00:15:50,990 --> 00:15:57,019
+succeed spectacularly and so it's like a
+
+449
+00:15:55,039 --> 00:15:58,730
+lottery in some sense you're probably
+
+450
+00:15:57,019 --> 00:16:00,649
+going to lose but if you don't lose you
+
+451
+00:15:58,730 --> 00:16:02,360
+could win big and that keeps a lot of
+
+452
+00:16:00,649 --> 00:16:03,649
+creative people going but also they
+
+453
+00:16:02,360 --> 00:16:05,028
+don't really have much choice in it
+
+454
+00:16:03,649 --> 00:16:08,059
+because if you're a creative person
+
+455
+00:16:05,028 --> 00:16:09,769
+you're like a fruit tree that's that's
+
+456
+00:16:08,059 --> 00:16:11,869
+bearing fruit so you don't really have
+
+457
+00:16:09,769 --> 00:16:13,850
+you can suppress it but it's very bad
+
+458
+00:16:11,870 --> 00:16:15,139
+for you you know the creative people
+
+459
+00:16:13,850 --> 00:16:17,269
+I've worked with is if they're not
+
+460
+00:16:15,139 --> 00:16:20,449
+creative they're miserable so they have
+
+461
+00:16:17,269 --> 00:16:22,669
+to do it but and and you know there's
+
+462
+00:16:20,450 --> 00:16:25,520
+real joy and pleasure in it and and the
+
+463
+00:16:22,669 --> 00:16:27,439
+end and and and psychological utility
+
+464
+00:16:25,519 --> 00:16:29,509
+but that doesn't necessarily mean that
+
+465
+00:16:27,440 --> 00:16:31,370
+it's an intelligent it's certainly not a
+
+466
+00:16:29,509 --> 00:16:34,460
+conservative strategy for moving forward
+
+467
+00:16:31,370 --> 00:16:36,080
+through life so and you know whenever I
+
+468
+00:16:34,460 --> 00:16:37,580
+talk to people who are creative and you
+
+469
+00:16:36,080 --> 00:16:39,139
+guys should listen to this because I
+
+470
+00:16:37,580 --> 00:16:40,490
+know what I'm talking about if you
+
+471
+00:16:39,139 --> 00:16:42,559
+happen to be creative if you're a
+
+472
+00:16:40,490 --> 00:16:45,230
+songwriter or another kind of musician
+
+473
+00:16:42,559 --> 00:16:47,838
+or an artist or or any of the other
+
+474
+00:16:45,230 --> 00:16:50,509
+number of things that you might be find
+
+475
+00:16:47,839 --> 00:16:52,940
+a way to make money and then practice
+
+476
+00:16:50,509 --> 00:16:55,580
+your craft on the side because you will
+
+477
+00:16:52,940 --> 00:16:57,020
+starve to death otherwise now some for
+
+478
+00:16:55,580 --> 00:16:59,330
+some of you that won't be true but it's
+
+479
+00:16:57,019 --> 00:17:00,708
+a tiny minority your best bet is to find
+
+480
+00:16:59,330 --> 00:17:03,170
+a job that will keep body and soul
+
+481
+00:17:00,708 --> 00:17:05,029
+together and parse off some time that
+
+482
+00:17:03,169 --> 00:17:07,250
+you can pursue your creative things
+
+483
+00:17:05,029 --> 00:17:08,539
+because then well as a long-term
+
+484
+00:17:07,250 --> 00:17:10,549
+strategy you medium to long term
+
+485
+00:17:08,539 --> 00:17:11,959
+strategy it's a better one but it's got
+
+486
+00:17:10,549 --> 00:17:14,178
+incredibly difficult for people
+
+487
+00:17:11,959 --> 00:17:16,519
+musicians for example it's incredibly
+
+488
+00:17:14,179 --> 00:17:18,559
+difficult for new musicians to monetize
+
+489
+00:17:16,519 --> 00:17:19,400
+their their craft even if they're really
+
+490
+00:17:18,558 --> 00:17:22,818
+really good at it
+
+491
+00:17:19,400 --> 00:17:25,189
+so it's it's well so anyway so don't be
+
+492
+00:17:22,818 --> 00:17:26,509
+so I say well everyone's not everyone's
+
+493
+00:17:25,189 --> 00:17:27,980
+not creative and everybody goes oh
+
+494
+00:17:26,509 --> 00:17:29,599
+that's terrible it's like it's not so
+
+495
+00:17:27,980 --> 00:17:30,950
+terrible it's not something it's not
+
+496
+00:17:29,599 --> 00:17:32,629
+self-evident that you would curse
+
+497
+00:17:30,950 --> 00:17:36,289
+someone with high levels of creativity
+
+498
+00:17:32,630 --> 00:17:38,030
+so alright so here's how our creative
+
+499
+00:17:36,289 --> 00:17:40,428
+achievement questionnaire works what we
+
+500
+00:17:38,029 --> 00:17:42,799
+did essentially was we thought up how
+
+501
+00:17:40,429 --> 00:17:45,500
+many domains there are in which you
+
+502
+00:17:42,799 --> 00:17:46,669
+might be creative and this is remember
+
+503
+00:17:45,500 --> 00:17:48,109
+when you're designing a questionnaire
+
+504
+00:17:46,670 --> 00:17:49,580
+you want to be over-inclusive because
+
+505
+00:17:48,109 --> 00:17:51,709
+the statistics will take care of it
+
+506
+00:17:49,579 --> 00:17:55,789
+right so you can you can take a big area
+
+507
+00:17:51,710 --> 00:17:58,190
+of potential you can take a large area
+
+508
+00:17:55,789 --> 00:18:00,119
+and aim your questionnaire at it and you
+
+509
+00:17:58,190 --> 00:18:02,490
+can do statistics post talk to see
+
+510
+00:18:00,119 --> 00:18:03,750
+you're covering the area if if the
+
+511
+00:18:02,490 --> 00:18:05,579
+things that you're measuring are nicely
+
+512
+00:18:03,750 --> 00:18:06,929
+correlated they're this you know there's
+
+513
+00:18:05,579 --> 00:18:08,579
+something about them that's similar if
+
+514
+00:18:06,929 --> 00:18:10,048
+they're not correlated then maybe you're
+
+515
+00:18:08,579 --> 00:18:11,548
+measuring two different things and you
+
+516
+00:18:10,048 --> 00:18:13,589
+can get rid of one of them that's fine
+
+517
+00:18:11,548 --> 00:18:15,960
+so we did start with a pretty wide range
+
+518
+00:18:13,589 --> 00:18:18,569
+we thought okay well what domains can
+
+519
+00:18:15,960 --> 00:18:21,120
+you be creative in visual arts painting
+
+520
+00:18:18,569 --> 00:18:22,500
+and sculpture then we had experts sort
+
+521
+00:18:21,119 --> 00:18:24,928
+of rank order levels of achievement
+
+522
+00:18:22,500 --> 00:18:27,298
+within those domains and so if you are a
+
+523
+00:18:24,929 --> 00:18:29,009
+painter you can 0 gives you I have no
+
+524
+00:18:27,298 --> 00:18:30,750
+training or recognised talent in this
+
+525
+00:18:29,009 --> 00:18:34,169
+area okay so you really want to keep an
+
+526
+00:18:30,750 --> 00:18:36,000
+eye on the zeros alright so then I have
+
+527
+00:18:34,169 --> 00:18:38,549
+taken lessons people have commented on
+
+528
+00:18:36,000 --> 00:18:40,470
+my talents I have won a prize my work is
+
+529
+00:18:38,548 --> 00:18:43,490
+being critiqued in national publications
+
+530
+00:18:40,470 --> 00:18:45,690
+all right so you get you get you get
+
+531
+00:18:43,490 --> 00:18:47,819
+zero to seven points but you can
+
+532
+00:18:45,690 --> 00:18:50,100
+indicate more than no maybe that's
+
+533
+00:18:47,819 --> 00:18:52,129
+happened to you more than once so and
+
+534
+00:18:50,099 --> 00:18:55,379
+what happens this is interesting is that
+
+535
+00:18:52,130 --> 00:18:57,059
+higher you are up in this hierarchy the
+
+536
+00:18:55,380 --> 00:18:58,440
+more likely it is that those things have
+
+537
+00:18:57,058 --> 00:19:00,389
+happened to you more than once and
+
+538
+00:18:58,440 --> 00:19:02,250
+that's that's another example of this
+
+539
+00:19:00,390 --> 00:19:05,669
+weird thing called the Pareto principle
+
+540
+00:19:02,250 --> 00:19:07,589
+or Prices law which is that it's sort of
+
+541
+00:19:05,669 --> 00:19:09,090
+good things happen to you the
+
+542
+00:19:07,589 --> 00:19:11,730
+probability that more good things will
+
+543
+00:19:09,089 --> 00:19:13,199
+happen increases right so because once
+
+544
+00:19:11,730 --> 00:19:14,460
+you're famous people give you all sorts
+
+545
+00:19:13,200 --> 00:19:17,069
+of opportunities to do other things
+
+546
+00:19:14,460 --> 00:19:19,470
+right so your your your success doesn't
+
+547
+00:19:17,069 --> 00:19:22,740
+go like this goes like this zero zero
+
+548
+00:19:19,470 --> 00:19:24,778
+zero skyrocket that's how it works but
+
+549
+00:19:22,740 --> 00:19:27,028
+getting from zero getting from zero to
+
+550
+00:19:24,778 --> 00:19:28,589
+one if you're starting a business the
+
+551
+00:19:27,028 --> 00:19:30,000
+hardest customer you'll ever get is your
+
+552
+00:19:28,589 --> 00:19:31,379
+first one and then the second hardest
+
+553
+00:19:30,000 --> 00:19:33,119
+one will be your second one it's
+
+554
+00:19:31,380 --> 00:19:34,649
+virtually impossible to get a first
+
+555
+00:19:33,119 --> 00:19:36,178
+customer because they're going to say to
+
+556
+00:19:34,648 --> 00:19:37,229
+you first of all you're going to be
+
+557
+00:19:36,179 --> 00:19:39,538
+selling to people who are basically
+
+558
+00:19:37,230 --> 00:19:41,250
+conservative and there aren't going to
+
+559
+00:19:39,538 --> 00:19:43,558
+be evaluate they're not going to be
+
+560
+00:19:41,250 --> 00:19:45,058
+willing or able to evaluate whether your
+
+561
+00:19:43,558 --> 00:19:46,379
+damn product is good for anything and so
+
+562
+00:19:45,058 --> 00:19:48,599
+they'll say well who are your other
+
+563
+00:19:46,380 --> 00:19:50,370
+customers and if your answer to that is
+
+564
+00:19:48,599 --> 00:19:51,869
+well we don't have any it's like well
+
+565
+00:19:50,369 --> 00:19:54,449
+then what they're going to be the first
+
+566
+00:19:51,869 --> 00:19:55,589
+one no because people don't stick their
+
+567
+00:19:54,450 --> 00:19:58,558
+necks out at all
+
+568
+00:19:55,589 --> 00:20:00,629
+not a bit ever and so unless you're well
+
+569
+00:19:58,558 --> 00:20:01,918
+established in the market especially if
+
+570
+00:20:00,630 --> 00:20:03,390
+you're dealing with a big company you
+
+571
+00:20:01,919 --> 00:20:06,149
+can just bloody well forget it it's like
+
+572
+00:20:03,390 --> 00:20:08,100
+a three year sales cycle anyways it's
+
+573
+00:20:06,148 --> 00:20:09,750
+RIT because big corporations move very
+
+574
+00:20:08,099 --> 00:20:11,279
+very slowly and you might be able to
+
+575
+00:20:09,750 --> 00:20:12,720
+find a small company that doesn't have
+
+576
+00:20:11,279 --> 00:20:13,259
+much money who would be willing to use
+
+577
+00:20:12,720 --> 00:20:15,120
+your stoop
+
+578
+00:20:13,259 --> 00:20:16,980
+product for nothing if you're really
+
+579
+00:20:15,119 --> 00:20:20,219
+nice to them and you get one customer
+
+580
+00:20:16,980 --> 00:20:22,650
+that way it's very very difficult and so
+
+581
+00:20:20,220 --> 00:20:24,029
+you'll you'll end up you know and what
+
+582
+00:20:22,650 --> 00:20:26,460
+do you think the royalty just out of
+
+583
+00:20:24,029 --> 00:20:28,109
+curiosity so I've written a book it's
+
+584
+00:20:26,460 --> 00:20:29,910
+going to be published by penguin Random
+
+585
+00:20:28,109 --> 00:20:31,409
+House and in January what do you think
+
+586
+00:20:29,910 --> 00:20:33,840
+the royalty is for an author on a book
+
+587
+00:20:31,410 --> 00:20:35,370
+so you make something creative you get a
+
+588
+00:20:33,839 --> 00:20:38,299
+percentage of the sale what do you think
+
+589
+00:20:35,369 --> 00:20:43,049
+the percentage is just out of curiosity
+
+590
+00:20:38,299 --> 00:20:45,450
+guess yeah it's like 5% so think about
+
+591
+00:20:43,049 --> 00:20:47,819
+that so that means that you make your
+
+592
+00:20:45,450 --> 00:20:49,170
+thing and 95% of it belongs to someone
+
+593
+00:20:47,819 --> 00:20:50,849
+else and that's that things are going
+
+594
+00:20:49,170 --> 00:20:52,350
+quite well for you and it doesn't really
+
+595
+00:20:50,849 --> 00:20:54,689
+matter what you manufacture or produce
+
+596
+00:20:52,349 --> 00:20:57,359
+that's about what you can expect sales
+
+597
+00:20:54,690 --> 00:21:00,480
+marketing distribution it eats it all up
+
+598
+00:20:57,359 --> 00:21:01,859
+so us all well anyways you need to know
+
+599
+00:21:00,480 --> 00:21:03,089
+these things because they're not
+
+600
+00:21:01,859 --> 00:21:07,009
+self-evident okay
+
+601
+00:21:03,089 --> 00:21:09,329
+so seems to be working all by itself
+
+602
+00:21:07,009 --> 00:21:11,220
+all right so let's take a look well how
+
+603
+00:21:09,329 --> 00:21:13,109
+else can you have creative achievement
+
+604
+00:21:11,220 --> 00:21:15,180
+well you can be a musician I have no
+
+605
+00:21:13,109 --> 00:21:16,589
+training or recognize Talent recordings
+
+606
+00:21:15,180 --> 00:21:18,390
+of my composition have been sold
+
+607
+00:21:16,589 --> 00:21:19,919
+publicly that's the top end my
+
+608
+00:21:18,390 --> 00:21:22,110
+composition has been copyrighted
+
+609
+00:21:19,920 --> 00:21:24,210
+recorded critiqued in local population
+
+610
+00:21:22,109 --> 00:21:26,789
+publication I have composed an original
+
+611
+00:21:24,210 --> 00:21:27,990
+piece of music well let's try this how
+
+612
+00:21:26,789 --> 00:21:31,259
+many of you have composed an original
+
+613
+00:21:27,990 --> 00:21:32,579
+piece of music wow there's lots of
+
+614
+00:21:31,259 --> 00:21:34,799
+creative people in here that's very
+
+615
+00:21:32,579 --> 00:21:37,289
+impressive so there must be 10 or 11
+
+616
+00:21:34,799 --> 00:21:40,349
+people in here oh that's cool so how
+
+617
+00:21:37,289 --> 00:21:43,920
+about your coffees composition has been
+
+618
+00:21:40,349 --> 00:21:46,169
+copyrighted how about it's been the
+
+619
+00:21:43,920 --> 00:21:51,060
+recordings have been sold publicly and
+
+620
+00:21:46,170 --> 00:21:52,890
+actually sold how many people - two okay
+
+621
+00:21:51,059 --> 00:21:54,629
+well so what you can see is there's a
+
+622
+00:21:52,890 --> 00:21:56,700
+rapid drop-off in the number of people
+
+623
+00:21:54,630 --> 00:21:58,500
+who say yes how many of you fit into
+
+624
+00:21:56,700 --> 00:22:02,340
+category zero I have no training a
+
+625
+00:21:58,500 --> 00:22:05,009
+recognised talent in this area yeah okay
+
+626
+00:22:02,339 --> 00:22:07,230
+okay zero is the median score on all of
+
+627
+00:22:05,009 --> 00:22:09,180
+these median is the score that's the
+
+628
+00:22:07,230 --> 00:22:11,069
+most likely for people to have or it's
+
+629
+00:22:09,180 --> 00:22:13,140
+different than the mean median score is
+
+630
+00:22:11,069 --> 00:22:14,279
+zero so what's the median score and the
+
+631
+00:22:13,140 --> 00:22:18,150
+entire creative achievement
+
+632
+00:22:14,279 --> 00:22:20,099
+questionnaire zero you you add up all
+
+633
+00:22:18,150 --> 00:22:23,100
+over all thirteen domains the most
+
+634
+00:22:20,099 --> 00:22:25,859
+difficult score is zero so that's how
+
+635
+00:22:23,099 --> 00:22:27,009
+creative people are there's zero
+
+636
+00:22:25,859 --> 00:22:31,449
+creative
+
+637
+00:22:27,009 --> 00:22:37,930
+at all yes everybody has a certain
+
+638
+00:22:31,450 --> 00:22:39,850
+degree not really creative well the
+
+639
+00:22:37,930 --> 00:22:42,100
+thing is you could say that people have
+
+640
+00:22:39,849 --> 00:22:44,109
+people all people are creative and that
+
+641
+00:22:42,099 --> 00:22:45,279
+all people can generate ideas but the
+
+642
+00:22:44,109 --> 00:22:46,659
+issue isn't whether or not you can
+
+643
+00:22:45,279 --> 00:22:48,190
+generate ideas it's whether or not you
+
+644
+00:22:46,660 --> 00:22:49,420
+can generate ideas that are different
+
+645
+00:22:48,190 --> 00:22:51,190
+from the ideas that other people
+
+646
+00:22:49,420 --> 00:22:53,320
+generate that's the critical issue
+
+647
+00:22:51,190 --> 00:22:55,750
+because it mean it depends on how you
+
+648
+00:22:53,319 --> 00:22:57,909
+define it you could you well the novelty
+
+649
+00:22:55,750 --> 00:22:59,289
+is a huge part of it but that's that's
+
+650
+00:22:57,910 --> 00:23:00,910
+sort of built into the definition of
+
+651
+00:22:59,289 --> 00:23:03,339
+creative it has to be novel and useful
+
+652
+00:23:00,910 --> 00:23:04,930
+and if your idea that you generate is
+
+653
+00:23:03,339 --> 00:23:06,879
+the same as the idea that a bunch of
+
+654
+00:23:04,930 --> 00:23:08,650
+other people have it's not it's an idea
+
+655
+00:23:06,880 --> 00:23:10,660
+fair enough and if you define creativity
+
+656
+00:23:08,650 --> 00:23:12,009
+that way then everyone's creative but
+
+657
+00:23:10,660 --> 00:23:14,290
+it's a foolish way of defining
+
+658
+00:23:12,009 --> 00:23:16,809
+creativity because everyone does it and
+
+659
+00:23:14,289 --> 00:23:22,509
+and we know that there has to be
+
+660
+00:23:16,809 --> 00:23:25,839
+something novel about creativity useful
+
+661
+00:23:22,509 --> 00:23:28,569
+idea today the Integra's all seem to be
+
+662
+00:23:25,839 --> 00:23:31,659
+artistic and well as requiring specific
+
+663
+00:23:28,569 --> 00:23:38,169
+non-creative skills for example music
+
+664
+00:23:31,660 --> 00:23:40,750
+and require yeah are there ways to be
+
+665
+00:23:38,170 --> 00:23:42,130
+creative outside there well let's go
+
+666
+00:23:40,750 --> 00:23:44,559
+through the rest of the domains because
+
+667
+00:23:42,130 --> 00:23:46,480
+we did include domains that aren't that
+
+668
+00:23:44,559 --> 00:23:48,669
+aren't artistic and yes there are
+
+669
+00:23:46,480 --> 00:23:51,069
+engineering is a good example of that or
+
+670
+00:23:48,670 --> 00:23:52,900
+writing nonfiction that those things
+
+671
+00:23:51,069 --> 00:23:55,149
+tend to tilt more in the intellect
+
+672
+00:23:52,900 --> 00:23:57,400
+direction but I'm concentrating most
+
+673
+00:23:55,150 --> 00:23:59,410
+particularly here on sort of creativity
+
+674
+00:23:57,400 --> 00:24:04,090
+that would be associated with openness
+
+675
+00:23:59,410 --> 00:24:05,710
+so yeah okay so dance well it's roughly
+
+676
+00:24:04,089 --> 00:24:07,720
+the same as music so we won't we won't
+
+677
+00:24:05,710 --> 00:24:10,600
+move forward into that architectural
+
+678
+00:24:07,720 --> 00:24:12,339
+design my architectural design my
+
+679
+00:24:10,599 --> 00:24:13,869
+architectural design has been recognized
+
+680
+00:24:12,339 --> 00:24:15,309
+in the national publication Creative
+
+681
+00:24:13,869 --> 00:24:18,129
+Writing my work has been reviewed in
+
+682
+00:24:15,309 --> 00:24:20,769
+national publications million books sold
+
+683
+00:24:18,130 --> 00:24:23,530
+last year 250 of them sold more than
+
+684
+00:24:20,769 --> 00:24:26,049
+100,000 copies right so that's another
+
+685
+00:24:23,529 --> 00:24:28,450
+that's another example of high risk high
+
+686
+00:24:26,049 --> 00:24:30,639
+returns so probably you won't write a
+
+687
+00:24:28,450 --> 00:24:33,250
+book if you write a book probably no one
+
+688
+00:24:30,640 --> 00:24:35,230
+will publish it if you publish it almost
+
+689
+00:24:33,250 --> 00:24:37,509
+certainly no one will buy it
+
+690
+00:24:35,230 --> 00:24:39,490
+so you see you see what I mean there's
+
+691
+00:24:37,509 --> 00:24:40,750
+exclusion the exclusion criteria there
+
+692
+00:24:39,490 --> 00:24:43,419
+are so there's so
+
+693
+00:24:40,750 --> 00:24:44,798
+thoroughly they're so difficult because
+
+694
+00:24:43,419 --> 00:24:47,049
+it's very difficult to write a book even
+
+695
+00:24:44,798 --> 00:24:49,720
+a bad one you have to work a long time
+
+696
+00:24:47,048 --> 00:24:51,668
+to write a bad book and then your book
+
+697
+00:24:49,720 --> 00:24:53,558
+has to be pretty damn good before you're
+
+698
+00:24:51,669 --> 00:24:55,210
+going to get it published and and you
+
+699
+00:24:53,558 --> 00:24:56,950
+also have to know about know how to go
+
+700
+00:24:55,210 --> 00:24:58,690
+about getting it published that's also
+
+701
+00:24:56,950 --> 00:25:00,400
+you don't send a book to a publisher by
+
+702
+00:24:58,690 --> 00:25:03,429
+the way they don't want your stupid book
+
+703
+00:25:00,400 --> 00:25:05,620
+they want a summary of the book they
+
+704
+00:25:03,429 --> 00:25:07,480
+want an outline of the book they want
+
+705
+00:25:05,619 --> 00:25:08,979
+three chapters of the book they want to
+
+706
+00:25:07,480 --> 00:25:10,630
+know who the hell you are and why anyone
+
+707
+00:25:08,980 --> 00:25:13,000
+should listen to you they want to know
+
+708
+00:25:10,630 --> 00:25:15,309
+what other books your book is like and
+
+709
+00:25:13,000 --> 00:25:17,259
+most importantly perhaps they want to
+
+710
+00:25:15,308 --> 00:25:19,450
+know where it would sit in a bookshelf
+
+711
+00:25:17,259 --> 00:25:21,788
+in a bookstore and the reason for that
+
+712
+00:25:19,450 --> 00:25:23,440
+is that and I have trouble this is
+
+713
+00:25:21,788 --> 00:25:25,179
+trouble with the books that I write is
+
+714
+00:25:23,440 --> 00:25:26,710
+no one was where to put them that's a
+
+715
+00:25:25,179 --> 00:25:28,090
+big problem because then the marketing
+
+716
+00:25:26,710 --> 00:25:29,319
+people don't know how to market them and
+
+717
+00:25:28,089 --> 00:25:31,149
+maybe that's because they're more
+
+718
+00:25:29,319 --> 00:25:32,619
+creative than usual it doesn't matter if
+
+719
+00:25:31,150 --> 00:25:34,480
+there isn't a place that you can put the
+
+720
+00:25:32,619 --> 00:25:36,099
+book where people can find it then
+
+721
+00:25:34,480 --> 00:25:37,630
+you're not going to publish it and even
+
+722
+00:25:36,099 --> 00:25:39,399
+if you do you can't sell it because no
+
+723
+00:25:37,630 --> 00:25:40,960
+one can find it so you just think about
+
+724
+00:25:39,400 --> 00:25:42,850
+the difficulties and being a successful
+
+725
+00:25:40,960 --> 00:25:45,220
+author you're not going to write a book
+
+726
+00:25:42,849 --> 00:25:46,538
+it's too hard there's no damn way you're
+
+727
+00:25:45,220 --> 00:25:47,620
+going to get it published and if you do
+
+728
+00:25:46,538 --> 00:25:49,480
+it probably won't be a very good
+
+729
+00:25:47,619 --> 00:25:51,189
+publisher then they have to do a really
+
+730
+00:25:49,480 --> 00:25:53,980
+good job of selling it and marketing it
+
+731
+00:25:51,190 --> 00:25:56,558
+then you have to enter the market at the
+
+732
+00:25:53,980 --> 00:25:58,150
+right time right and then you have to be
+
+733
+00:25:56,558 --> 00:25:59,889
+reviewed by the right people and then it
+
+734
+00:25:58,150 --> 00:26:01,929
+has to be put in the right places it's
+
+735
+00:25:59,890 --> 00:26:03,880
+like most what happens is your book will
+
+736
+00:26:01,929 --> 00:26:05,530
+go out for a week no one will buy it and
+
+737
+00:26:03,880 --> 00:26:10,870
+it'll disappear and that's if you've
+
+738
+00:26:05,529 --> 00:26:14,168
+done 99.99% of things right so okay
+
+739
+00:26:10,869 --> 00:26:15,548
+creative writing our humor my humor has
+
+740
+00:26:14,169 --> 00:26:17,049
+been recognized in a national
+
+741
+00:26:15,548 --> 00:26:18,668
+publication that's at the top and I've
+
+742
+00:26:17,048 --> 00:26:20,048
+written a joke or cartoon that has been
+
+743
+00:26:18,669 --> 00:26:22,000
+published I've written jokes for other
+
+744
+00:26:20,048 --> 00:26:24,730
+people I've worked as a professional
+
+745
+00:26:22,000 --> 00:26:26,650
+comedian inventions I regularly find
+
+746
+00:26:24,730 --> 00:26:28,298
+novel uses for household objects I've
+
+747
+00:26:26,650 --> 00:26:30,220
+built a prototype of one of my designed
+
+748
+00:26:28,298 --> 00:26:31,900
+inventions I've sold one of my
+
+749
+00:26:30,220 --> 00:26:33,640
+inventions to people I know has anyone
+
+750
+00:26:31,900 --> 00:26:41,230
+in here built a prototype of a designed
+
+751
+00:26:33,640 --> 00:26:44,309
+invention no one okay has anyone in here
+
+752
+00:26:41,230 --> 00:26:48,909
+created original software for a computer
+
+753
+00:26:44,308 --> 00:26:51,940
+one to three people yes three people how
+
+754
+00:26:48,909 --> 00:26:54,700
+about I've sketched out an invention and
+
+755
+00:26:51,940 --> 00:26:58,090
+worked on design flaws how many people
+
+756
+00:26:54,700 --> 00:26:59,889
+so maybe two or three yeah I mean if
+
+757
+00:26:58,089 --> 00:27:01,329
+this was an engineering class and all
+
+758
+00:26:59,888 --> 00:27:03,248
+likelihood there would be more people in
+
+759
+00:27:01,329 --> 00:27:05,230
+not telling but that this is more in the
+
+760
+00:27:03,249 --> 00:27:07,118
+domain it's not the exactly the artsy
+
+761
+00:27:05,230 --> 00:27:09,849
+end of the creativity distribution it's
+
+762
+00:27:07,118 --> 00:27:11,709
+more on the ideas and and mechanical end
+
+763
+00:27:09,849 --> 00:27:13,888
+of it and and and that's a reasonable
+
+764
+00:27:11,710 --> 00:27:17,829
+way of thinking about it I would say so
+
+765
+00:27:13,888 --> 00:27:19,388
+um scientific discovery I do not have
+
+766
+00:27:17,829 --> 00:27:21,759
+training or recognizability in this
+
+767
+00:27:19,388 --> 00:27:23,349
+field I received a scholarship based on
+
+768
+00:27:21,759 --> 00:27:24,970
+my work in science or medicine how many
+
+769
+00:27:23,349 --> 00:27:27,839
+people have received a scholarship based
+
+770
+00:27:24,970 --> 00:27:30,190
+in their work on science and medicine
+
+771
+00:27:27,839 --> 00:27:31,898
+okay nobody so we don't have anybody
+
+772
+00:27:30,190 --> 00:27:33,159
+that goes up that high I've won a prize
+
+773
+00:27:31,898 --> 00:27:36,579
+at a science fair or other local
+
+774
+00:27:33,159 --> 00:27:38,679
+competition anybody there yes there's
+
+775
+00:27:36,579 --> 00:27:40,239
+maybe two or three four people there so
+
+776
+00:27:38,679 --> 00:27:45,340
+that means we've got four people in the
+
+777
+00:27:40,239 --> 00:27:47,350
+class of about 150 who hit the third the
+
+778
+00:27:45,339 --> 00:27:49,209
+second level of scientific discovery
+
+779
+00:27:47,349 --> 00:27:51,009
+anybody received a grant to pursue their
+
+780
+00:27:49,210 --> 00:27:52,450
+work in science and medicine its highly
+
+781
+00:27:51,009 --> 00:27:54,788
+unlikely you guys are mostly too young
+
+782
+00:27:52,450 --> 00:27:59,440
+to have had that happen to you okay
+
+783
+00:27:54,788 --> 00:28:01,480
+so theater and film anybody who's at how
+
+784
+00:27:59,440 --> 00:28:04,600
+many people have performed in theater or
+
+785
+00:28:01,480 --> 00:28:06,429
+film oh yeah your Narsee bunchy so my
+
+786
+00:28:04,599 --> 00:28:07,898
+acting abilities have been recognized in
+
+787
+00:28:06,429 --> 00:28:09,210
+local publication how many people for
+
+788
+00:28:07,898 --> 00:28:11,618
+that one
+
+789
+00:28:09,210 --> 00:28:13,358
+that's it anybody higher than that I
+
+790
+00:28:11,618 --> 00:28:14,138
+have directed or produced a theater or
+
+791
+00:28:13,358 --> 00:28:18,939
+film production
+
+792
+00:28:14,138 --> 00:28:23,258
+one two I've been paid there's a good
+
+793
+00:28:18,940 --> 00:28:26,710
+one I have been paid to pit one two two
+
+794
+00:28:23,259 --> 00:28:29,349
+okay my theatrical work has been paid to
+
+795
+00:28:26,710 --> 00:28:33,879
+direct the theater film production ha
+
+796
+00:28:29,349 --> 00:28:35,439
+got you there so you've done that Hey
+
+797
+00:28:33,878 --> 00:28:39,398
+congratulations you're way the hell up
+
+798
+00:28:35,440 --> 00:28:42,090
+on the list right right right right hard
+
+799
+00:28:39,398 --> 00:28:45,518
+to monetize how many films did you make
+
+800
+00:28:42,089 --> 00:28:51,519
+you made poor did you make any money oh
+
+801
+00:28:45,519 --> 00:29:01,558
+you did well congratulations yeah yeah
+
+802
+00:28:51,519 --> 00:29:01,558
+yeah well that's about yeah
+
+803
+00:29:01,970 --> 00:29:06,870
+yeah calab recruiter and then also
+
+804
+00:29:04,349 --> 00:29:08,009
+piracy got really bad right yeah well
+
+805
+00:29:06,869 --> 00:29:09,029
+that's one of the big problems with
+
+806
+00:29:08,009 --> 00:29:13,890
+anything that can be distributed
+
+807
+00:29:09,029 --> 00:29:16,139
+digitally it's like yeah yeah yeah I rat
+
+808
+00:29:13,890 --> 00:29:19,650
+right timing is everything and that's
+
+809
+00:29:16,140 --> 00:29:21,299
+it's actually well that's that's another
+
+810
+00:29:19,650 --> 00:29:23,370
+one of the terrible cut offs is that not
+
+811
+00:29:21,298 --> 00:29:24,900
+only do you have to be right and have
+
+812
+00:29:23,369 --> 00:29:26,308
+yourself together and produce the proper
+
+813
+00:29:24,900 --> 00:29:27,870
+thing but the market has to open it's
+
+814
+00:29:26,308 --> 00:29:29,668
+exactly that moment so that you can walk
+
+815
+00:29:27,869 --> 00:29:31,199
+through there has to be a demand so
+
+816
+00:29:29,669 --> 00:29:33,360
+people won't buy anything that they
+
+817
+00:29:31,200 --> 00:29:35,220
+don't have a crying need for because
+
+818
+00:29:33,359 --> 00:29:36,839
+they have priority say it's imagine
+
+819
+00:29:35,220 --> 00:29:38,548
+everybody has ten priorities and ten
+
+820
+00:29:36,839 --> 00:29:40,349
+number ten is important but no one ever
+
+821
+00:29:38,548 --> 00:29:42,240
+does it and number eight is important
+
+822
+00:29:40,349 --> 00:29:43,980
+that no one ever does it and so you have
+
+823
+00:29:42,240 --> 00:29:46,169
+to go talk to someone to buy what you
+
+824
+00:29:43,980 --> 00:29:47,548
+have and that has to be priority one or
+
+825
+00:29:46,169 --> 00:29:49,020
+two for them because they'll say oh
+
+826
+00:29:47,548 --> 00:29:50,369
+that's good we really need it but it's
+
+827
+00:29:49,019 --> 00:29:51,779
+priority eight it's like forget it
+
+828
+00:29:50,369 --> 00:29:53,308
+they'll never buy your thing because
+
+829
+00:29:51,779 --> 00:29:54,750
+they never get to priority eight on
+
+830
+00:29:53,308 --> 00:29:57,480
+their list of ten priorities they only
+
+831
+00:29:54,750 --> 00:29:58,380
+get down to like priority four so and
+
+832
+00:29:57,480 --> 00:29:59,940
+then the other thing that will happen
+
+833
+00:29:58,380 --> 00:30:01,770
+too is if you go up try to sell your
+
+834
+00:29:59,940 --> 00:30:03,269
+product you won't know who to talk to
+
+835
+00:30:01,769 --> 00:30:04,769
+and you'll end up spending ninety five
+
+836
+00:30:03,269 --> 00:30:07,139
+percent of your time this is especially
+
+837
+00:30:04,769 --> 00:30:09,929
+true in companies with the people who
+
+838
+00:30:07,140 --> 00:30:10,980
+will talk to you right obviously but
+
+839
+00:30:09,929 --> 00:30:12,330
+those aren't the people who ever make
+
+840
+00:30:10,980 --> 00:30:14,130
+any decisions so they'll tell you all
+
+841
+00:30:12,329 --> 00:30:15,418
+sorts of good things about your product
+
+842
+00:30:14,130 --> 00:30:16,860
+and how interested they are but they'll
+
+843
+00:30:15,419 --> 00:30:19,020
+never buy it because they can't make
+
+844
+00:30:16,859 --> 00:30:20,099
+make decisions and you won't be able to
+
+845
+00:30:19,019 --> 00:30:22,079
+get to the people who make decisions
+
+846
+00:30:20,099 --> 00:30:23,759
+because other people who know how to do
+
+847
+00:30:22,079 --> 00:30:26,418
+that have already got there and that's
+
+848
+00:30:23,759 --> 00:30:29,339
+not you so that's very difficult as well
+
+849
+00:30:26,419 --> 00:30:32,970
+culinary arts my recipes have been
+
+850
+00:30:29,339 --> 00:30:35,189
+published nationally anyone how about I
+
+851
+00:30:32,970 --> 00:30:37,079
+often experiment with rest misses
+
+852
+00:30:35,190 --> 00:30:39,929
+purposeful experimentation right not
+
+853
+00:30:37,079 --> 00:30:42,058
+accidental experimentation yes sorry
+
+854
+00:30:39,929 --> 00:30:45,360
+alright my recipes would be published in
+
+855
+00:30:42,058 --> 00:30:47,069
+the local cookbook anyone know okay okay
+
+856
+00:30:45,359 --> 00:30:49,048
+well you get the you get the point right
+
+857
+00:30:47,069 --> 00:30:50,490
+you see you see how this works it's just
+
+858
+00:30:49,048 --> 00:30:52,950
+well here are ways you can be creative
+
+859
+00:30:50,490 --> 00:30:54,359
+and here are strata of accomplishment
+
+860
+00:30:52,950 --> 00:30:58,340
+within those ways and so then the
+
+861
+00:30:54,359 --> 00:30:58,339
+question is what does it look like yes
+
+862
+00:30:59,659 --> 00:31:05,610
+yes yes yes fair enough and and this
+
+863
+00:31:03,329 --> 00:31:08,339
+probably needs to be updated to reflect
+
+864
+00:31:05,609 --> 00:31:09,509
+that so so there's there's the
+
+865
+00:31:08,339 --> 00:31:11,759
+distribution of scores
+
+866
+00:31:09,509 --> 00:31:13,319
+now that's dismal that's a dismal thing
+
+867
+00:31:11,759 --> 00:31:15,059
+to look at you have to understand that
+
+868
+00:31:13,319 --> 00:31:19,500
+why look at this
+
+869
+00:31:15,059 --> 00:31:21,240
+zero right the median person has not
+
+870
+00:31:19,500 --> 00:31:22,970
+done anything creative ever in their
+
+871
+00:31:21,240 --> 00:31:25,529
+life with anything on any dimension
+
+872
+00:31:22,970 --> 00:31:26,759
+right it's really important to know that
+
+873
+00:31:25,529 --> 00:31:31,200
+and then you have these horrible people
+
+874
+00:31:26,759 --> 00:31:33,779
+out here right they do everything they
+
+875
+00:31:31,200 --> 00:31:35,490
+do everything price is law here's prices
+
+876
+00:31:33,779 --> 00:31:37,440
+law this is something to hammer into
+
+877
+00:31:35,490 --> 00:31:40,460
+your heart the square root of the number
+
+878
+00:31:37,440 --> 00:31:42,900
+of people in a domain do 50% of the work
+
+879
+00:31:40,460 --> 00:31:44,549
+okay so let's go through that you have
+
+880
+00:31:42,900 --> 00:31:47,130
+ten employees three of them do half the
+
+881
+00:31:44,549 --> 00:31:49,680
+work makes sense that's reasonable you
+
+882
+00:31:47,130 --> 00:31:52,410
+have a hundred employees ten of them do
+
+883
+00:31:49,680 --> 00:31:55,289
+half the work that's problem so the
+
+884
+00:31:52,410 --> 00:31:56,820
+other 90% are doing the other half who
+
+885
+00:31:55,289 --> 00:31:59,389
+cares about them you have 10,000
+
+886
+00:31:56,819 --> 00:32:01,740
+employees 100 of them do have to work
+
+887
+00:31:59,390 --> 00:32:04,970
+right so here's that here's a nasty
+
+888
+00:32:01,740 --> 00:32:07,440
+little law as your company grows
+
+889
+00:32:04,970 --> 00:32:10,769
+incompetence grows in it exponentially
+
+890
+00:32:07,440 --> 00:32:12,990
+and confidence grows linearly got it
+
+891
+00:32:10,769 --> 00:32:14,700
+right because it with ten it's three who
+
+892
+00:32:12,990 --> 00:32:16,230
+are doing half the work but at 10,000
+
+893
+00:32:14,700 --> 00:32:17,970
+it's 100 that are doing half the work so
+
+894
+00:32:16,230 --> 00:32:20,009
+nine thousand nine hundred of your
+
+895
+00:32:17,970 --> 00:32:22,440
+employees are doing as much as the best
+
+896
+00:32:20,009 --> 00:32:24,900
+100 you might not even know who the best
+
+897
+00:32:22,440 --> 00:32:27,120
+100 are but probably they know and maybe
+
+898
+00:32:24,900 --> 00:32:28,440
+their peers know too and so one of the
+
+899
+00:32:27,119 --> 00:32:30,269
+things that's really interesting when
+
+900
+00:32:28,440 --> 00:32:32,009
+big companies start to shake which means
+
+901
+00:32:30,269 --> 00:32:33,960
+maybe they've had a bad quarter too bad
+
+902
+00:32:32,009 --> 00:32:36,509
+quarters and the stock price starts to
+
+903
+00:32:33,960 --> 00:32:37,860
+tip down and the people the hot people
+
+904
+00:32:36,509 --> 00:32:39,839
+who have options are not very happy
+
+905
+00:32:37,859 --> 00:32:41,519
+about that and maybe they start to
+
+906
+00:32:39,839 --> 00:32:43,470
+announce layoffs all the hundred people
+
+907
+00:32:41,519 --> 00:32:45,119
+who have opportunities leave and they're
+
+908
+00:32:43,470 --> 00:32:46,650
+the ones who were doing half the work so
+
+909
+00:32:45,119 --> 00:32:48,089
+boy that puts your company in a pretty
+
+910
+00:32:46,650 --> 00:32:50,730
+rough situation because now you've got
+
+911
+00:32:48,089 --> 00:32:52,259
+the ninety nine hundred people left over
+
+912
+00:32:50,730 --> 00:32:54,029
+who we're only doing half the work and
+
+913
+00:32:52,259 --> 00:32:56,519
+the next time you announced layoffs the
+
+914
+00:32:54,029 --> 00:32:58,319
+next most productive hundred leave and
+
+915
+00:32:56,519 --> 00:33:01,700
+so then you're left with nobody who's
+
+916
+00:32:58,319 --> 00:33:04,230
+productive at a massive overhead payroll
+
+917
+00:33:01,700 --> 00:33:06,809
+prices law you can look that up to Sol a
+
+918
+00:33:04,230 --> 00:33:08,490
+price to Sol a price is a guy who is
+
+919
+00:33:06,809 --> 00:33:10,230
+looking at scientific productivity and
+
+920
+00:33:08,490 --> 00:33:12,930
+one of the things he found was when he
+
+921
+00:33:10,230 --> 00:33:15,509
+was looking at PhD students is that the
+
+922
+00:33:12,930 --> 00:33:17,279
+median number of publications for a PhD
+
+923
+00:33:15,509 --> 00:33:21,089
+graduate when he did his work which was
+
+924
+00:33:17,279 --> 00:33:23,190
+in the early 60s was one okay half as
+
+925
+00:33:21,089 --> 00:33:25,500
+many had - half as many as that had
+
+926
+00:33:23,190 --> 00:33:27,210
+three half as many as that had four -
+
+927
+00:33:25,500 --> 00:33:28,859
+real stepped out and one of the
+
+928
+00:33:27,210 --> 00:33:29,850
+corollaries of that is that there's a
+
+929
+00:33:28,859 --> 00:33:31,889
+number of people who are hyper
+
+930
+00:33:29,849 --> 00:33:34,980
+productive and that's these people out
+
+931
+00:33:31,890 --> 00:33:37,020
+here and if you were graphing the
+
+932
+00:33:34,980 --> 00:33:39,509
+distribution let's say you graphed how
+
+933
+00:33:37,019 --> 00:33:41,730
+many people in that population of 300
+
+934
+00:33:39,509 --> 00:33:43,769
+had $10,000 in a savings account it
+
+935
+00:33:41,730 --> 00:33:46,589
+would look very much like this some of
+
+936
+00:33:43,769 --> 00:33:48,298
+them would have are some of some of them
+
+937
+00:33:46,589 --> 00:33:50,819
+would most people would have like no
+
+938
+00:33:48,298 --> 00:33:52,048
+savings whatsoever the median person
+
+939
+00:33:50,819 --> 00:33:54,269
+would have no savings whatsoever and
+
+940
+00:33:52,048 --> 00:33:55,950
+then you go up here where the 1% is they
+
+941
+00:33:54,269 --> 00:33:58,139
+have all the money but the thing you
+
+942
+00:33:55,950 --> 00:33:59,880
+want to understand about that 1% issue
+
+943
+00:33:58,140 --> 00:34:02,820
+that you always hear about is that it
+
+944
+00:33:59,880 --> 00:34:03,900
+applies in every single realm where
+
+945
+00:34:02,819 --> 00:34:06,389
+there's difference in creative
+
+946
+00:34:03,900 --> 00:34:08,190
+production every realm doesn't matter
+
+947
+00:34:06,390 --> 00:34:09,780
+number of Records produce number of
+
+948
+00:34:08,190 --> 00:34:12,628
+records sold number of compositions
+
+949
+00:34:09,780 --> 00:34:15,869
+written so here's here's an example 5
+
+950
+00:34:12,628 --> 00:34:18,659
+composers produce the music that
+
+951
+00:34:15,869 --> 00:34:21,149
+occupies 50% of the classical repertoire
+
+952
+00:34:18,659 --> 00:34:24,179
+by Bach Beethoven Brahms
+
+953
+00:34:21,148 --> 00:34:26,489
+Tchaikovsky who's Mozart that's right
+
+954
+00:34:24,179 --> 00:34:27,960
+those 5 ok so here's something cool so
+
+955
+00:34:26,489 --> 00:34:30,658
+you take all the music those people
+
+956
+00:34:27,960 --> 00:34:33,929
+wrote 5 percent of the music all those
+
+957
+00:34:30,659 --> 00:34:35,849
+people wrote occupies 50 percent of the
+
+958
+00:34:33,929 --> 00:34:38,789
+music that of their writing that's
+
+959
+00:34:35,849 --> 00:34:41,159
+played so not only do almost all the
+
+960
+00:34:38,789 --> 00:34:42,869
+composers never get a listen but even
+
+961
+00:34:41,159 --> 00:34:44,700
+among the composers and you get a list
+
+962
+00:34:42,869 --> 00:34:47,940
+and almost none of their music ever gets
+
+963
+00:34:44,699 --> 00:34:49,799
+played so so then that's that's another
+
+964
+00:34:47,940 --> 00:34:51,659
+example of this price is law of scaling
+
+965
+00:34:49,800 --> 00:34:53,639
+so and it applies to all sorts of things
+
+966
+00:34:51,659 --> 00:34:55,590
+like number of hockey goals scored is
+
+967
+00:34:53,639 --> 00:34:58,910
+also distributed this way number of
+
+968
+00:34:55,590 --> 00:35:00,570
+basketball basketball basketball
+
+969
+00:34:58,909 --> 00:35:03,269
+successfully put through the hoop
+
+970
+00:35:00,570 --> 00:35:05,010
+follows the same distribution size of
+
+971
+00:35:03,269 --> 00:35:08,039
+cities follows the same distribution
+
+972
+00:35:05,010 --> 00:35:11,100
+it's a weird it's a weird law and you
+
+973
+00:35:08,039 --> 00:35:11,699
+you can think about it in part why does
+
+974
+00:35:11,099 --> 00:35:13,739
+this happen
+
+975
+00:35:11,699 --> 00:35:16,858
+law imagine what happens when you play
+
+976
+00:35:13,739 --> 00:35:18,979
+Monopoly what happens everybody has the
+
+977
+00:35:16,858 --> 00:35:21,389
+same amount of money to begin with right
+
+978
+00:35:18,980 --> 00:35:23,670
+so then you start playing it's basically
+
+979
+00:35:21,389 --> 00:35:25,108
+a random game well some people start to
+
+980
+00:35:23,670 --> 00:35:27,180
+win a bit some people start to lose a
+
+981
+00:35:25,108 --> 00:35:28,769
+bit and then if you win the probability
+
+982
+00:35:27,179 --> 00:35:30,839
+that you'll keep winning starts to
+
+983
+00:35:28,769 --> 00:35:32,969
+increase and if you lose your
+
+984
+00:35:30,840 --> 00:35:34,410
+vulnerability increases as you lose and
+
+985
+00:35:32,969 --> 00:35:36,779
+then maybe you've got to say six people
+
+986
+00:35:34,409 --> 00:35:40,259
+play Monopoly soon one person has zero
+
+987
+00:35:36,780 --> 00:35:41,970
+what happens when they have zero they're
+
+988
+00:35:40,260 --> 00:35:42,450
+out of the game so zero is a weird
+
+989
+00:35:41,969 --> 00:35:43,949
+number
+
+990
+00:35:42,449 --> 00:35:47,098
+because when you hit zero you're out of
+
+991
+00:35:43,949 --> 00:35:48,868
+the game so so then if you keep playing
+
+992
+00:35:47,099 --> 00:35:51,660
+people start to stack up at zero right
+
+993
+00:35:48,869 --> 00:35:53,490
+what happens at the end of the game one
+
+994
+00:35:51,659 --> 00:35:56,279
+person has all the property and all the
+
+995
+00:35:53,489 --> 00:35:57,750
+money and everyone else has none right
+
+996
+00:35:56,280 --> 00:36:00,150
+that's what happens if you play an
+
+997
+00:35:57,750 --> 00:36:02,338
+iterated trading game to its final
+
+998
+00:36:00,150 --> 00:36:04,320
+conclusion and that's part of the the
+
+999
+00:36:02,338 --> 00:36:06,659
+law in a sense that's underlying this
+
+1000
+00:36:04,320 --> 00:36:08,789
+kind of distribution so it's it's really
+
+1001
+00:36:06,659 --> 00:36:10,949
+it's it's it's not a consequence
+
+1002
+00:36:08,789 --> 00:36:12,690
+necessarily of structural inequality
+
+1003
+00:36:10,949 --> 00:36:14,730
+it's built into the system at a deeper
+
+1004
+00:36:12,690 --> 00:36:16,320
+level than that so you know people talk
+
+1005
+00:36:14,730 --> 00:36:18,630
+about all the time about how unfair it
+
+1006
+00:36:16,320 --> 00:36:21,059
+is that 1% of the population has the
+
+1007
+00:36:18,630 --> 00:36:23,730
+vast amount of the money and 1% of the
+
+1008
+00:36:21,059 --> 00:36:26,759
+1% has most of that money and 1% of the
+
+1009
+00:36:23,730 --> 00:36:29,429
+1% of the 1% has most of that money but
+
+1010
+00:36:26,760 --> 00:36:31,710
+it is a it's a it's an inevitable
+
+1011
+00:36:29,429 --> 00:36:33,598
+conclusion of iterated trading games and
+
+1012
+00:36:31,710 --> 00:36:36,150
+we don't know how to fight it we don't
+
+1013
+00:36:33,599 --> 00:36:38,070
+know how to take from the people who
+
+1014
+00:36:36,150 --> 00:36:39,838
+have and move it to the bottom without
+
+1015
+00:36:38,070 --> 00:36:42,809
+instantly moving back up to the top
+
+1016
+00:36:39,838 --> 00:36:45,269
+different people maybe but still back up
+
+1017
+00:36:42,809 --> 00:36:48,389
+to the top because even the 1% turns a
+
+1018
+00:36:45,269 --> 00:36:50,369
+lot like I think you have a 10% chance
+
+1019
+00:36:48,389 --> 00:36:52,710
+if I remember correctly you have a 10%
+
+1020
+00:36:50,369 --> 00:36:55,769
+chance of being in the top 1% for at
+
+1021
+00:36:52,710 --> 00:36:58,230
+least one year of your life and a 40%
+
+1022
+00:36:55,769 --> 00:36:59,880
+chance of being in the top 10% for at
+
+1023
+00:36:58,230 --> 00:37:01,559
+least one year in your life that's in
+
+1024
+00:36:59,880 --> 00:37:03,568
+Canada in the u.s. it's less so in
+
+1025
+00:37:01,559 --> 00:37:05,730
+Europe so there's a fair bit of churning
+
+1026
+00:37:03,568 --> 00:37:07,800
+at the top end it's not the same people
+
+1027
+00:37:05,730 --> 00:37:09,869
+all the time you have the money but it
+
+1028
+00:37:07,800 --> 00:37:20,369
+is a tiny fraction of the people all the
+
+1029
+00:37:09,869 --> 00:37:24,450
+time who have all the money yeah people
+
+1030
+00:37:20,369 --> 00:37:24,960
+inside redistribute to recreate no not
+
+1031
+00:37:24,449 --> 00:37:27,949
+usually
+
+1032
+00:37:24,960 --> 00:37:32,670
+I mean they do but it's attenuated
+
+1033
+00:37:27,949 --> 00:37:34,409
+because the people mean if you reach up
+
+1034
+00:37:32,670 --> 00:37:36,059
+the entire company and put everywhere
+
+1035
+00:37:34,409 --> 00:37:37,230
+somewhere else there's some probability
+
+1036
+00:37:36,059 --> 00:37:38,789
+that some of those people would rise to
+
+1037
+00:37:37,230 --> 00:37:41,099
+the top that weren't at the top before
+
+1038
+00:37:38,789 --> 00:37:43,318
+but in that company that that isn't
+
+1039
+00:37:41,099 --> 00:37:45,680
+generally what happens people get stuck
+
+1040
+00:37:43,318 --> 00:37:48,269
+in their niche and they don't move so
+
+1041
+00:37:45,679 --> 00:37:50,009
+yeah this is you kill you wonder
+
+1042
+00:37:48,269 --> 00:37:51,838
+sometimes well how can companies die so
+
+1043
+00:37:50,010 --> 00:37:53,640
+quickly well they go they go into a
+
+1044
+00:37:51,838 --> 00:37:56,099
+death spiral it's almost impossible for
+
+1045
+00:37:53,639 --> 00:37:57,779
+them to get out of so and it happened
+
+1046
+00:37:56,099 --> 00:37:59,789
+happen extraordinarily quickly this is
+
+1047
+00:37:57,780 --> 00:38:01,740
+why you know the typical fortune 500
+
+1048
+00:37:59,789 --> 00:38:04,050
+company only last 30 years that's it
+
+1049
+00:38:01,739 --> 00:38:06,869
+it's not that easy for these Bale moths
+
+1050
+00:38:04,050 --> 00:38:08,100
+to continue existance across time so and
+
+1051
+00:38:06,869 --> 00:38:10,109
+it's because it's really easy for
+
+1052
+00:38:08,099 --> 00:38:12,329
+something to die it's very unlikely that
+
+1053
+00:38:10,110 --> 00:38:14,160
+it will be built it's very unlikely that
+
+1054
+00:38:12,329 --> 00:38:16,079
+it will be successful and once
+
+1055
+00:38:14,159 --> 00:38:17,759
+successful it's very unlikely that it
+
+1056
+00:38:16,079 --> 00:38:20,190
+will continue to duplicate its success
+
+1057
+00:38:17,760 --> 00:38:21,510
+because the underlying landscape shifts
+
+1058
+00:38:20,190 --> 00:38:24,659
+on it and it doesn't know where to go
+
+1059
+00:38:21,510 --> 00:38:26,640
+and that's also partly because it's not
+
+1060
+00:38:24,659 --> 00:38:28,769
+that easy to integrate creative people
+
+1061
+00:38:26,639 --> 00:38:30,000
+into your company right you certainly
+
+1062
+00:38:28,769 --> 00:38:31,320
+don't want them at the bottom because
+
+1063
+00:38:30,000 --> 00:38:33,090
+they're supposed to be people who are
+
+1064
+00:38:31,320 --> 00:38:34,559
+doing what they're told to do so you
+
+1065
+00:38:33,090 --> 00:38:36,360
+filter out a lot of them at the bottom
+
+1066
+00:38:34,559 --> 00:38:37,469
+and then you need them at the top but
+
+1067
+00:38:36,360 --> 00:38:39,840
+they've already been filtered out and
+
+1068
+00:38:37,469 --> 00:38:42,179
+also creative people are troublesome to
+
+1069
+00:38:39,840 --> 00:38:44,700
+work with because they're always how do
+
+1070
+00:38:42,179 --> 00:38:47,129
+you evaluate a creative person you all
+
+1071
+00:38:44,699 --> 00:38:49,230
+you almost can't by definition because
+
+1072
+00:38:47,130 --> 00:38:50,640
+they keep coming up with new things and
+
+1073
+00:38:49,230 --> 00:38:52,500
+you don't have a good evaluative
+
+1074
+00:38:50,639 --> 00:38:54,179
+strategy for a new thing it wouldn't be
+
+1075
+00:38:52,500 --> 00:38:55,590
+new if you had a good evaluative
+
+1076
+00:38:54,179 --> 00:38:57,359
+strategy for it right it would have to
+
+1077
+00:38:55,590 --> 00:38:59,430
+be the member of a class that you've
+
+1078
+00:38:57,360 --> 00:39:01,500
+already encountered substantially so
+
+1079
+00:38:59,429 --> 00:39:07,379
+anyway so the take-home lesson from this
+
+1080
+00:39:01,500 --> 00:39:09,570
+is zero right right and then that's like
+
+1081
+00:39:07,380 --> 00:39:11,490
+that's like a graph of money monetary
+
+1082
+00:39:09,570 --> 00:39:12,809
+distribution as well and the thing the
+
+1083
+00:39:11,489 --> 00:39:15,119
+problem with being at zero is it's very
+
+1084
+00:39:12,809 --> 00:39:17,130
+difficult to get out of zero this is
+
+1085
+00:39:15,119 --> 00:39:18,779
+also why people get stuck in poverty you
+
+1086
+00:39:17,130 --> 00:39:20,400
+know you can't get a bank account if
+
+1087
+00:39:18,780 --> 00:39:23,250
+you're if you don't have any money right
+
+1088
+00:39:20,400 --> 00:39:24,809
+if there's a bunch of things that start
+
+1089
+00:39:23,250 --> 00:39:27,360
+to move against you when you're at zero
+
+1090
+00:39:24,809 --> 00:39:29,539
+that you can't shake it's very difficult
+
+1091
+00:39:27,360 --> 00:39:32,579
+to get out of the to get out of the that
+
+1092
+00:39:29,539 --> 00:39:38,759
+the pit here because zero is a kind of
+
+1093
+00:39:32,579 --> 00:39:39,869
+pit okay so now we've got the creative
+
+1094
+00:39:38,760 --> 00:39:41,220
+achievement questionnaire and we're
+
+1095
+00:39:39,869 --> 00:39:43,109
+going to take your score and your score
+
+1096
+00:39:41,219 --> 00:39:45,269
+is summed across all the categories and
+
+1097
+00:39:43,110 --> 00:39:47,160
+and and all the exemplars of the
+
+1098
+00:39:45,269 --> 00:39:49,409
+categories that you've chosen so then
+
+1099
+00:39:47,159 --> 00:39:51,779
+the question is well can you predict
+
+1100
+00:39:49,409 --> 00:39:54,059
+creative achievement and and this is
+
+1101
+00:39:51,780 --> 00:39:55,680
+this is this is how we did it with this
+
+1102
+00:39:54,059 --> 00:39:57,719
+was construct delegation the first thing
+
+1103
+00:39:55,679 --> 00:39:59,129
+we wanted to know was was the creative
+
+1104
+00:39:57,719 --> 00:40:00,569
+achievement questionnaire actually
+
+1105
+00:39:59,130 --> 00:40:03,630
+associated with something that you might
+
+1106
+00:40:00,570 --> 00:40:07,950
+regard as creativity okay so we got a
+
+1107
+00:40:03,630 --> 00:40:09,539
+number of students to come in and we
+
+1108
+00:40:07,949 --> 00:40:11,609
+gave them a collage kit
+
+1109
+00:40:09,539 --> 00:40:13,289
+and so then everybody got exactly the
+
+1110
+00:40:11,610 --> 00:40:15,269
+same tip and then we had to make a
+
+1111
+00:40:13,289 --> 00:40:17,550
+collage out of the collage kit then we
+
+1112
+00:40:15,269 --> 00:40:19,949
+have five artists rate the collage for
+
+1113
+00:40:17,550 --> 00:40:21,510
+quality and then we averaged across the
+
+1114
+00:40:19,949 --> 00:40:22,919
+ratings now the first thing you would do
+
+1115
+00:40:21,510 --> 00:40:25,290
+if you did that is because you would
+
+1116
+00:40:22,920 --> 00:40:28,680
+might think well can artists actually
+
+1117
+00:40:25,289 --> 00:40:30,690
+come up with a a measure of how creative
+
+1118
+00:40:28,679 --> 00:40:33,599
+a collage is and the answer to that is
+
+1119
+00:40:30,690 --> 00:40:35,670
+actually technical if all say you guys
+
+1120
+00:40:33,599 --> 00:40:38,309
+are the panel if all of you identify the
+
+1121
+00:40:35,670 --> 00:40:40,619
+same collages as of high quality and the
+
+1122
+00:40:38,309 --> 00:40:42,539
+same ones as of low quality then we can
+
+1123
+00:40:40,619 --> 00:40:44,849
+assume that there's something about your
+
+1124
+00:40:42,539 --> 00:40:46,590
+judgement that's like independent of
+
+1125
+00:40:44,849 --> 00:40:48,750
+your idiosyncrasies we could say well
+
+1126
+00:40:46,590 --> 00:40:50,700
+there is a judgment that emerges as a
+
+1127
+00:40:48,750 --> 00:40:52,889
+consensus across artists and the first
+
+1128
+00:40:50,699 --> 00:40:56,129
+thing we found was that there was there
+
+1129
+00:40:52,889 --> 00:40:58,980
+is quite a high correlation between each
+
+1130
+00:40:56,130 --> 00:41:00,420
+artists judgment of the quality of the
+
+1131
+00:40:58,980 --> 00:41:01,949
+collages I can't remember what the
+
+1132
+00:41:00,420 --> 00:41:04,590
+inter-rater reliability was but it was
+
+1133
+00:41:01,949 --> 00:41:06,509
+something like 0.8 it was really high so
+
+1134
+00:41:04,590 --> 00:41:08,370
+it was clear that trained artists could
+
+1135
+00:41:06,510 --> 00:41:10,290
+make reliable judgments about the
+
+1136
+00:41:08,369 --> 00:41:12,480
+quality of collages because you had to
+
+1137
+00:41:10,289 --> 00:41:13,710
+check that out first because if they're
+
+1138
+00:41:12,480 --> 00:41:15,329
+all over the place you got no measure
+
+1139
+00:41:13,710 --> 00:41:17,820
+right it's like everyone's using a
+
+1140
+00:41:15,329 --> 00:41:19,529
+different rulers got no measure so they
+
+1141
+00:41:17,820 --> 00:41:21,960
+have to be using the same ruler well we
+
+1142
+00:41:19,530 --> 00:41:24,360
+found that the correlation between the
+
+1143
+00:41:21,960 --> 00:41:26,750
+creative evaluation of collages and the
+
+1144
+00:41:24,360 --> 00:41:29,370
+total taq was 0.59 which is
+
+1145
+00:41:26,750 --> 00:41:32,190
+mind-boggling I told you last time that
+
+1146
+00:41:29,369 --> 00:41:36,199
+under 5% of published social studies
+
+1147
+00:41:32,190 --> 00:41:39,179
+social science studies have a are
+
+1148
+00:41:36,199 --> 00:41:41,429
+demonstrate a correlation coefficient of
+
+1149
+00:41:39,179 --> 00:41:45,000
+an effect size greater than 0.5 this is
+
+1150
+00:41:41,429 --> 00:41:46,589
+0.6 and if you if you square it point 5
+
+1151
+00:41:45,000 --> 00:41:48,659
+squared is 25 percent of the variance
+
+1152
+00:41:46,590 --> 00:41:50,970
+point 6 squared is 36 percent of the
+
+1153
+00:41:48,659 --> 00:41:53,429
+variance point 6 is a lot more than 0.5
+
+1154
+00:41:50,969 --> 00:41:55,919
+and point 5 is unheard of and so the
+
+1155
+00:41:53,429 --> 00:41:58,829
+fact that you could estimate someone's
+
+1156
+00:41:55,920 --> 00:42:01,500
+lifetime creative achievement by having
+
+1157
+00:41:58,829 --> 00:42:03,210
+them do a collage that for artists rape
+
+1158
+00:42:01,500 --> 00:42:04,829
+was an indication that there really is
+
+1159
+00:42:03,210 --> 00:42:07,800
+something real at the bottom of it right
+
+1160
+00:42:04,829 --> 00:42:10,019
+that's like the definition of real the
+
+1161
+00:42:07,800 --> 00:42:12,120
+creative personality scale you use
+
+1162
+00:42:10,019 --> 00:42:13,949
+circle adjectives that are associated
+
+1163
+00:42:12,119 --> 00:42:15,509
+with creativity from a very large list
+
+1164
+00:42:13,949 --> 00:42:17,549
+of adjectives that work pretty well
+
+1165
+00:42:15,510 --> 00:42:19,080
+Goldberg's adjective markers that's
+
+1166
+00:42:17,550 --> 00:42:21,900
+another Big Five variant that was
+
+1167
+00:42:19,079 --> 00:42:22,420
+correlated at about 0.5 1 it doesn't
+
+1168
+00:42:21,900 --> 00:42:25,289
+measure
+
+1169
+00:42:22,420 --> 00:42:28,500
+to experience it just measures intellect
+
+1170
+00:42:25,289 --> 00:42:31,539
+but be that as it may it's still an
+
+1171
+00:42:28,500 --> 00:42:34,298
+personality marker of trade openness it
+
+1172
+00:42:31,539 --> 00:42:37,179
+was correlated at 0.5 won the Neel PIR
+
+1173
+00:42:34,298 --> 00:42:39,309
+openness was correlated at 0.33 and then
+
+1174
+00:42:37,179 --> 00:42:41,139
+we use the divergent thinking tests and
+
+1175
+00:42:39,309 --> 00:42:42,819
+I told you about those already's how
+
+1176
+00:42:41,139 --> 00:42:45,009
+many uses can you think of for a brick
+
+1177
+00:42:42,818 --> 00:42:46,838
+for example and so those are scored
+
+1178
+00:42:45,010 --> 00:42:48,490
+according to fluency how many answers
+
+1179
+00:42:46,838 --> 00:42:50,798
+you provide and then also originality
+
+1180
+00:42:48,489 --> 00:42:52,838
+how many unique useful answers do you
+
+1181
+00:42:50,798 --> 00:42:56,199
+provide and that was nicely correlated
+
+1182
+00:42:52,838 --> 00:42:59,230
+as well overall correlation of 0.47 and
+
+1183
+00:42:56,199 --> 00:43:02,649
+then fluency 0.38 originality 0.46 and
+
+1184
+00:42:59,230 --> 00:43:04,510
+flexibility point 3 7 so so what does
+
+1185
+00:43:02,650 --> 00:43:08,048
+that mean well the creative achievement
+
+1186
+00:43:04,510 --> 00:43:09,520
+questionnaire indexes lifetime creative
+
+1187
+00:43:08,048 --> 00:43:11,199
+achievement in a way that's powerfully
+
+1188
+00:43:09,519 --> 00:43:13,269
+associated with actual creative
+
+1189
+00:43:11,199 --> 00:43:16,179
+production of a single item plus
+
+1190
+00:43:13,269 --> 00:43:19,030
+creative creativity as it's indexed by
+
+1191
+00:43:16,179 --> 00:43:20,980
+personality markers on the C IQ is also
+
+1192
+00:43:19,030 --> 00:43:23,829
+potently predicted by IQ which is
+
+1193
+00:43:20,980 --> 00:43:25,358
+exactly what you'd expect so you can do
+
+1194
+00:43:23,829 --> 00:43:27,339
+an extraordinarily good job of
+
+1195
+00:43:25,358 --> 00:43:29,289
+determining how likely someone is to
+
+1196
+00:43:27,338 --> 00:43:30,818
+have high levels of creative achievement
+
+1197
+00:43:29,289 --> 00:43:32,440
+across their lifespan by using
+
+1198
+00:43:30,818 --> 00:43:34,358
+psychometric tests so it means that
+
+1199
+00:43:32,440 --> 00:43:36,700
+creativity is a real thing that's the
+
+1200
+00:43:34,358 --> 00:43:38,619
+first thing both in terms of thinking
+
+1201
+00:43:36,699 --> 00:43:40,929
+creatively that would be the divergent
+
+1202
+00:43:38,619 --> 00:43:42,640
+thinking tests and also in terms of
+
+1203
+00:43:40,929 --> 00:43:43,899
+creative production and and that
+
+1204
+00:43:42,639 --> 00:43:46,449
+creative production and creative
+
+1205
+00:43:43,900 --> 00:43:48,190
+thinking are quite tightly aligned so
+
+1206
+00:43:46,449 --> 00:43:49,838
+that was good that's been a very
+
+1207
+00:43:48,190 --> 00:43:52,329
+influential paper I think it's got about
+
+1208
+00:43:49,838 --> 00:43:53,710
+500 citations now people use the
+
+1209
+00:43:52,329 --> 00:43:55,359
+creative achievement questionnaire a lot
+
+1210
+00:43:53,710 --> 00:43:57,220
+to assess creativity it's also
+
+1211
+00:43:55,358 --> 00:43:59,679
+associated with a higher than average
+
+1212
+00:43:57,219 --> 00:44:01,179
+likelihood of psychosis and the other
+
+1213
+00:43:59,679 --> 00:44:02,348
+thing you see with creative people is
+
+1214
+00:44:01,179 --> 00:44:04,568
+that they tend especially if they're
+
+1215
+00:44:02,349 --> 00:44:06,400
+writers they tend the pathology that
+
+1216
+00:44:04,568 --> 00:44:08,440
+goes along with that is often manic
+
+1217
+00:44:06,400 --> 00:44:09,910
+depressive disorder and that's partly
+
+1218
+00:44:08,440 --> 00:44:13,240
+because manic people become unbelievably
+
+1219
+00:44:09,909 --> 00:44:15,368
+fluid I think they speak incredibly
+
+1220
+00:44:13,239 --> 00:44:18,279
+quickly they generate ideas like mad and
+
+1221
+00:44:15,369 --> 00:44:20,380
+it's a hyper arousal of the positive
+
+1222
+00:44:18,280 --> 00:44:24,960
+emotion system roughly speaking and that
+
+1223
+00:44:20,380 --> 00:44:24,960
+can have as a side effect creativity so
+
+1224
+00:44:25,440 --> 00:44:31,480
+this is a cool study I just found this
+
+1225
+00:44:27,940 --> 00:44:33,700
+one today it's a terror management study
+
+1226
+00:44:31,480 --> 00:44:35,170
+so what I'll read it to you the
+
+1227
+00:44:33,699 --> 00:44:36,009
+relationship between creativity and
+
+1228
+00:44:35,170 --> 00:44:37,780
+symbolic
+
+1229
+00:44:36,010 --> 00:44:40,030
+mortality had been long acknowledged by
+
+1230
+00:44:37,780 --> 00:44:42,519
+scholars in the review of the literature
+
+1231
+00:44:40,030 --> 00:44:43,750
+we found 12 papers that empirically
+
+1232
+00:44:42,519 --> 00:44:46,480
+examined the relationship between
+
+1233
+00:44:43,750 --> 00:44:48,130
+creativity and mortality awareness using
+
+1234
+00:44:46,480 --> 00:44:49,869
+a terror management theory paradigm
+
+1235
+00:44:48,130 --> 00:44:51,670
+overall supporting the notion that
+
+1236
+00:44:49,869 --> 00:44:53,710
+creativity plays an important role in
+
+1237
+00:44:51,670 --> 00:44:57,070
+the management of existential concerns
+
+1238
+00:44:53,710 --> 00:44:58,480
+also a mini meta-analysis of the impact
+
+1239
+00:44:57,070 --> 00:45:00,430
+of death awareness on creativity
+
+1240
+00:44:58,480 --> 00:45:02,590
+resulted in a small medium weighted mean
+
+1241
+00:45:00,429 --> 00:45:04,239
+effect we examine the existential
+
+1242
+00:45:02,590 --> 00:45:06,220
+buffering functions of creative
+
+1243
+00:45:04,239 --> 00:45:07,809
+achievement as assessed by the creative
+
+1244
+00:45:06,219 --> 00:45:11,289
+achievement questionnaire in a sample of
+
+1245
+00:45:07,809 --> 00:45:13,090
+108 students at high but not low levels
+
+1246
+00:45:11,289 --> 00:45:16,349
+of creative goals creative achievement
+
+1247
+00:45:13,090 --> 00:45:18,490
+was associated with lower death thought
+
+1248
+00:45:16,349 --> 00:45:20,349
+accessibility under mortality salience
+
+1249
+00:45:18,489 --> 00:45:22,750
+well that means if you remind people
+
+1250
+00:45:20,349 --> 00:45:24,250
+that they're going to die the creative
+
+1251
+00:45:22,750 --> 00:45:26,679
+people were less likely to generate
+
+1252
+00:45:24,250 --> 00:45:28,239
+death related thoughts as a consequence
+
+1253
+00:45:26,679 --> 00:45:30,069
+to our knowledge this is the first
+
+1254
+00:45:28,239 --> 00:45:31,869
+empirical report of the anxiety
+
+1255
+00:45:30,070 --> 00:45:33,250
+buffering functions of a creative
+
+1256
+00:45:31,869 --> 00:45:35,109
+achievement among people for whom
+
+1257
+00:45:33,250 --> 00:45:36,809
+creativity constitutes a central part of
+
+1258
+00:45:35,110 --> 00:45:39,099
+the cultural worldview it's like a
+
+1259
+00:45:36,809 --> 00:45:40,539
+empirical examination of some of the
+
+1260
+00:45:39,099 --> 00:45:42,429
+existential theories that I was
+
+1261
+00:45:40,539 --> 00:45:44,739
+presenting to you previously because
+
+1262
+00:45:42,429 --> 00:45:46,179
+part of the idea that was put forth to
+
+1263
+00:45:44,739 --> 00:45:48,189
+say by people like Nietzsche was that
+
+1264
+00:45:46,179 --> 00:45:50,259
+one of the ways to fight back against
+
+1265
+00:45:48,190 --> 00:45:52,780
+existential anxiety and death anxiety
+
+1266
+00:45:50,260 --> 00:45:54,400
+and all of that is to engage in creative
+
+1267
+00:45:52,780 --> 00:45:56,620
+production and so that was actually put
+
+1268
+00:45:54,400 --> 00:45:59,670
+to the empirical test in this study so I
+
+1269
+00:45:56,619 --> 00:45:59,670
+thought that was quite cool
+
+1270
+00:46:05,940 --> 00:46:10,329
+so there's another paper this was by
+
+1271
+00:46:08,380 --> 00:46:12,430
+Kaufmann and a couple of my students
+
+1272
+00:46:10,329 --> 00:46:15,009
+Jacob Hirsch and Colin Dion I'm on that
+
+1273
+00:46:12,429 --> 00:46:18,190
+paper as well near the end there they
+
+1274
+00:46:15,010 --> 00:46:20,500
+were interested in whether openness and
+
+1275
+00:46:18,190 --> 00:46:22,119
+intellect predicted different elements
+
+1276
+00:46:20,500 --> 00:46:23,739
+of creative achievements or goes back to
+
+1277
+00:46:22,119 --> 00:46:25,719
+your question about the differentiation
+
+1278
+00:46:23,739 --> 00:46:29,979
+between the artsy end of creativity and
+
+1279
+00:46:25,719 --> 00:46:32,349
+maybe the more practical idiot and the
+
+1280
+00:46:29,980 --> 00:46:33,750
+practical end associated for example
+
+1281
+00:46:32,349 --> 00:46:36,250
+with the proclivity to like nonfiction
+
+1282
+00:46:33,750 --> 00:46:40,570
+the Big Five personality dimension
+
+1283
+00:46:36,250 --> 00:46:42,369
+openness / intellect is the trait most
+
+1284
+00:46:40,570 --> 00:46:44,500
+closely associated with creativity and
+
+1285
+00:46:42,369 --> 00:46:46,569
+creative achievement little is known
+
+1286
+00:46:44,500 --> 00:46:48,579
+however regarding the discriminant
+
+1287
+00:46:46,570 --> 00:46:52,360
+validity of its two aspects discriminant
+
+1288
+00:46:48,579 --> 00:46:54,039
+validity is whether one aspect predicts
+
+1289
+00:46:52,360 --> 00:46:55,539
+one set of things and the other aspect
+
+1290
+00:46:54,039 --> 00:46:57,699
+predicts a different set of things if
+
+1291
+00:46:55,539 --> 00:46:59,230
+there's no discriminant validity if they
+
+1292
+00:46:57,699 --> 00:47:01,359
+can't be used for different purposes
+
+1293
+00:46:59,230 --> 00:47:02,889
+then there's no point having them so you
+
+1294
+00:47:01,360 --> 00:47:04,630
+want to see that they're actually
+
+1295
+00:47:02,889 --> 00:47:09,309
+capable of differentiating between
+
+1296
+00:47:04,630 --> 00:47:12,420
+between real world phenomena two of its
+
+1297
+00:47:09,309 --> 00:47:12,420
+aspects openness to experience
+
+1298
+00:47:12,719 --> 00:47:17,049
+reflecting cognitive engagement with
+
+1299
+00:47:14,949 --> 00:47:20,019
+perception fantasy aesthetics and
+
+1300
+00:47:17,050 --> 00:47:22,000
+emotions and intellect reflecting
+
+1301
+00:47:20,019 --> 00:47:24,130
+cognitive engagement with abstract and
+
+1302
+00:47:22,000 --> 00:47:27,010
+semantic information primarily through
+
+1303
+00:47:24,130 --> 00:47:29,200
+reasoning in relation to creativity in
+
+1304
+00:47:27,010 --> 00:47:31,570
+four demographically diverse samples
+
+1305
+00:47:29,199 --> 00:47:33,339
+totaling over a thousand participants we
+
+1306
+00:47:31,570 --> 00:47:35,320
+investigated the independent predictive
+
+1307
+00:47:33,340 --> 00:47:37,030
+validity of openness and intellect by
+
+1308
+00:47:35,320 --> 00:47:38,950
+assessing the relations among cognitive
+
+1309
+00:47:37,030 --> 00:47:40,900
+ability divergent thinking personality
+
+1310
+00:47:38,949 --> 00:47:44,829
+and creative achievement across the Arts
+
+1311
+00:47:40,900 --> 00:47:46,300
+and Sciences we confirm that hypothesis
+
+1312
+00:47:44,829 --> 00:47:50,259
+that openness predicts creative
+
+1313
+00:47:46,300 --> 00:47:52,390
+achievement in the arts and intellect
+
+1314
+00:47:50,260 --> 00:47:54,220
+predicts creative achievement in the
+
+1315
+00:47:52,389 --> 00:47:55,960
+sciences inclusion of performance
+
+1316
+00:47:54,219 --> 00:47:58,889
+measures of general cognitive ability
+
+1317
+00:47:55,960 --> 00:48:00,880
+that's IQ and divergent thinking
+
+1318
+00:47:58,889 --> 00:48:02,769
+indicated that the relationship of
+
+1319
+00:48:00,880 --> 00:48:04,000
+intellect to scientific creativity may
+
+1320
+00:48:02,769 --> 00:48:05,980
+be due at least in part to these
+
+1321
+00:48:04,000 --> 00:48:06,730
+abilities lastly we found that
+
+1322
+00:48:05,980 --> 00:48:08,110
+extraversion
+
+1323
+00:48:06,730 --> 00:48:10,150
+additionally predicted creative
+
+1324
+00:48:08,110 --> 00:48:12,329
+achievement in the arts independently of
+
+1325
+00:48:10,150 --> 00:48:14,590
+openness so what that means is that
+
+1326
+00:48:12,329 --> 00:48:16,289
+creative achievement in the arts is
+
+1327
+00:48:14,590 --> 00:48:18,750
+actually a function of
+
+1328
+00:48:16,289 --> 00:48:20,789
+higher-order trait plasticity right
+
+1329
+00:48:18,750 --> 00:48:22,610
+because plasticity was openness plus
+
+1330
+00:48:20,789 --> 00:48:24,960
+extraversion and that's associated
+
+1331
+00:48:22,610 --> 00:48:26,730
+fundamentally with activation of the
+
+1332
+00:48:24,960 --> 00:48:28,409
+underlying dopaminergic system which is
+
+1333
+00:48:26,730 --> 00:48:31,110
+the system that mediates exploratory
+
+1334
+00:48:28,409 --> 00:48:32,879
+behavior so if you're dominated by that
+
+1335
+00:48:31,110 --> 00:48:34,950
+the function of that system
+
+1336
+00:48:32,880 --> 00:48:36,440
+you're an exploratory gregarious person
+
+1337
+00:48:34,949 --> 00:48:41,179
+then you're more likely to manifest
+
+1338
+00:48:36,440 --> 00:48:45,630
+creative ability in the arts so
+
+1339
+00:48:41,179 --> 00:48:47,549
+apparently it's time stop yeah I think
+
+1340
+00:48:45,630 --> 00:48:53,269
+that's the same student who always does
+
+1341
+00:48:47,550 --> 00:48:53,269
+that alright we'll see you on Tuesday
+
+1342
+00:48:54,820 --> 00:48:58,010
+[Applause]
+

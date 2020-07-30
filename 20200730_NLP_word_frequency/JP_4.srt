@@ -1,0 +1,5952 @@
+1
+00:00:12,539 --> 00:00:18,030
+this one's particularly complicated so because with Piaget you enter a whole
+
+2
+00:00:18,030 --> 00:00:22,070
+new domain of of axiomatic thinking that's the right way to think about it
+
+3
+00:00:22,070 --> 00:00:25,640
+say each of these people that were discussing each of these theories comes
+
+4
+00:00:25,640 --> 00:00:28,769
+out the construction of the world from a different perspective and it's it's
+
+5
+00:00:28,769 --> 00:00:32,679
+really fundamentally different it's different way deep down at the level of
+
+6
+00:00:32,679 --> 00:00:37,630
+fundamental assumptions and so Piaget who's a who's probably the world's most
+
+7
+00:00:37,630 --> 00:00:41,230
+famous developmental psychologist but although he didn't consider himself a
+
+8
+00:00:41,229 --> 00:00:46,320
+developmental psychologist he considered himself a genetic epistemology and what
+
+9
+00:00:46,320 --> 00:00:51,049
+that meant was that he was interested in Paestum ology which is how knowledge
+
+10
+00:00:51,049 --> 00:00:54,699
+structures work and genetic means formulation of and so he was interested
+
+11
+00:00:54,700 --> 00:00:59,480
+in how children formulate their knowledge structures in the world and he
+
+12
+00:00:59,479 --> 00:01:05,649
+was a constructivist because he believed that human beings construct the they
+
+13
+00:01:05,650 --> 00:01:09,310
+don't only construct the representations of the world and it's deeper than that
+
+14
+00:01:09,310 --> 00:01:12,810
+it's more like they construct the world itself now it depends to some degree on
+
+15
+00:01:12,810 --> 00:01:16,490
+what you think of as the world and of course that's so there's a reality
+
+16
+00:01:16,489 --> 00:01:20,259
+definition issue that's nested at the bottom of this and it's a very complex
+
+17
+00:01:20,260 --> 00:01:24,680
+one and so I'm going to have to walk you through it piece by piece now Piaget was
+
+18
+00:01:24,680 --> 00:01:29,860
+a genius he was he wrote a paper I believe on mollusks when he was ten and
+
+19
+00:01:29,859 --> 00:01:33,510
+had it published in a scientific journal and he was offered the curatorship of a
+
+20
+00:01:33,510 --> 00:01:37,159
+museum as a consequence of that and his parents had to write the museum
+
+21
+00:01:37,159 --> 00:01:40,870
+directors and tell them that he couldn't curate the museum because he was only
+
+22
+00:01:40,870 --> 00:01:44,770
+ten and so that gives you some idea about Piaget and he's published many
+
+23
+00:01:44,769 --> 00:01:49,478
+many many books and many of them haven't been translated into English yet and so
+
+24
+00:01:49,478 --> 00:01:56,890
+he was quite the he was quite the you know large intelligence creature and he
+
+25
+00:01:56,890 --> 00:02:00,560
+studied all sorts of things so I'm gonna tell you a little bit about
+
+26
+00:02:00,560 --> 00:02:06,000
+constructivism I'm gonna start with a quote from Piaget and it's uh it's he's
+
+27
+00:02:06,000 --> 00:02:08,669
+some book some of his books I found quite straightforward and some of them
+
+28
+00:02:08,669 --> 00:02:11,559
+very difficult and I think it's often because of the quality of the
+
+29
+00:02:11,560 --> 00:02:15,140
+translation this happens to be a relatively difficult section I don't
+
+30
+00:02:15,139 --> 00:02:18,229
+think it's translated that well but whatever we're going to go through it
+
+31
+00:02:18,229 --> 00:02:22,348
+I'll explain it to you a little bit so Piaget said the common postulate that's
+
+32
+00:02:22,348 --> 00:02:25,479
+assumption of various traditional epistemology
+
+33
+00:02:25,479 --> 00:02:29,278
+theories of valid knowledge is that knowledge itself is a fact
+
+34
+00:02:29,278 --> 00:02:34,979
+and not a process and then if our various forms of knowledge are always
+
+35
+00:02:34,979 --> 00:02:39,719
+incomplete and our various science is still imperfect that which is acquired
+
+36
+00:02:39,719 --> 00:02:44,090
+is still acquired and can therefore be studied statically hence the absolute
+
+37
+00:02:44,090 --> 00:02:47,278
+position of the problems what is knowledge or how are the various types
+
+38
+00:02:47,278 --> 00:02:51,729
+of knowledge possible under the converging influence of a series of
+
+39
+00:02:51,729 --> 00:02:55,289
+factors we're tending more and more today to regard knowledge as a process
+
+40
+00:02:55,289 --> 00:03:00,259
+more than a state any being or object that Sciences attempts to hold fast
+
+41
+00:03:00,259 --> 00:03:04,649
+dissolves once again in the current of development it is the last analysis of
+
+42
+00:03:04,650 --> 00:03:09,180
+this development and of it alone that we have the right to state it is a fact
+
+43
+00:03:09,180 --> 00:03:13,510
+what we can and should then seek is the law of this process quotes we are well
+
+44
+00:03:13,509 --> 00:03:17,870
+aware on the other hand of the fine book by kuhn on scientific revolutions now
+
+45
+00:03:17,870 --> 00:03:22,069
+there is an awful lot of information in that paragraph so we'll unpack it a
+
+46
+00:03:22,068 --> 00:03:28,108
+little bit before we go on now one way of looking at science is that it's a
+
+47
+00:03:28,109 --> 00:03:32,159
+collection of facts right that's that's what Piaget is stating to begin with and
+
+48
+00:03:32,158 --> 00:03:37,289
+that we assume that the facts that science has gathered are facts and
+
+49
+00:03:37,289 --> 00:03:41,278
+Static but if you observe them across time what you find is that scientific
+
+50
+00:03:41,278 --> 00:03:44,419
+facts tend to shift and transform because scientific theories that are
+
+51
+00:03:44,419 --> 00:03:49,649
+applicable in one century let's say turn out to be less applicable in the next
+
+52
+00:03:49,650 --> 00:03:55,069
+now there's been a lot of argument and discussion about this because the fact
+
+53
+00:03:55,068 --> 00:04:00,608
+that facts change seems to indicate that they're not so self-evidently fact and
+
+54
+00:04:00,609 --> 00:04:06,209
+there are people and perhaps Kuhn would be among them who believe that science
+
+55
+00:04:06,209 --> 00:04:11,348
+consisted of the juxtaposition of paradigms so those are sets of axioms
+
+56
+00:04:11,348 --> 00:04:15,598
+within which something operates and the paradigms he considered them often in
+
+57
+00:04:15,598 --> 00:04:19,149
+commensurate you couldn't move from one to another because the axioms were
+
+58
+00:04:19,149 --> 00:04:22,859
+different there was no necessary no what what might you say there was no
+
+59
+00:04:22,860 --> 00:04:28,850
+necessary means of communication between them but and and and Piaget knew of
+
+60
+00:04:28,850 --> 00:04:31,900
+Thomas Kuhns work that's the scientists structure of scientific revolutions
+
+61
+00:04:31,899 --> 00:04:35,669
+which was published in 1962 it's a classic text in the philosophy of
+
+62
+00:04:35,670 --> 00:04:41,319
+science and and what Piaget soon more was more like a I would say
+
+63
+00:04:41,319 --> 00:04:46,709
+more like a classic view of science where so for example when Newton came up
+
+64
+00:04:46,709 --> 00:04:51,209
+with Newtonian physics there was a set of propositions upon which Newtonian
+
+65
+00:04:51,209 --> 00:04:55,769
+physics was based and then when Einstein transformed those propositions what
+
+66
+00:04:55,769 --> 00:04:59,719
+happened was that Newtonian physics became a subset of Einsteinian physics
+
+67
+00:04:59,720 --> 00:05:05,280
+and so the way that Piaget looked at the development of factual ideas at least in
+
+68
+00:05:05,279 --> 00:05:09,019
+part was that you'd come up with a set of ideas that were facts and then that
+
+69
+00:05:09,019 --> 00:05:12,529
+would be superseded by a different theory within that within which that
+
+70
+00:05:12,529 --> 00:05:16,949
+original theory would be nested and so that what happens that each theory in
+
+71
+00:05:16,949 --> 00:05:21,339
+some sense although it transforms it becomes more complete as the scientific
+
+72
+00:05:21,339 --> 00:05:25,599
+progression continues now Kuhn didn't precisely believe that although exactly
+
+73
+00:05:25,600 --> 00:05:30,379
+what Kuhn meant by a paradigm shift because Kuhn originated that term isn't
+
+74
+00:05:30,379 --> 00:05:34,219
+clear but he didn't seem to actually believe that science had this capacity
+
+75
+00:05:34,220 --> 00:05:39,660
+to present a series of facts and then alter the underlying presuppositions and
+
+76
+00:05:39,660 --> 00:05:42,790
+then to nest that within a broader series of facts like you would assume if
+
+77
+00:05:42,790 --> 00:05:45,930
+you were thinking about the relationship between Newton and Einstein
+
+78
+00:05:45,930 --> 00:05:50,490
+so Newtonian physics is a subset of einsteinium physics so now that's kind
+
+79
+00:05:50,490 --> 00:05:54,579
+of how Piaget thought about how human beings developed knowledge he believed
+
+80
+00:05:54,579 --> 00:05:59,279
+that we came up with well let's say you wanted to chop down a tree that might be
+
+81
+00:05:59,279 --> 00:06:04,500
+a good example I mean you could use a dull axe made of bronze and it's like
+
+82
+00:06:04,500 --> 00:06:08,209
+well that would chop down the tree it'd be a lot of work though and then maybe
+
+83
+00:06:08,209 --> 00:06:12,149
+you replace that with a sharp steel axe that's designed like a wedge so that you
+
+84
+00:06:12,149 --> 00:06:16,859
+can really hack down a tree with it or maybe you replace it with a saw and so
+
+85
+00:06:16,860 --> 00:06:20,889
+the it's not like the bronze axe could chop down the tree but the steel axe can
+
+86
+00:06:20,889 --> 00:06:25,519
+do a better job in the saw can do even a better job and so the way that Piaget
+
+87
+00:06:25,519 --> 00:06:29,419
+thought about the transformation of human knowledge structures from from
+
+88
+00:06:29,420 --> 00:06:33,740
+infancy onward essentially was that infants would produce a representation
+
+89
+00:06:33,740 --> 00:06:37,400
+of the world that was sort of low resolution but quite tool like it would
+
+90
+00:06:37,399 --> 00:06:41,819
+work in the world but then as they progressed the nature of those tools
+
+91
+00:06:41,819 --> 00:06:46,839
+would become refined that sometimes transform completely so some sometimes
+
+92
+00:06:46,839 --> 00:06:50,379
+imagine that a child would use in a sense a low resolution picture of
+
+93
+00:06:50,379 --> 00:06:53,819
+something and then they would increase its resolution
+
+94
+00:06:53,819 --> 00:06:58,159
+as they filled in the details that would be assimilation that's the page idea
+
+95
+00:06:58,160 --> 00:07:01,250
+notion of assimilation you're using the same basic theory but filling in the
+
+96
+00:07:01,250 --> 00:07:05,029
+details and then now and then you'd have to switch to another picture entirely
+
+97
+00:07:05,029 --> 00:07:08,109
+and that would be more like accommodation that's where you'd have to
+
+98
+00:07:08,110 --> 00:07:11,040
+transform your internal structures completely in order to properly
+
+99
+00:07:11,040 --> 00:07:14,870
+represent an act within the world and so that's the basic difference between
+
+100
+00:07:14,870 --> 00:07:19,639
+accommodation and assimilation so assimilation is like micro alterations
+
+101
+00:07:19,639 --> 00:07:23,819
+and accommodation is transformation of the knowledge structure itself and so
+
+102
+00:07:23,819 --> 00:07:28,909
+that's part of so what khun pointed out was that there'd be a set of facts and
+
+103
+00:07:28,910 --> 00:07:32,320
+then there'd be an anomaly arise of some sort so like at the end of the 19th
+
+104
+00:07:32,319 --> 00:07:36,790
+century the only remaining anomaly was at least one of the remaining anomalies
+
+105
+00:07:36,790 --> 00:07:42,270
+was that no matter which direction you shine a light beam in and no matter how
+
+106
+00:07:42,269 --> 00:07:45,769
+fast the platform on which you're standing is moving the light beam has
+
+107
+00:07:45,769 --> 00:07:49,699
+exactly the same velocity which seems impossible so you know if the earth is
+
+108
+00:07:49,699 --> 00:07:54,149
+moving this way around the Sun and you shine a light off the earth you'd expect
+
+109
+00:07:54,149 --> 00:07:57,219
+the speed of light to be the speed of light plus the speed of the earth and
+
+110
+00:07:57,220 --> 00:08:00,920
+then if you shone it the other way then you'd expect the speed of light to be
+
+111
+00:08:00,920 --> 00:08:04,050
+the speed of light - the earth speed but that isn't what happens no matter how
+
+112
+00:08:04,050 --> 00:08:07,850
+fast the platform on which the person shining the light is standing the speed
+
+113
+00:08:07,850 --> 00:08:12,230
+of light is always the same to every observer so and people kind of thought
+
+114
+00:08:12,230 --> 00:08:15,470
+of that as that wasn't the only anomaly but that was one of them
+
+115
+00:08:15,470 --> 00:08:19,010
+thought of that is the only anomaly left in physics at the end of the 19th
+
+116
+00:08:19,009 --> 00:08:22,329
+century and turned out that was a bad one how long there was some other ones
+
+117
+00:08:22,329 --> 00:08:26,329
+as well like the fact that light tends to behave as a wave and a particle more
+
+118
+00:08:26,329 --> 00:08:29,319
+or less at the same time which doesn't seem possible so there's a couple of
+
+119
+00:08:29,319 --> 00:08:32,769
+things left over in Newtonian physics that the Newtonian physics couldn't
+
+120
+00:08:32,769 --> 00:08:35,940
+explain but by the end of the 19th century there were famous scientists
+
+121
+00:08:35,940 --> 00:08:38,440
+saying yeah well we got this all wrapped up there's really nothing left to
+
+122
+00:08:38,440 --> 00:08:42,479
+discover and then Along Came quantum mechanics and Einstein Yin relativity
+
+123
+00:08:42,479 --> 00:08:47,950
+and bang the whole world was like really different and quantum mechanics is much
+
+124
+00:08:47,950 --> 00:08:51,900
+more comprehensive theory of the world then Newtonian physics all of the
+
+125
+00:08:51,899 --> 00:08:56,259
+electronics you used wouldn't work if quantum physics wasn't correct roughly
+
+126
+00:08:56,259 --> 00:09:01,100
+speaking and so that little tiny anomaly blew into something that knocked the
+
+127
+00:09:01,100 --> 00:09:04,850
+slats out underneath from underneath the entire axiomatic structure of Newtonian
+
+128
+00:09:04,850 --> 00:09:07,180
+physics it showed it was wrong at its fundamental levels
+
+129
+00:09:07,179 --> 00:09:11,029
+even though it turned out to be a subset a correct subset of something that was
+
+130
+00:09:11,029 --> 00:09:13,809
+much broader and so you can kind of think of that as that's what kids are
+
+131
+00:09:13,809 --> 00:09:16,849
+doing as they progress they develop a theory that accounts for a certain set
+
+132
+00:09:16,850 --> 00:09:21,879
+of you could say fact but this is another place it gets tricky and then
+
+133
+00:09:21,879 --> 00:09:24,709
+they modify those and make them more and more refined but now and then they have
+
+134
+00:09:24,708 --> 00:09:29,549
+to under grow quite a transformation not be a stage transition in Piaget and
+
+135
+00:09:29,549 --> 00:09:33,179
+thought that that's the stage transition idea and that would be akin in some
+
+136
+00:09:33,179 --> 00:09:37,479
+sense to a kuhnian scientific revolution now what Piaget is trying to state here
+
+137
+00:09:37,480 --> 00:09:43,300
+is that because you there's this weird problem with facts which is that they
+
+138
+00:09:43,299 --> 00:09:46,769
+tend to transform across time you know like if you go take a biology course
+
+139
+00:09:46,769 --> 00:09:50,568
+right now in 20 years pretty much everything you read you learned or very
+
+140
+00:09:50,568 --> 00:09:53,750
+much of what you learned will turn out to have been wrong and that's kind of
+
+141
+00:09:53,750 --> 00:09:56,789
+weird because it isn't wrong right now and you think well how can it be wrong
+
+142
+00:09:56,789 --> 00:10:01,269
+in 20 years and that that's a really complicated problem and in order to
+
+143
+00:10:01,269 --> 00:10:05,999
+solve that you kind of have to think about facts like tools instead of them
+
+144
+00:10:05,999 --> 00:10:10,500
+as thinking about them as objective independent realities because a bad tool
+
+145
+00:10:10,500 --> 00:10:15,409
+can still work as a tool whereas a bad fact just kills you stone dead and so
+
+146
+00:10:15,409 --> 00:10:22,028
+there's any ways in any case that seems to be a completely unnecessary phenomena
+
+147
+00:10:22,028 --> 00:10:57,749
+Oh God there's no reason for that that's just
+
+148
+00:10:57,749 --> 00:11:05,180
+sheer spite as far as I can tell mm-hmm okay so so here's one of psays
+
+149
+00:11:05,179 --> 00:11:12,649
+propositions and and it is that because facts flux in some sense across time
+
+150
+00:11:12,649 --> 00:11:15,009
+you're looking for something that doesn't change across time to call it a
+
+151
+00:11:15,009 --> 00:11:18,600
+real fact and so what Piaget is trying to point out in this let's call it
+
+152
+00:11:18,600 --> 00:11:21,749
+introductory paragraph is that the one thing that doesn't change is the manner
+
+153
+00:11:21,749 --> 00:11:25,189
+in which people generate facts rather than the facts themselves so the
+
+154
+00:11:25,188 --> 00:11:29,860
+ultimate fact is a fact about the way people generate facts all right and so
+
+155
+00:11:29,860 --> 00:11:34,089
+psays theory in part is a is a theory about how knowledge is acquired and
+
+156
+00:11:34,089 --> 00:11:38,560
+transformed and so it's not that no it's not a study of the knowledge itself it's
+
+157
+00:11:38,559 --> 00:11:41,768
+a study of the process by which the knowledge is generated and he believed
+
+158
+00:11:41,769 --> 00:11:45,379
+that that process was unchanging at least with regards to human beings and
+
+159
+00:11:45,379 --> 00:11:51,188
+so you could think of the Piaget alien genetic epistemological mystery as being
+
+160
+00:11:51,188 --> 00:11:55,438
+how is it that people form and transform representations of the world and one of
+
+161
+00:11:55,438 --> 00:11:58,698
+his conclusions about that is that there's a standard process and then the
+
+162
+00:11:58,698 --> 00:12:02,258
+reason that I'm telling you about Piaget right now is because as far as I can
+
+163
+00:12:02,259 --> 00:12:05,600
+tell the standard Piaget daeun description of the manner in which
+
+164
+00:12:05,600 --> 00:12:09,720
+knowledge is acquired and transformed is the same thing that's represented in the
+
+165
+00:12:09,720 --> 00:12:13,778
+mythology of the shamanic transformation which is that there's a state of being
+
+166
+00:12:13,778 --> 00:12:17,100
+and then it's derp up disrupted by something chaotic and there's a
+
+167
+00:12:17,100 --> 00:12:21,449
+disintegration period and that's the space between the stage transitions for
+
+168
+00:12:21,448 --> 00:12:24,990
+for children in which time they're often upset because their little theory about
+
+169
+00:12:24,990 --> 00:12:27,678
+the world isn't learning it isn't working anymore
+
+170
+00:12:27,678 --> 00:12:32,088
+and then in that chaotic period they adjust themselves to new anomalies and
+
+171
+00:12:32,089 --> 00:12:35,499
+anomalies or what occur when you act in the world and what you want to happen
+
+172
+00:12:35,499 --> 00:12:38,899
+doesn't happen right because that means there's something wrong with your
+
+173
+00:12:38,899 --> 00:12:42,970
+knowledge structure if you act and then something happens you don't want to
+
+174
+00:12:42,970 --> 00:12:46,050
+happen something's wrong with the way you're representing the world or you
+
+175
+00:12:46,049 --> 00:12:49,278
+could say something's wrong with the world but good luck with that although
+
+176
+00:12:49,278 --> 00:12:52,629
+you know people can modify the world as well as modifying their belief
+
+177
+00:12:52,629 --> 00:12:58,639
+structures and people do that a lot but so this the piagetian stage transition
+
+178
+00:12:58,639 --> 00:13:03,629
+as far as I can tell is a micro case of the broader idea of the the existence
+
+179
+00:13:03,629 --> 00:13:07,000
+an orderly state its dissolution into a chaotic state because something
+
+180
+00:13:07,000 --> 00:13:10,839
+unexpected has occurred and then it's retransfer Meishan into a more
+
+181
+00:13:10,839 --> 00:13:15,619
+integrated state now Piaget would say well the initial state and the chaotic
+
+182
+00:13:15,619 --> 00:13:19,050
+state and the final state aren't the ultimate realities the ultimate reality
+
+183
+00:13:19,049 --> 00:13:23,568
+is the process of moving through those stages and that's how people acquire
+
+184
+00:13:23,568 --> 00:13:26,818
+knowledge and that's you could say that's the central element of human
+
+185
+00:13:26,818 --> 00:13:30,799
+beings and I would say that's a that's another reason Tatian of the hero myth
+
+186
+00:13:30,799 --> 00:13:35,028
+because the hero is the person who notes uh normally notes something that's
+
+187
+00:13:35,028 --> 00:13:40,808
+changed that's outside of explored territory encounters it defeats it let's
+
+188
+00:13:40,808 --> 00:13:45,509
+say or get something of value from it and then recasts it into the world
+
+189
+00:13:45,509 --> 00:13:48,759
+shares it with the community restructures of the world and so that's
+
+190
+00:13:48,759 --> 00:13:53,399
+the central story it's it's not the central story of human beings but it's
+
+191
+00:13:53,399 --> 00:13:57,169
+it's close enough for for our purposes at the moment so okay so that's what
+
+192
+00:13:57,169 --> 00:13:59,919
+Piaget is about how do human beings encounter
+
+193
+00:13:59,919 --> 00:14:04,778
+the world and and what happens when they do that now the thing about the world
+
+194
+00:14:04,778 --> 00:14:09,568
+for Piaget is it's also a complicated place it's not exactly the set of it's
+
+195
+00:14:09,568 --> 00:14:13,639
+not the set of all objective facts that remain to be discovered because Piaget
+
+196
+00:14:13,639 --> 00:14:18,480
+is a constructivist and he's more of a pragmatist than he is precisely a
+
+197
+00:14:18,480 --> 00:14:22,639
+scientific realist and so that's a complicated thing very very complicated
+
+198
+00:14:22,639 --> 00:14:26,799
+thing I don't know if any of you and maybe this is completely irrelevant I
+
+199
+00:14:26,799 --> 00:14:30,049
+don't know if any of you listened to my argument with Sam Harris but Sam Harris
+
+200
+00:14:30,049 --> 00:14:34,208
+is a scientific realist and I was trying to make at least in part at Piaget Ian's
+
+201
+00:14:34,208 --> 00:14:39,618
+point but he was having none of that that's for sure but but Piaget makes the
+
+202
+00:14:39,619 --> 00:14:43,470
+point and so you know I'm going to let him speak in some sense as we proceed
+
+203
+00:14:43,470 --> 00:14:49,249
+through this and and well you'll see why he does what he does so if all knowledge
+
+204
+00:14:49,249 --> 00:14:52,749
+is always in the state of development and consists in proceeding from one
+
+205
+00:14:52,749 --> 00:14:59,209
+state to a more complete and efficient one so that that implies a hierarchy of
+
+206
+00:14:59,208 --> 00:15:02,219
+states right that you move from one knowledge structure to the next one
+
+207
+00:15:02,220 --> 00:15:06,239
+which includes the previous one and is better and it's better because it covers
+
+208
+00:15:06,239 --> 00:15:09,860
+more territory that's how you know it's better it does the same thing the old
+
+209
+00:15:09,860 --> 00:15:14,409
+tool does plus some additional things so it's a definition of better it's a good
+
+210
+00:15:14,409 --> 00:15:17,019
+thing to have a definition of better and worse
+
+211
+00:15:17,019 --> 00:15:20,190
+all knowledge is always in the state of development and consists in proceeding
+
+212
+00:15:20,190 --> 00:15:24,160
+for one state to a more complete deficient one evidently it is a question
+
+213
+00:15:24,159 --> 00:15:27,178
+of knowing this development and analyzing it with the greatest possible
+
+214
+00:15:27,178 --> 00:15:31,088
+accuracy which is something I happen to agree with but that's partly because I
+
+215
+00:15:31,089 --> 00:15:35,249
+read Piaget and and I think I understand what he meant and he's quite the thinker
+
+216
+00:15:35,249 --> 00:15:39,989
+and so I'm gonna see if I can like clue you in a little bit about this because
+
+217
+00:15:39,989 --> 00:15:43,110
+it's it's well it's exceedingly complex you know and most of the time when
+
+218
+00:15:43,110 --> 00:15:46,428
+people talk about Piaget they just talk about his surface experiments they don't
+
+219
+00:15:46,428 --> 00:15:50,730
+talk about what he was actually up to and what he was up to was well he was
+
+220
+00:15:50,730 --> 00:15:54,259
+trying to figure out how people represent the world and learned and
+
+221
+00:15:54,259 --> 00:15:57,230
+that's not only it's not only that you know this is another thing people don't
+
+222
+00:15:57,230 --> 00:16:02,579
+know about Piaget is that he was trying to reconcile the chasm between science
+
+223
+00:16:02,578 --> 00:16:06,149
+and values that's what drove him through his entire intellectual life he was
+
+224
+00:16:06,149 --> 00:16:09,089
+attempting to bridge the gap between science and religion that's another way
+
+225
+00:16:09,089 --> 00:16:12,149
+of thinking about it and and that was explicit he knew that that's why he did
+
+226
+00:16:12,149 --> 00:16:16,318
+everything he did and so the thing that's so cool about Piaget I think is
+
+227
+00:16:16,318 --> 00:16:20,868
+that he actually started to provide what you might think about as a rational
+
+228
+00:16:20,869 --> 00:16:25,939
+basis for morality it's not exactly rational that's the thing because it's
+
+229
+00:16:25,938 --> 00:16:29,448
+rational rational belief like scientific realism has a certain set of
+
+230
+00:16:29,448 --> 00:16:34,078
+presuppositions at its core and Piaget doesn't use those presuppositions to
+
+231
+00:16:34,078 --> 00:16:39,188
+solve the problem get a problem so deep the gap between what is and what ought
+
+232
+00:16:39,188 --> 00:16:44,078
+to be that's the David Humes problem you can't derive a naught from it is just
+
+233
+00:16:44,078 --> 00:16:46,948
+because you know a bunch of things doesn't give you an unerring guide to
+
+234
+00:16:46,948 --> 00:16:51,958
+know what to do about those things there's a gap there and Harris and
+
+235
+00:16:51,958 --> 00:16:56,688
+people like him say that gap is illusory but most philosophers including David
+
+236
+00:16:56,688 --> 00:17:01,149
+Hume including Piaget these are heavy-duty people including Heidegger
+
+237
+00:17:01,149 --> 00:17:05,019
+would would disagree with that they don't believe that that that that gap is
+
+238
+00:17:05,019 --> 00:17:09,709
+non-existent and and and Harris believes that you can nest values within science
+
+239
+00:17:09,709 --> 00:17:13,549
+and and that's the proposition that he continually puts forward like most of
+
+240
+00:17:13,549 --> 00:17:17,169
+the so-called new atheists but it's a hell of a lot more difficult to do than
+
+241
+00:17:17,170 --> 00:17:22,970
+you think that's for sure and so anyway so how is Piaget purporting to manage
+
+242
+00:17:22,970 --> 00:17:28,350
+this well one thing he does is he for Piaget it's really important that you
+
+243
+00:17:28,349 --> 00:17:30,939
+have a body and that's one of the things that's four
+
+244
+00:17:30,940 --> 00:17:34,470
+cool about his thinking so you could think about him as an early exponent of
+
+245
+00:17:34,470 --> 00:17:39,069
+embodied cognition it's like he's not exactly a Cartesian a follower of
+
+246
+00:17:39,069 --> 00:17:42,929
+Descartes he doesn't really believe that you have a spirit or say a rational mind
+
+247
+00:17:42,930 --> 00:17:47,080
+that is in some sense separate from your body which is an implicit presupposition
+
+248
+00:17:47,079 --> 00:17:52,399
+of a lot of a lot of of philosophical claims Piaget really sticks you in your
+
+249
+00:17:52,400 --> 00:17:56,259
+body and the other thing that Piaget claims is that your abstract knowledge
+
+250
+00:17:56,259 --> 00:18:00,720
+is actually determined by the structure of your body and that it unfolds from
+
+251
+00:18:00,720 --> 00:18:04,569
+your body up into abstraction and that's what happens as infants transform into
+
+252
+00:18:04,569 --> 00:18:08,099
+adults first of all almost all their knowledge is embodied and what that
+
+253
+00:18:08,099 --> 00:18:13,309
+means is that it's not look there's a couple of different kinds of memory like
+
+254
+00:18:13,309 --> 00:18:17,569
+the most the most fundamental distinction you might think of is
+
+255
+00:18:17,569 --> 00:18:21,859
+between procedural representation procedural memory and and
+
+256
+00:18:21,859 --> 00:18:25,189
+representational memory so when you remember your past that little movie or
+
+257
+00:18:25,190 --> 00:18:28,279
+that runs in your head or maybe the facts that you can recite about your
+
+258
+00:18:28,279 --> 00:18:30,430
+past that's episodic memory that's
+
+259
+00:18:30,430 --> 00:18:34,390
+representational but procedural memory is different procedural memories how you
+
+260
+00:18:34,390 --> 00:18:37,870
+walk you don't know how you walk that's how you ride a bike it's how you play
+
+261
+00:18:37,869 --> 00:18:42,709
+the piano it's how you type so it's it's automatic right it's built into your
+
+262
+00:18:42,710 --> 00:18:46,870
+nervous system it's built into the nerves that innervate your musculature
+
+263
+00:18:46,869 --> 00:18:51,049
+and there's completely separate memory systems now one can represent the other
+
+264
+00:18:51,049 --> 00:18:54,210
+which is interesting the representational system can represent
+
+265
+00:18:54,210 --> 00:18:57,680
+the output of the body which is basically what you happen what happens
+
+266
+00:18:57,680 --> 00:19:01,990
+when someone tells a story even when you tell a story about your own life but the
+
+267
+00:19:01,990 --> 00:19:07,710
+contents of procedural memory precede the contents of representational memory
+
+268
+00:19:07,710 --> 00:19:11,690
+and they're shaped in different ways so for example part of the wisdom that's
+
+269
+00:19:11,690 --> 00:19:15,380
+encoded in your body is there because of things you've practiced but it's also
+
+270
+00:19:15,380 --> 00:19:19,130
+there because you've practiced things in a social environment and so while you
+
+271
+00:19:19,130 --> 00:19:22,981
+practice those things the effect of the social environment shaped the way you
+
+272
+00:19:22,980 --> 00:19:26,349
+learned it and that's encoded right in your neurons
+
+273
+00:19:26,349 --> 00:19:30,259
+it's not representational it's encoded in the way you do things it's encoded in
+
+274
+00:19:30,259 --> 00:19:34,500
+the way you smile when you look at someone or frown or when you do that and
+
+275
+00:19:34,500 --> 00:19:37,990
+that's all implicit it's not under your conscious control it's not even in that
+
+276
+00:19:37,990 --> 00:19:41,870
+system and so Piaget figured this out and so one of the things he said was
+
+277
+00:19:41,869 --> 00:19:44,939
+that you start as an infant by building your
+
+278
+00:19:44,940 --> 00:19:49,200
+cedral memory not your representational memory that's partly perhaps why you
+
+279
+00:19:49,200 --> 00:19:52,180
+can't remember your infancy you know I actually don't have that kind of
+
+280
+00:19:52,180 --> 00:19:56,820
+representational memory there what you do is you act you learn to act you build
+
+281
+00:19:56,819 --> 00:20:00,849
+your body so that it can move and you do that partly by experimenting with your
+
+282
+00:20:00,849 --> 00:20:04,480
+own body but you also do that by experimenting with your body in a
+
+283
+00:20:04,480 --> 00:20:08,829
+context that's shaped from the beginning by the presence of other people so for
+
+284
+00:20:08,829 --> 00:20:12,470
+example you know what child learns how to breastfeed its mouth is pretty wired
+
+285
+00:20:12,470 --> 00:20:16,600
+up right at birth hey and and the rest of its body isn't wired up very much at
+
+286
+00:20:16,599 --> 00:20:20,179
+all but its mouth is and you might think well that's just a reflex and that
+
+287
+00:20:20,180 --> 00:20:24,110
+Piaget would agree with that it's a built in it's something built in that
+
+288
+00:20:24,109 --> 00:20:27,909
+that a baby can do right at birth but even in the act of breastfeeding the
+
+289
+00:20:27,910 --> 00:20:33,170
+baby has to learn how to modify that reflex so that it gets along with its
+
+290
+00:20:33,170 --> 00:20:37,060
+mother so even at the very beginning with the most you might think the most
+
+291
+00:20:37,059 --> 00:20:42,079
+primordial acts there's a sociological and influence and there's a mutual
+
+292
+00:20:42,079 --> 00:20:45,679
+dynamic going on that's really really important it's really important and so
+
+293
+00:20:45,680 --> 00:20:51,000
+in some sense for Piaget the structure of society is implicitly built into the
+
+294
+00:20:51,000 --> 00:20:54,900
+structure of the procedural memory system and so one of the things you
+
+295
+00:20:54,900 --> 00:20:58,630
+might think about that and Piaget makes much of this because he looks at the
+
+296
+00:20:58,630 --> 00:21:02,630
+relationship between play and dreams and imitation so he's kind of a quasi
+
+297
+00:21:02,630 --> 00:21:10,910
+psychoanalyst one of the things that means is that coded in your behavior
+
+298
+00:21:10,910 --> 00:21:18,300
+coded in your behavior is is this is the social structure in which you emerged
+
+299
+00:21:18,299 --> 00:21:21,649
+and it's coded in a way that you don't actually understand you just know how to
+
+300
+00:21:21,650 --> 00:21:25,920
+act and then you can figure out how you're acting and you can extract out of
+
+301
+00:21:25,920 --> 00:21:29,740
+that some of the social rules but you don't you don't that doesn't mean that
+
+302
+00:21:29,740 --> 00:21:33,349
+you know the rules it meant that the rules were built into you here's the way
+
+303
+00:21:33,349 --> 00:21:37,349
+of thinking about it like a wolf pack wolf pack knows how to operate together
+
+304
+00:21:37,349 --> 00:21:40,849
+it knows how to hunt right and each wolf knows where every other wolf is in the
+
+305
+00:21:40,849 --> 00:21:44,909
+dominance hierarchy but they don't know they know that they don't have rules
+
+306
+00:21:44,910 --> 00:21:48,920
+right they don't have a code they don't have laws what they have is behavioral
+
+307
+00:21:48,920 --> 00:21:52,821
+regularities patterned behavioral regularities and those are like a
+
+308
+00:21:52,820 --> 00:21:56,569
+morality they're very very in fact that's exactly what they are a dominance
+
+309
+00:21:56,569 --> 00:22:00,960
+hierarchy of animal that aren't representational you know
+
+310
+00:22:00,960 --> 00:22:04,259
+that don't have language at least they don't have language the dominance
+
+311
+00:22:04,259 --> 00:22:08,460
+hierarchy is a kind of morality it's a way of it's a way of setting up
+
+312
+00:22:08,460 --> 00:22:12,190
+individual behavior within a social context to maximize cooperation and
+
+313
+00:22:12,190 --> 00:22:16,620
+minimize competition and so well so Piaget would say that you know the
+
+314
+00:22:16,619 --> 00:22:20,229
+origin of more and and Fran's de Waal who's a great primatologist by the way
+
+315
+00:22:20,230 --> 00:22:26,839
+Fran's fr ansd de w AAL he's written a lot of books about the emergence of
+
+316
+00:22:26,839 --> 00:22:30,369
+morality and chimpanzees in particular and you know he follows the same line of
+
+317
+00:22:30,369 --> 00:22:33,859
+logic it's that the morality emerges out of the interaction between the
+
+318
+00:22:33,859 --> 00:22:38,529
+chimpanzees and it's bounded by the necessity that the actions take certain
+
+319
+00:22:38,529 --> 00:22:42,519
+forms so for example if the chimpanzees act in a way that each of them kills
+
+320
+00:22:42,519 --> 00:22:44,930
+everyone else it's like that's the end of it
+
+321
+00:22:44,930 --> 00:22:49,750
+it's the end of the game so that's not a very functional morality it's it doesn't
+
+322
+00:22:49,750 --> 00:22:53,730
+produce survival of the individuals it doesn't produce flourishing of the
+
+323
+00:22:53,730 --> 00:22:56,900
+individuals certainly it produces extinction of the individuals and the
+
+324
+00:22:56,900 --> 00:23:02,019
+death of the group so as far as do all would concerned from an evolutionary
+
+325
+00:23:02,019 --> 00:23:05,900
+perspective that sort of mode of interacting is a dead end and so one of
+
+326
+00:23:05,900 --> 00:23:10,290
+Pia Jays claims implicit claims is that and this is one of the things that's so
+
+327
+00:23:10,289 --> 00:23:17,710
+brilliant about Piaget is that the interactions between people the social
+
+328
+00:23:17,710 --> 00:23:23,140
+interactions between people necessarily emerge within a kind of bounded space
+
+329
+00:23:23,140 --> 00:23:29,690
+and the space is the space of the game so we're always playing games always and
+
+330
+00:23:29,690 --> 00:23:34,269
+a game you might think about a game as a microcosm of the world and a small
+
+331
+00:23:34,269 --> 00:23:38,069
+child's game is a tiny fractional microcosm of the world but then you get
+
+332
+00:23:38,069 --> 00:23:42,109
+up into adult games and you could think about those maybe as multiplayer online
+
+333
+00:23:42,109 --> 00:23:45,599
+games that's one good representation but even more sophisticated things like
+
+334
+00:23:45,599 --> 00:23:49,699
+being a lawyer say are like working at McDonald's or any of those things those
+
+335
+00:23:49,700 --> 00:23:55,230
+are also forms of game and and that P and people negotiate the rules and that
+
+336
+00:23:55,230 --> 00:24:01,950
+game is nested inside sets of broader games and so for Piaget that the game
+
+337
+00:24:01,950 --> 00:24:07,259
+that killed the games the children play kind of transform inexorably and and and
+
+338
+00:24:07,259 --> 00:24:11,740
+what incrementally into the games that adults play and and a
+
+339
+00:24:11,740 --> 00:24:16,700
+a game that's playable as an adult is a functional game it's it's an acceptable
+
+340
+00:24:16,700 --> 00:24:21,830
+game and one of PJ's claims is that not only do people start playing games
+
+341
+00:24:21,829 --> 00:24:26,369
+unconsciously in a sense and implicitly then they start to play games more
+
+342
+00:24:26,369 --> 00:24:29,889
+consciously they actually they actually represent the games to some degree at
+
+343
+00:24:29,890 --> 00:24:33,759
+least in their actions then they start to learn the explicit rules of the game
+
+344
+00:24:33,759 --> 00:24:38,329
+but only later after they know how to play it and then at the highest stage of
+
+345
+00:24:38,329 --> 00:24:42,779
+moral development they start to realize that not only are they players of games
+
+346
+00:24:42,779 --> 00:24:48,250
+and followers of a rules but they're also producers of rules so it starts you
+
+347
+00:24:48,250 --> 00:24:51,299
+start out not being able to play a game at all then you can play a game with
+
+348
+00:24:51,299 --> 00:24:54,899
+yourself then you can play a game with a few other people then you can play
+
+349
+00:24:54,900 --> 00:24:58,940
+rule-governed games with lots of people and then you realize that you make the
+
+350
+00:24:58,940 --> 00:25:02,370
+rules and you can make new games and that's the highest level of moral
+
+351
+00:25:02,369 --> 00:25:06,199
+development according to Piaget it's varrick's brilliant it's it's bloody
+
+352
+00:25:06,200 --> 00:25:10,360
+brilliant he's the first person that I ever really encountered who was able to
+
+353
+00:25:10,359 --> 00:25:15,539
+put the notion of an emergent morality on something you know broadly
+
+354
+00:25:15,539 --> 00:25:18,589
+commensurate with a scientific perspective but you have to understand
+
+355
+00:25:18,589 --> 00:25:22,279
+that in order to do that he had to sacrifice a little bit of his notions of
+
+356
+00:25:22,279 --> 00:25:26,490
+scientific realism and that's what makes him a constructivist and so and so we're
+
+357
+00:25:26,490 --> 00:25:30,819
+going back to constructivism so he says at the beginning and this is the
+
+358
+00:25:30,819 --> 00:25:33,519
+beginning of the development of knowledge does not unfold itself as a
+
+359
+00:25:33,519 --> 00:25:39,000
+matter of chance but forms a development so he said there's not only do knowledge
+
+360
+00:25:39,000 --> 00:25:42,400
+structures change across time and they're embedded in the social world but
+
+361
+00:25:42,400 --> 00:25:45,730
+the manner in which they change across time actually has a bit of a structure
+
+362
+00:25:45,730 --> 00:25:49,349
+and so that would be the Piaget lien stages of development just so you know
+
+363
+00:25:49,349 --> 00:25:53,969
+now people have debated ever since Piaget proposed this if those
+
+364
+00:25:53,970 --> 00:25:58,220
+developmental stages are fixed and necessary and if he identified them
+
+365
+00:25:58,220 --> 00:26:02,329
+properly and even and as well whether or not they could be sped up which he
+
+366
+00:26:02,329 --> 00:26:06,689
+always called the American problem could you speed up these stages of development
+
+367
+00:26:06,690 --> 00:26:10,360
+and there's a lot of argument about whether those stages exist in the manner
+
+368
+00:26:10,359 --> 00:26:13,979
+that Piaget described there and whether they're fixed at all of that but that's
+
+369
+00:26:13,980 --> 00:26:20,960
+still the fundamental elements of his the fundamental element of his theory so
+
+370
+00:26:20,960 --> 00:26:25,049
+and in since the cognitive domain has an absolute beginning which means you were
+
+371
+00:26:25,049 --> 00:26:28,269
+you're here now but at one point you weren't so there was an absolute
+
+372
+00:26:28,269 --> 00:26:32,819
+beginning to to you as a phenomena it's to be studied at the very stages nor
+
+373
+00:26:32,819 --> 00:26:36,250
+known as formation that's his rationalization for being a genetic
+
+374
+00:26:36,250 --> 00:26:39,349
+epistemology right someone who studies the formation of knowledge structures
+
+375
+00:26:39,349 --> 00:26:43,119
+across time like an embryologist someone like that right who developmental
+
+376
+00:26:43,119 --> 00:26:47,029
+embryologist the first aim of genetic epistemology is therefore if one can say
+
+377
+00:26:47,029 --> 00:26:51,509
+so to take psychology seriously and to furnish verifications to any question
+
+378
+00:26:51,509 --> 00:26:55,339
+which each epistemology necessarily raises yet replacing the generally
+
+379
+00:26:55,339 --> 00:26:59,480
+unsatisfying speculative or implicit psychology with controllable analysis
+
+380
+00:26:59,480 --> 00:27:03,990
+and so basically what he's saying there is that you can guess in a sense like
+
+381
+00:27:03,990 --> 00:27:07,950
+Freud did about developmental psychology Freud kind of projected backwards from
+
+382
+00:27:07,950 --> 00:27:12,259
+his patients into the dim mists of childhood and came up with like a what
+
+383
+00:27:12,259 --> 00:27:15,809
+would a hypothetical developmental sequence and Piaget said well we're not
+
+384
+00:27:15,809 --> 00:27:19,710
+going to do that we're going to go run experiments on kids often individuals
+
+385
+00:27:19,710 --> 00:27:23,880
+but sometimes multiple individuals we're gonna we're going to observe exactly
+
+386
+00:27:23,880 --> 00:27:27,610
+what they're doing he watched his kids in their cribs for example unbelievably
+
+387
+00:27:27,609 --> 00:27:32,539
+intently and with great he was like an ethologist which is a person who studies
+
+388
+00:27:32,539 --> 00:27:36,450
+animal behavior observational II like Fran's de Waal he was like an ethologist
+
+389
+00:27:36,450 --> 00:27:40,539
+of children not exactly an experimental psychologist although also an
+
+390
+00:27:40,539 --> 00:27:43,809
+experimental psychologist and he more or less established the field of
+
+391
+00:27:43,809 --> 00:27:48,509
+developmental psychology so he said well let's empirically analyze how children
+
+392
+00:27:48,509 --> 00:27:52,299
+learn and then maybe we can figure out how this knowledge process unfolds and
+
+393
+00:27:52,299 --> 00:27:56,700
+we don't have to guess about it we can we can use controllable analysis and so
+
+394
+00:27:56,700 --> 00:27:59,620
+you could say he introduced scientific methodology even though he wasn't a
+
+395
+00:27:59,619 --> 00:28:03,559
+scientific realist he introduced scientific methodology into the study of
+
+396
+00:28:03,559 --> 00:28:06,859
+child development but more importantly into the study of how knowledge
+
+397
+00:28:06,859 --> 00:28:11,039
+structures unfold across time so he was a philosopher as well but a strange type
+
+398
+00:28:11,039 --> 00:28:15,649
+of philosopher because he was interested in how philosophy itself emerges in the
+
+399
+00:28:15,650 --> 00:28:19,620
+mind of the child and so that's what Piaget was up to and so quite quite
+
+400
+00:28:19,619 --> 00:28:23,779
+remarkable and he had incredibly wide range of interests befitting someone who
+
+401
+00:28:23,779 --> 00:28:29,349
+probably had an IQ of like 190 I mean he was seriously smart guy like way way
+
+402
+00:28:29,349 --> 00:28:32,789
+outside of the normal range and so this is the sort of questions he was trying
+
+403
+00:28:32,789 --> 00:28:36,980
+to answer well how do you on what do you base your judgments cuz you make
+
+404
+00:28:36,980 --> 00:28:42,059
+judgments about things better or worse well how how do you come up with that
+
+405
+00:28:42,059 --> 00:28:47,779
+ability how does that emerge and on what basis do you make the judgments
+
+406
+00:28:47,779 --> 00:28:51,090
+there's a famous ruling on pornography that I believe the Supreme Court of the
+
+407
+00:28:51,090 --> 00:28:55,459
+United States laid down and one of the justices wrote something that's become
+
+408
+00:28:55,460 --> 00:28:58,759
+infamous or famous depending on how you look at he said well I can't define
+
+409
+00:28:58,759 --> 00:29:04,049
+pornography but I know it when I see it and and that's and that's a notion of
+
+410
+00:29:04,049 --> 00:29:07,569
+the incomplete ability of the representational system to represent the
+
+411
+00:29:07,569 --> 00:29:13,259
+contents of implicit perception or the procedural system you can know that you
+
+412
+00:29:13,259 --> 00:29:16,829
+know something but you that doesn't mean you can describe why it doesn't mean you
+
+413
+00:29:16,829 --> 00:29:20,899
+can describe how you know it and you don't how do you focus your eyes like
+
+414
+00:29:20,900 --> 00:29:24,580
+you don't know how you focus your eyes you just focus them you know how do you
+
+415
+00:29:24,579 --> 00:29:31,210
+smile like this well maybe less ugly but you know you you can't describe how you
+
+416
+00:29:31,210 --> 00:29:35,670
+do it you can't describe the musculature you can represent the output of the act
+
+417
+00:29:35,670 --> 00:29:39,120
+and you can do it but you can't represent it and you're just stuffed
+
+418
+00:29:39,119 --> 00:29:42,919
+full of skills like that which is another example of the way that you're
+
+419
+00:29:42,920 --> 00:29:47,060
+way more complicated than your understanding of you you know one of the
+
+420
+00:29:47,059 --> 00:29:50,450
+things people often ask is how can we use the rat as a model of a person
+
+421
+00:29:50,450 --> 00:29:54,029
+because like you know a rats not much of a person depending of course on the
+
+422
+00:29:54,029 --> 00:30:00,170
+person but the the real answer to that is well compared to what like compared
+
+423
+00:30:00,170 --> 00:30:05,460
+to your understanding of a person a rat is an excellent model of a person so
+
+424
+00:30:05,460 --> 00:30:10,059
+it's not as good a model of a person as a person is but compared to imagination
+
+425
+00:30:10,059 --> 00:30:15,240
+let's say it's incomparably better and you know that's because we share like I
+
+426
+00:30:15,240 --> 00:30:20,059
+don't know what 98% of our genes or some damn thing with rats it's like it's
+
+427
+00:30:20,059 --> 00:30:24,919
+really up I think we share 90% of our genes with yeast for God's sake you know
+
+428
+00:30:24,920 --> 00:30:29,480
+and so we're a lot more rat-like than yeast like so and I think with chimps
+
+429
+00:30:29,480 --> 00:30:34,160
+it's over 99% you know so it's not a bad model obviously it's not perfect but it
+
+430
+00:30:34,160 --> 00:30:37,800
+always depends on what you compare it to you know and you hear animal rights
+
+431
+00:30:37,799 --> 00:30:41,460
+activists say things like well we can replace that with computer simulations
+
+432
+00:30:41,460 --> 00:30:46,100
+it's like no we can't because you can't simulate what you don't know or at least
+
+433
+00:30:46,099 --> 00:30:50,529
+not very well so that's a silly idea you know even though they have a point it's
+
+434
+00:30:50,529 --> 00:30:52,990
+not so great to torture animals to death and all
+
+435
+00:30:52,990 --> 00:30:57,279
+but what are his norms well that's a good question where do norms for
+
+436
+00:30:57,279 --> 00:31:01,240
+behavior come from you have norms when they're violated it annoys you doesn't
+
+437
+00:31:01,240 --> 00:31:04,480
+mean you know what your norms are but you do kind of get a sense of what they
+
+438
+00:31:04,480 --> 00:31:08,220
+are when they get violated that really upset me well what does that mean
+
+439
+00:31:08,220 --> 00:31:11,240
+well you don't really know you might have to think about that for like six
+
+440
+00:31:11,240 --> 00:31:15,630
+months why you got so upset about that but you can notice that you got upset
+
+441
+00:31:15,630 --> 00:31:19,290
+and that means that you do have expectations and norms let's say but you
+
+442
+00:31:19,289 --> 00:31:22,859
+don't know where they came from now obviously in part they came from your
+
+443
+00:31:22,859 --> 00:31:26,679
+intrinsic structure but also a core they're a consequence of your learning
+
+444
+00:31:26,680 --> 00:31:30,029
+but even more importantly they're our consequence of your learning in a social
+
+445
+00:31:30,029 --> 00:31:34,539
+environment so all of those phenomena which exceed your comprehension
+
+446
+00:31:34,539 --> 00:31:38,289
+determine the nature of your norms and often you only detect them when they're
+
+447
+00:31:38,289 --> 00:31:42,619
+violated so because why bother paying attention to something that works
+
+448
+00:31:42,619 --> 00:31:47,359
+you just don't know one does they take it for granted it's almost the
+
+449
+00:31:47,359 --> 00:31:51,529
+definition of something working it's like you know you think I'm driving my
+
+450
+00:31:51,529 --> 00:31:55,500
+car to school and you think you're in a car but you're really not in a car
+
+451
+00:31:55,500 --> 00:31:59,500
+you're in a thing that gets you from home to school and you can pretend that
+
+452
+00:31:59,500 --> 00:32:20,799
+that is so annoying you can pretend that
+
+453
+00:32:20,799 --> 00:32:24,129
+so you might think well the thing that I'm I'm in is it's kind of a weird
+
+454
+00:32:24,130 --> 00:32:29,380
+example is it is this object with objective qualities that you call a car
+
+455
+00:32:29,380 --> 00:32:33,850
+but but that isn't exactly how you actually perceive or act towards it what
+
+456
+00:32:33,849 --> 00:32:37,219
+happens is is that as long as it's doing what it's supposed to do which means
+
+457
+00:32:37,220 --> 00:32:42,079
+that its function is intact not what it is but its function then you can use a
+
+458
+00:32:42,079 --> 00:32:45,730
+really low resolution representation of the thing the car is just what gets you
+
+459
+00:32:45,730 --> 00:32:49,870
+from point A to point B right and so the fact that you don't understand the damn
+
+460
+00:32:49,869 --> 00:32:54,219
+thing at all is completely invisible to you but it isn't when it quits as soon
+
+461
+00:32:54,220 --> 00:32:58,500
+as it quits it becomes a car it's like bang car oh my god I don't understand
+
+462
+00:32:58,500 --> 00:33:02,730
+this thing at all now what do I do well you panic a little bit right
+
+463
+00:33:02,730 --> 00:33:07,539
+because well what do you know about your car nothing nothing nothing at all and
+
+464
+00:33:07,539 --> 00:33:12,019
+worse than that now the car has become an intersection between you and
+
+465
+00:33:12,019 --> 00:33:15,460
+whoever's going to fix your card so that introduces a whole bunch of human
+
+466
+00:33:15,460 --> 00:33:18,500
+elements into it like are they going to figure out what's wrong with it are they
+
+467
+00:33:18,500 --> 00:33:21,720
+going to rip you off is your car ever going to work again are you going to get
+
+468
+00:33:21,720 --> 00:33:25,400
+to work what's going to happen tonight so all of a sudden that thing that you
+
+469
+00:33:25,400 --> 00:33:31,019
+were in that was a car turns into this massive complex unbelievably complicated
+
+470
+00:33:31,019 --> 00:33:35,190
+thing and that's actually what it is your initial representation of it it's
+
+471
+00:33:35,190 --> 00:33:40,240
+like it's really low resolution it's like one bit and then bang it breaks
+
+472
+00:33:40,240 --> 00:33:45,599
+down and poof complexity complexity complexity everywhere and that
+
+473
+00:33:45,599 --> 00:33:49,730
+complexity that's what the world's made out if you remember we talked about
+
+474
+00:33:49,730 --> 00:33:54,809
+William James and that crazy nitrous oxide induced pseudo hippie poetry that
+
+475
+00:33:54,809 --> 00:33:58,299
+he was writing in the 1890s when he was talking about chaos
+
+476
+00:33:58,299 --> 00:34:02,779
+well that chaos that he was talking about out of which him order emerges
+
+477
+00:34:02,779 --> 00:34:06,250
+that's the same thing as that complexity that's hovering in the background and
+
+478
+00:34:06,250 --> 00:34:09,659
+children have to operate in a world that's actually that complex but they're
+
+479
+00:34:09,659 --> 00:34:13,679
+not smart enough and neither are you so they build partial representations that
+
+480
+00:34:13,679 --> 00:34:18,608
+sort of work and the parents scaffold them so the way children manage that's
+
+481
+00:34:18,608 --> 00:34:21,639
+like children they don't know anything but stay they're still alive so what's
+
+482
+00:34:21,639 --> 00:34:25,700
+up with that you know part of it is the child is laying out
+
+483
+00:34:25,699 --> 00:34:29,509
+one of its procedures in the world in accordance with its understanding and
+
+484
+00:34:29,510 --> 00:34:33,909
+something goes wrong what does the child do cry
+
+485
+00:34:33,909 --> 00:34:38,320
+right it defaults it defaults to this distress cry and what happens is the
+
+486
+00:34:38,320 --> 00:34:43,090
+adults move in with their superior skills and their enhanced understanding
+
+487
+00:34:43,090 --> 00:34:46,879
+and they mediate between the partial knowledge of the child in the actual
+
+488
+00:34:46,878 --> 00:34:50,710
+complex world and without the child that's why if you take your child to the
+
+489
+00:34:50,710 --> 00:34:54,829
+mall and just leave you know it doesn't take very long for them to get really
+
+490
+00:34:54,829 --> 00:34:59,630
+really really really upset you know depending on the child some of them
+
+491
+00:34:59,630 --> 00:35:04,110
+almost instantaneously you know one day I was in the Boston Airport with my
+
+492
+00:35:04,110 --> 00:35:07,829
+daughter she was about three and three and a half maybe and my son he was about
+
+493
+00:35:07,829 --> 00:35:12,019
+two and we were there to pick someone I was just packed and so I had them by the
+
+494
+00:35:12,019 --> 00:35:15,969
+hand you know and I were told my daughter a bunch if she ever got
+
+495
+00:35:15,969 --> 00:35:20,000
+separated from me in a crowd just to sit down immediately wherever she was or as
+
+496
+00:35:20,000 --> 00:35:26,489
+close there by it I would find her don't move well somehow I got separated from
+
+497
+00:35:26,489 --> 00:35:30,659
+them and I looked behind them and they weren't there and I found out later she
+
+498
+00:35:30,659 --> 00:35:35,429
+followed someone else who looked like me from behind and she I found her in about
+
+499
+00:35:35,429 --> 00:35:38,649
+three minutes you know which is a long time man if you're three years old at
+
+500
+00:35:38,650 --> 00:35:43,380
+that Airport she was sitting there like paralyzed you know but her brother was
+
+501
+00:35:43,380 --> 00:35:46,920
+with her he didn't care at all and the reason he didn't care is because as far
+
+502
+00:35:46,920 --> 00:35:51,369
+as he was concerned she was an adult but as far as she was concerned she was an
+
+503
+00:35:51,369 --> 00:35:56,190
+abandoned kid in an airport you know it was very hard on her and it's because
+
+504
+00:35:56,190 --> 00:35:59,650
+the you know she was protected from the complexity by her primordial
+
+505
+00:35:59,650 --> 00:36:03,960
+representations and my presence but as soon as my presence disappeared the
+
+506
+00:36:03,960 --> 00:36:08,289
+complexity came flooding back and just overwhelmed her that's chaos and
+
+507
+00:36:08,289 --> 00:36:12,550
+uncertainty and then she'd cry and the cry says help I'm out of my league I'm
+
+508
+00:36:12,550 --> 00:36:17,080
+drowning I'm drowning you know intervened and so that's how kids in
+
+509
+00:36:17,079 --> 00:36:19,569
+part can get along in the world with their incomplete knowledge
+
+510
+00:36:19,570 --> 00:36:24,010
+representations always huh also how you get along in the world because you're
+
+511
+00:36:24,010 --> 00:36:26,920
+incomplete beyond belief but you got all these other people around you in the
+
+512
+00:36:26,920 --> 00:36:32,099
+whole damn society filling in the gaps and so you walk around like you know
+
+513
+00:36:32,099 --> 00:36:35,819
+what you're doing but you don't you know you just hardly know at all you know if
+
+514
+00:36:35,820 --> 00:36:40,220
+you can fit into that system great you've got it on your side and you can
+
+515
+00:36:40,219 --> 00:36:43,819
+use it to fill the gaps that's also partly why people are so concerned with
+
+516
+00:36:43,820 --> 00:36:47,050
+maintaining their social identity like the real identity on
+
+517
+00:36:47,050 --> 00:36:53,000
+talking about some surface identity but you see because you have set up a set of
+
+518
+00:36:53,000 --> 00:36:57,909
+expectations and desires about how you want the world to unfold and you do that
+
+519
+00:36:57,909 --> 00:37:03,539
+within a social context and as long as your desires and the actions of the
+
+520
+00:37:03,539 --> 00:37:07,860
+community match which means you're at home roughly speaking as long as they
+
+521
+00:37:07,860 --> 00:37:13,190
+match you stay emotionally regulated you like that that's why you can stay calm
+
+522
+00:37:13,190 --> 00:37:17,360
+in here it's like your desires are being played out by everyone else because one
+
+523
+00:37:17,360 --> 00:37:20,900
+of your desires is that none of these crazy primate starts brandishing a knife
+
+524
+00:37:20,900 --> 00:37:26,019
+for example or even twitching or any of that sort of thing you don't want any of
+
+525
+00:37:26,019 --> 00:37:30,699
+that and if it starts happening it's like you get weary very quickly and
+
+526
+00:37:30,699 --> 00:37:33,949
+maybe you look and maybe you won't and maybe you'll freeze maybe you'll get the
+
+527
+00:37:33,949 --> 00:37:37,159
+hell out of there or maybe you'll get aggressive but that match has to
+
+528
+00:37:37,159 --> 00:37:41,879
+maintain itself intact or your entire nervous system gets dysregulated and the
+
+529
+00:37:41,880 --> 00:37:45,570
+reason for that is that as soon as that match is disrupted the underlying
+
+530
+00:37:45,570 --> 00:37:48,690
+complexity and chaos of the world reveals itself and so does your
+
+531
+00:37:48,690 --> 00:37:54,730
+inadequacy and then your body defaults into predator mode and and the fact that
+
+532
+00:37:54,730 --> 00:37:57,659
+you don't know anything and that everything is really complicated becomes
+
+533
+00:37:57,659 --> 00:38:03,069
+very evident to you very quickly and people hate that it's the worst thing
+
+534
+00:38:03,070 --> 00:38:07,190
+that can happen to them the bottom falling out of their world and so that
+
+535
+00:38:07,190 --> 00:38:10,980
+happens more when your fundamental presumptions about things are are
+
+536
+00:38:10,980 --> 00:38:14,039
+challenged and then you have to solve the problem of what constitutes a
+
+537
+00:38:14,039 --> 00:38:17,789
+fundamental presupposition you know how do you know which presupposition is
+
+538
+00:38:17,789 --> 00:38:22,429
+peripheral in which one central and you can tell in part because the more upset
+
+539
+00:38:22,429 --> 00:38:27,299
+you get about something the more central it is that that things about to your
+
+540
+00:38:27,300 --> 00:38:30,960
+entire structure of belief and that's one way of getting into that unconscious
+
+541
+00:38:30,960 --> 00:38:33,809
+structure of belief from a psychoanalytic perspective so what are
+
+542
+00:38:33,809 --> 00:38:36,820
+the things that happens to me for example as a therapist is I'll be
+
+543
+00:38:36,820 --> 00:38:39,570
+talking to my clients and they'll be talking about something difficult and
+
+544
+00:38:39,570 --> 00:38:43,200
+all of a sudden they'll cry and they often don't know why so I stopped them
+
+545
+00:38:43,199 --> 00:38:47,909
+right there it's like something went through your mind something happened and
+
+546
+00:38:47,909 --> 00:38:51,319
+the cry indicates that you've moved beyond your domain of competence out
+
+547
+00:38:51,320 --> 00:38:55,570
+into the unknown world all of a sudden into chaos what's that chaos what
+
+548
+00:38:55,570 --> 00:38:59,539
+exactly happened and people you know they're usually embarrassed that they
+
+549
+00:38:59,539 --> 00:39:02,619
+cry but often make remember what flitted through their mind
+
+550
+00:39:02,619 --> 00:39:06,769
+and it's a represent it's a it's some encounter with the chaos beyond their
+
+551
+00:39:06,769 --> 00:39:10,500
+conceptual systems that produces that emotional response and then we can dig
+
+552
+00:39:10,500 --> 00:39:13,840
+into that find out oh that's a trauma especially if it's more than a year -
+
+553
+00:39:13,840 --> 00:39:18,570
+how fold and those can be of various depths and profundity you know sometimes
+
+554
+00:39:18,570 --> 00:39:22,059
+they're so bad that the person just breaks down completely and they never
+
+555
+00:39:22,059 --> 00:39:26,070
+put themselves together you know that's when something's just walloped you it's
+
+556
+00:39:26,070 --> 00:39:29,350
+hit you right at the bottom of your axiomatic structures so to speak right
+
+557
+00:39:29,349 --> 00:39:32,909
+at the trunk but when you're doing therapy with people and you watch how
+
+558
+00:39:32,909 --> 00:39:36,819
+they respond emotionally you look for those tiny eruptions of negative emotion
+
+559
+00:39:36,820 --> 00:39:40,190
+and those are like holes in their conceptual structure and those have to
+
+560
+00:39:40,190 --> 00:39:45,220
+be sewed up by their man you in the process of dialogue you figure out okay
+
+561
+00:39:45,219 --> 00:39:49,079
+there was a bit of unexplored territory there that manifested itself it produced
+
+562
+00:39:49,079 --> 00:39:52,309
+an emotional response in you that indicates that you've reverted in some
+
+563
+00:39:52,309 --> 00:39:56,360
+sense to childhood that would be the Freudian interpretation now we have to
+
+564
+00:39:56,360 --> 00:40:00,860
+figure out what it was that that's in that hole what caused that tear and then
+
+565
+00:40:00,860 --> 00:40:04,650
+we have to go back and articulate it and analyze and study it until we can sew it
+
+566
+00:40:04,650 --> 00:40:09,510
+up and then and art and and get to the gist of it to make it into a adaptive
+
+567
+00:40:09,510 --> 00:40:14,550
+story and then you can leave it behind and it actually produces neurological
+
+568
+00:40:14,550 --> 00:40:17,720
+transformation as you do that the memories in some sense actually move
+
+569
+00:40:17,719 --> 00:40:23,219
+their psychophysiological location you could say their location in your psyche
+
+570
+00:40:23,219 --> 00:40:27,219
+but you can also note that the brain systems that are handling the memories
+
+571
+00:40:27,219 --> 00:40:30,639
+aren't the same so they're much more limbic they're way
+
+572
+00:40:30,639 --> 00:40:34,529
+lower and closer to the emotional centers when it's still raw trauma and
+
+573
+00:40:34,530 --> 00:40:38,670
+by the time it's fully articulated it's more represented in an articulated story
+
+574
+00:40:38,670 --> 00:40:43,079
+a causal story and that's partly why writing about emotional events actually
+
+575
+00:40:43,079 --> 00:40:47,949
+helps you overcome them so and it's possible that writing about how it is
+
+576
+00:40:47,949 --> 00:40:51,899
+that you overcome emotional events in general is actually the best kind of
+
+577
+00:40:51,900 --> 00:40:56,320
+therapy right not how do you solve a particular problem but how is it that
+
+578
+00:40:56,320 --> 00:41:00,170
+you orient yourself in the world so that you solve the class of the fact that
+
+579
+00:41:00,170 --> 00:41:04,079
+there are problems right that's that's the ultimate story and I think that's
+
+580
+00:41:04,079 --> 00:41:07,929
+the hero myth and I also think that that's the knowledge generating process
+
+581
+00:41:07,929 --> 00:41:12,199
+that Piaget is talking about you that's because you have you're constantly
+
+582
+00:41:12,199 --> 00:41:15,460
+overcoming problems in the world and the problems are that you don't know
+
+583
+00:41:15,460 --> 00:41:19,130
+enough to get what you want from the world and so you get that mismatch
+
+584
+00:41:19,130 --> 00:41:21,269
+mismatch there's you've got whole brain systems
+
+585
+00:41:21,269 --> 00:41:25,230
+that are designed to do nothing but detect that mismatch like crucial
+
+586
+00:41:25,230 --> 00:41:29,190
+central brain structures and we'll talk about that a lot when we get into the
+
+587
+00:41:29,190 --> 00:41:34,539
+into the physiology so all right how does on what does an individual basis
+
+588
+00:41:34,539 --> 00:41:38,289
+judgments water is norms how are they validated how do you know if you're
+
+589
+00:41:38,289 --> 00:41:41,989
+right about your norms what's the interest of such norms for the
+
+590
+00:41:41,989 --> 00:41:45,959
+philosophy of science in general that's a really tough one it's like well you
+
+591
+00:41:45,960 --> 00:41:50,970
+have norms and expectations as a human being and because of that they they have
+
+592
+00:41:50,969 --> 00:41:56,529
+a determining influence on the manner in which you conduct science so for example
+
+593
+00:41:56,530 --> 00:41:59,810
+here's one of the problems with a straight realist view so we could be
+
+594
+00:41:59,809 --> 00:42:03,769
+having a discussion and I could say well you know that tile is to the right of
+
+595
+00:42:03,769 --> 00:42:08,159
+that tile and then I could say well this brick is smaller than that brick and
+
+596
+00:42:08,159 --> 00:42:11,869
+then I could say you know the roof is white really quite white there and start
+
+597
+00:42:11,869 --> 00:42:15,549
+back there and like after about 20 statements like that you're just going
+
+598
+00:42:15,550 --> 00:42:19,570
+to want to slap me and the reason for that is that well those statements are
+
+599
+00:42:19,570 --> 00:42:24,210
+perfectly valid representations of fact but there's an infinite number of facts
+
+600
+00:42:24,210 --> 00:42:29,619
+and most of them are irrelevant and that's the thing that's the thing the
+
+601
+00:42:29,619 --> 00:42:33,589
+facts have to be relevant like if you come to a lecture and all the person
+
+602
+00:42:33,590 --> 00:42:37,289
+does is tell you irrelevant facts what happens you've been in lots of lectures
+
+603
+00:42:37,289 --> 00:42:41,320
+like that what happens when you start fantasizing about something that might
+
+604
+00:42:41,320 --> 00:42:49,710
+be more worthwhile you know or you go to sleep because your
+
+605
+00:42:49,710 --> 00:42:53,070
+brain is a lot smarter than you are it figures hell if all we're gonna get
+
+606
+00:42:53,070 --> 00:42:57,170
+exposed to here is an infinite infinite number of irrelevant facts we might as
+
+607
+00:42:57,170 --> 00:43:01,010
+well have a nap until something important happens so it's true it's
+
+608
+00:43:01,010 --> 00:43:05,420
+exactly how it works now this is gonna get big isn't that what happens next
+
+609
+00:43:05,420 --> 00:43:11,480
+No so okay so and then how does the fact that the child children think
+
+610
+00:43:11,480 --> 00:43:16,929
+differently affect our presumption of fact itself children live in the world
+
+611
+00:43:16,929 --> 00:43:20,849
+they think differently about the world but yet they survive and so well I
+
+612
+00:43:20,849 --> 00:43:24,630
+already mentioned a partial solution to that adults intercede you know around
+
+613
+00:43:24,630 --> 00:43:28,070
+the edges around the borders children do this all the time a so it's called
+
+614
+00:43:28,070 --> 00:43:32,789
+referencing and they do it two ways so for example if you're in a room with
+
+615
+00:43:32,789 --> 00:43:37,769
+your child maybe to wait and mouse runs across the child will orient to it watch
+
+616
+00:43:37,769 --> 00:43:41,710
+it track it that's pretty much unconscious and the mother let's say
+
+617
+00:43:41,710 --> 00:43:44,809
+will do that too and then the child looks at the mouse and then looks at the
+
+618
+00:43:44,809 --> 00:43:49,309
+mother and the reason is is because the child doesn't know what the mouse is and
+
+619
+00:43:49,309 --> 00:43:52,630
+so then it looks at the mother to read from the mothers face which is a
+
+620
+00:43:52,630 --> 00:43:56,470
+projection screen of emotions how to classify the mouse in terms of import
+
+621
+00:43:56,469 --> 00:44:00,358
+and if the mother is like all calm about it and gives the kid a pad it's like you
+
+622
+00:44:00,358 --> 00:44:05,949
+know okay whatever you know not a danger that's what the
+
+623
+00:44:05,949 --> 00:44:11,429
+mouse is first danger not danger it's way after that that it's a mouse
+
+624
+00:44:11,429 --> 00:44:14,779
+you think no it's a mouse to begin with it's like these things are not so
+
+625
+00:44:14,780 --> 00:44:18,490
+straightforward they are not so straightforward so anyways if the mother
+
+626
+00:44:18,489 --> 00:44:21,899
+climbs up on the table it has a screaming fit then the child's already
+
+627
+00:44:21,900 --> 00:44:26,630
+prepared because of this anomaly to be emotionally responsive the child looks
+
+628
+00:44:26,630 --> 00:44:30,960
+at the mothers face it's got terror on at the mouse child takes small danger
+
+629
+00:44:30,960 --> 00:44:36,920
+big danger it's like phobia phobia phobia now all kids that won't happen to
+
+630
+00:44:36,920 --> 00:44:40,460
+you because some are very emotionally robust but if they're very Charles very
+
+631
+00:44:40,460 --> 00:44:44,369
+high in neuroticism trait neuroticism the probability that they'll develop a
+
+632
+00:44:44,369 --> 00:44:49,410
+permanent semi-permanent fear of the mouse is extraordinarily high and that's
+
+633
+00:44:49,409 --> 00:44:53,250
+what should happen because the mother tells you what the mouse is and in the
+
+634
+00:44:53,250 --> 00:44:58,409
+face does it's a mouse it says safety danger and that's the first thing you
+
+635
+00:44:58,409 --> 00:44:59,980
+want to know about something is it safer is it
+
+636
+00:44:59,980 --> 00:45:03,920
+dangerous and that's a tricky one eh because whether something is safe for
+
+637
+00:45:03,920 --> 00:45:08,889
+dangerous is not exactly an objective fact there's a guy named JJ Gibson who
+
+638
+00:45:08,889 --> 00:45:12,259
+wrote a book called NACA logical approach to visual perception which I
+
+639
+00:45:12,260 --> 00:45:16,130
+would highly recommend and his claim in that book it's a real work of genius I
+
+640
+00:45:16,130 --> 00:45:19,950
+believe is that when you see when you walk towards a cliff you don't see a
+
+641
+00:45:19,949 --> 00:45:25,529
+cliff you don't see a cliff and infer danger what you see is a falling off
+
+642
+00:45:25,530 --> 00:45:29,960
+place and you infer cliff and you can tell that some of you have vertigo you
+
+643
+00:45:29,960 --> 00:45:33,550
+go up on the 26th floor out into balcony and it's like you don't want to go near
+
+644
+00:45:33,550 --> 00:45:36,539
+the edge maybe you feel like you're gonna throw yourself over because people
+
+645
+00:45:36,539 --> 00:45:40,239
+have that kind of what if what if I fell or what if I jumped over it's like stay
+
+646
+00:45:40,239 --> 00:45:45,419
+away from that it's like that perception of the danger precedes your perception
+
+647
+00:45:45,420 --> 00:45:50,159
+of the balcony and the object now you know that's how your brain is wired the
+
+648
+00:45:50,159 --> 00:45:54,608
+dangers first object second so in people with blind sight who I've talked about
+
+649
+00:45:54,608 --> 00:45:58,529
+before who think they're blind they can't see then they tell you that they
+
+650
+00:45:58,530 --> 00:46:01,980
+could still detect fearful faces and you could detect their detection by
+
+651
+00:46:01,980 --> 00:46:05,440
+measuring their skin conductance and so their eyes are mapping right on to their
+
+652
+00:46:05,440 --> 00:46:08,889
+fear and reflex systems without any intermediary of objective perception
+
+653
+00:46:08,889 --> 00:46:12,940
+whatsoever so don't be thinking that what you see in the world is the
+
+654
+00:46:12,940 --> 00:46:16,159
+objective world and then infer its meaning it could easily be exactly
+
+655
+00:46:16,159 --> 00:46:19,819
+backwards and it looks like if you look at how the brain is set up that it is in
+
+656
+00:46:19,820 --> 00:46:24,789
+fact actually backwards or at least parallel but but the but the danger not
+
+657
+00:46:24,789 --> 00:46:30,210
+danger perception has to be very very very very fast and so it precedes the
+
+658
+00:46:30,210 --> 00:46:34,730
+more elaborate cognitive interpretations even the perceptions because it actually
+
+659
+00:46:34,730 --> 00:46:38,800
+takes a while to see something because it's really complicated to see something
+
+660
+00:46:38,800 --> 00:46:42,670
+and so you can't just wait around to see the damn thing before you act you just
+
+661
+00:46:42,670 --> 00:46:47,780
+not fast enough so they say if you're a pro tennis player the time it takes the
+
+662
+00:46:47,780 --> 00:46:51,490
+ball to leave your opponent's racket to get to you is not long enough for you to
+
+663
+00:46:51,489 --> 00:46:56,459
+plan any motor act so what you're doing is you've got them what you dis inhibit
+
+664
+00:46:56,460 --> 00:47:01,070
+the motor act by looking at the stance of your opponent and watching and by the
+
+665
+00:47:01,070 --> 00:47:04,980
+time they hit it you're already prepared for the response because you just not
+
+666
+00:47:04,980 --> 00:47:09,000
+it's coming at 120 miles an hour it's like it's going fifty feet you don't
+
+667
+00:47:09,000 --> 00:47:13,849
+have the reflexes for it so your your your eyes are making
+
+668
+00:47:13,849 --> 00:47:17,779
+body ready without in some sense without your conscious perception you become
+
+669
+00:47:17,780 --> 00:47:21,710
+conscious if you make a mistake right in fact that's kind of what consciousness
+
+670
+00:47:21,710 --> 00:47:25,150
+is for it's like detect error fix detect error fix
+
+671
+00:47:25,150 --> 00:47:28,940
+that's consciousness it's not plan what you're going to do next although it's
+
+672
+00:47:28,940 --> 00:47:33,480
+not that simple either other problems that Piaget was trying to address well
+
+673
+00:47:33,480 --> 00:47:38,030
+what water numbers what does it mean for there to be space what what do we mean
+
+674
+00:47:38,030 --> 00:47:42,820
+when we when we talk about time how do we how did we come up with that concept
+
+675
+00:47:42,820 --> 00:47:48,260
+what does speed mean how do we know an object is permanent how do we know that
+
+676
+00:47:48,260 --> 00:47:52,910
+an object stays the same across sets of transformation so that's a very classic
+
+677
+00:47:52,909 --> 00:47:56,469
+piagetian problem so let's say you give a kid a bowl of clay and then you crush
+
+678
+00:47:56,469 --> 00:48:00,669
+it so it's now a cylinder is like is that the same thing or is it a different
+
+679
+00:48:00,670 --> 00:48:04,340
+thing and the answer is well it's the same thing and it's a different thing
+
+680
+00:48:04,340 --> 00:48:07,390
+but there's something about it that remained constant across the
+
+681
+00:48:07,389 --> 00:48:12,219
+transformations and so one of the things that Piaget is trying to figure out is
+
+682
+00:48:12,219 --> 00:48:16,179
+what remains constant across transformations because you might think
+
+683
+00:48:16,179 --> 00:48:20,219
+about that is a real fact protons are like that right they remain constant
+
+684
+00:48:20,219 --> 00:48:23,899
+across transformations and so we assume that they're pretty damn real and they
+
+685
+00:48:23,900 --> 00:48:27,720
+last I don't know how long protons last it's like I don't know what it is it's
+
+686
+00:48:27,719 --> 00:48:31,189
+some tens of billions of so don't worry your protons are going to just sit right
+
+687
+00:48:31,190 --> 00:48:35,190
+there and behave you know so they last for a very very very long time across
+
+688
+00:48:35,190 --> 00:48:39,460
+sets of transformation so we can regard them as real he was interested in why
+
+689
+00:48:39,460 --> 00:48:44,050
+children play and why there are patterns in play and how that's related to dreams
+
+690
+00:48:44,050 --> 00:48:47,490
+and he was really interested in the fact that we imitate other people and this is
+
+691
+00:48:47,489 --> 00:48:51,309
+another part of Piaget staggering genius in my estimation because he was one of
+
+692
+00:48:51,309 --> 00:48:56,460
+the early developmental thinkers who understood that our capacity for
+
+693
+00:48:56,460 --> 00:49:00,630
+learning was not so much mediated by language as it was mediated by our
+
+694
+00:49:00,630 --> 00:49:05,680
+capacity to use our bodies to represent the bodies of other people and that's
+
+695
+00:49:05,679 --> 00:49:10,299
+mind-boggling it's a mind-boggling idea so you know you hear monkey-see
+
+696
+00:49:10,300 --> 00:49:13,570
+monkey-do but it's actually not true they're not very good at imitating
+
+697
+00:49:13,570 --> 00:49:20,059
+octopuses or octopi they can imitate actually so if you give a octopus a
+
+698
+00:49:20,059 --> 00:49:23,460
+bottle with a cork in it and there's a crab in the cork it can figure out how
+
+699
+00:49:23,460 --> 00:49:27,490
+to get out the cork and sneak out the crab but if you get an octopus to watch
+
+700
+00:49:27,489 --> 00:49:29,349
+it our octopus do that it'll learn to do it
+
+701
+00:49:29,349 --> 00:49:33,289
+faster those things are smart and that's partly that's because they're all
+
+702
+00:49:33,289 --> 00:49:36,820
+tentacley right and so they actually have something they can do something
+
+703
+00:49:36,820 --> 00:49:41,119
+with like our hands there's our tentacles you know an octopus I can
+
+704
+00:49:41,119 --> 00:49:44,019
+operate in the world because they have tentacles and and you know you hear
+
+705
+00:49:44,019 --> 00:49:47,199
+about the superhuman intelligence of things like dolphins and whales it's
+
+706
+00:49:47,199 --> 00:49:51,779
+like ya know they're basically test tubes you know what what are we gonna do
+
+707
+00:49:51,780 --> 00:49:55,680
+now tap a city it's like no they're not gonna do that
+
+708
+00:49:55,679 --> 00:49:58,929
+they can't manipulate the world so whatever their intelligence is it's way
+
+709
+00:49:58,929 --> 00:50:04,149
+different than ours okay imitation so partly what you're doing all the time is
+
+710
+00:50:04,150 --> 00:50:07,950
+imitating other people all of you are imitating each other right now
+
+711
+00:50:07,949 --> 00:50:13,169
+you can tell because look around you're all doing exactly the same thing so it's
+
+712
+00:50:13,170 --> 00:50:17,450
+it's mass imitation and that's really a huge part of social structure is that
+
+713
+00:50:17,449 --> 00:50:21,519
+we're constantly imitating each other and so that means that your body and her
+
+714
+00:50:21,519 --> 00:50:24,880
+body are very much matched physiologically right now you're in the
+
+715
+00:50:24,880 --> 00:50:28,829
+same state and you can tell because you basically have the same expression and
+
+716
+00:50:28,829 --> 00:50:33,069
+as long as all you crazy primates violent primates have the same
+
+717
+00:50:33,070 --> 00:50:38,170
+expression on you can pretty much be sure that all of you are thinking and
+
+718
+00:50:38,170 --> 00:50:42,230
+about to do approximately the same thing and so you can keep that match between
+
+719
+00:50:42,230 --> 00:50:47,010
+your desire slash expectation and reality happening and that's why we have
+
+720
+00:50:47,010 --> 00:50:50,600
+a face it's so that other people know what the hell we're up to and that's why
+
+721
+00:50:50,599 --> 00:50:53,819
+you're always watching people's faces because you want to see what they're up
+
+722
+00:50:53,820 --> 00:50:58,750
+to and that's why you have white surround your iris gorillas don't and so
+
+723
+00:50:58,750 --> 00:51:01,780
+that's because I can see exactly where your eyes are pointing because they're
+
+724
+00:51:01,780 --> 00:51:05,800
+highlighted by that white and I'm unbelievably good at detecting the
+
+725
+00:51:05,800 --> 00:51:09,810
+precise direction of your gaze and so if you stand on the corner and look up the
+
+726
+00:51:09,809 --> 00:51:13,440
+buildings other people will stand beside you and look up because they think well
+
+727
+00:51:13,440 --> 00:51:16,789
+that guy would be standing there pointing his eyes into the sky unless
+
+728
+00:51:16,789 --> 00:51:20,590
+there was something of interest to a primate like me and so this classic
+
+729
+00:51:20,590 --> 00:51:24,250
+social psychology experiment you'll get people gathered around trying to figure
+
+730
+00:51:24,250 --> 00:51:28,300
+out what the hell it is that you're pointing your eyes at right because that
+
+731
+00:51:28,300 --> 00:51:32,490
+indicates intense interest interest in something valuable that I might be able
+
+732
+00:51:32,489 --> 00:51:36,149
+to share partake in if I can figure out what it is that you're up to and so all
+
+733
+00:51:36,150 --> 00:51:40,059
+your ancestors who didn't have nicely defined eyes they all got killed or they
+
+734
+00:51:40,059 --> 00:51:43,699
+didn't mate and that's why you have these beautiful white eyes
+
+735
+00:51:43,699 --> 00:51:47,439
+with this like colorful iris in the middle it's so that people
+
+736
+00:51:47,440 --> 00:51:50,570
+can tell what the hell you're up to and they're more likely to cooperate with
+
+737
+00:51:50,570 --> 00:51:53,960
+you more likely to mate with you and less likely to kill you which is you
+
+738
+00:51:53,960 --> 00:51:58,940
+know probably a good thing all things considered and so you know if you look
+
+739
+00:51:58,940 --> 00:52:03,019
+at the same thing that someone else is looking at you're imitating them and one
+
+740
+00:52:03,019 --> 00:52:06,440
+of the things that's interesting is that if you're looking at the same thing that
+
+741
+00:52:06,440 --> 00:52:10,209
+someone else is looking at and you would have at the same value structure then
+
+742
+00:52:10,210 --> 00:52:14,039
+your emotional responses are going to be very much akin to one another and you
+
+743
+00:52:14,039 --> 00:52:18,940
+can tell that when you go to a movie and you watch the hero and you embody the
+
+744
+00:52:18,940 --> 00:52:22,880
+hero while you're doing so and the emotions that you produce inside of you
+
+745
+00:52:22,880 --> 00:52:26,680
+by imitating the hero on the screen enable you to figure out what the hero
+
+746
+00:52:26,679 --> 00:52:30,699
+is going through and you can learn from that and so that's a very complex form
+
+747
+00:52:30,699 --> 00:52:34,629
+of imitation and we do that when we tell stories or we watch stories and those
+
+748
+00:52:34,630 --> 00:52:38,750
+stories are really complicated because as we already outline they're not just
+
+749
+00:52:38,750 --> 00:52:42,690
+factual representations of someone's action during a day their
+
+750
+00:52:42,690 --> 00:52:46,530
+representations of the important things that the person did the meaningful
+
+751
+00:52:46,530 --> 00:52:50,700
+things and so when you go see a movie all you're doing is watching meaningful
+
+752
+00:52:50,699 --> 00:52:56,000
+things if the movies any good and you know that because well if the movie
+
+753
+00:52:56,001 --> 00:53:02,400
+isn't meaningful well then you leave your board right it's and the fact that
+
+754
+00:53:02,400 --> 00:53:05,849
+it's meaningful is what keeps you in the seat and you don't necessarily know why
+
+755
+00:53:05,849 --> 00:53:08,950
+in fact you often have no idea why it's meaningful
+
+756
+00:53:08,949 --> 00:53:13,598
+it's like watching Pinocchio rescue is farther from a whale it's like what the
+
+757
+00:53:13,599 --> 00:53:19,400
+hell you know how I is that meaningful well you don't know but it is so moral
+
+758
+00:53:19,400 --> 00:53:23,220
+concerns well we already talked about Piaget is concerned about morality oh
+
+759
+00:53:23,219 --> 00:53:40,559
+boy this is really not good
+
+760
+00:53:40,559 --> 00:53:45,420
+okay here's a proposition constructivist proposition knowledge does not begin in
+
+761
+00:53:45,420 --> 00:53:50,751
+the eye by by which he means they're kind of two ways of looking at the world
+
+762
+00:53:50,751 --> 00:53:54,820
+there's more but we'll start with that one is is that all of your knowledge
+
+763
+00:53:54,820 --> 00:54:00,349
+comes from outside sense data okay and now that's kind of a behaviorist claim
+
+764
+00:54:00,349 --> 00:54:05,650
+and before that it's a it's an empiricist claim and then the other
+
+765
+00:54:05,650 --> 00:54:09,550
+ideas no that can't be right because you have internal structures that enable you
+
+766
+00:54:09,550 --> 00:54:14,450
+to look at the world and interpret it and so and and some of those might be
+
+767
+00:54:14,449 --> 00:54:17,889
+implicit axiomatic like the fact that you have two eyes and you look at the
+
+768
+00:54:17,889 --> 00:54:21,639
+outward into the world and that you can hear and that you can touch it's like
+
+769
+00:54:21,639 --> 00:54:25,239
+the fact of those senses isn't dependent on the empirical reality for those
+
+770
+00:54:25,239 --> 00:54:28,629
+senses to manifest themselves they're already built into you and people like
+
+771
+00:54:28,630 --> 00:54:33,460
+Kant for example made the proposition that we had a priori knowledge
+
+772
+00:54:33,460 --> 00:54:36,269
+structures and that we use them to interpret the world and so it's
+
+773
+00:54:36,269 --> 00:54:40,159
+different than him it's different than empiricism and so what
+
+774
+00:54:40,159 --> 00:54:44,319
+Piaget is saying well it's neither of those are right exactly it's not like
+
+775
+00:54:44,320 --> 00:54:48,580
+you will learn everything from the world through your senses and it's not as if
+
+776
+00:54:48,579 --> 00:54:53,000
+you project everything onto the world as interpretation it's something in-between
+
+777
+00:54:53,000 --> 00:54:57,980
+and it's a dynamic it's a dynamic and so and it's like bootstrapping
+
+778
+00:54:57,980 --> 00:55:00,920
+that's the right way to think about it you know when your computer boots up
+
+779
+00:55:00,920 --> 00:55:04,510
+that means bootstrapping its off and then a bunch of simple
+
+780
+00:55:04,510 --> 00:55:07,750
+processes occur and then out of those simple processes some more complex
+
+781
+00:55:07,750 --> 00:55:11,608
+processes emerge and then out of those some more complex processes emerge and
+
+782
+00:55:11,608 --> 00:55:15,009
+all of a sudden your computer is there well that's kind of what Piaget thinks
+
+783
+00:55:15,010 --> 00:55:19,620
+happens to you you bootstrap yourself and so you have got a couple of reflexes
+
+784
+00:55:19,619 --> 00:55:23,250
+to begin with like the sucking reflex for example and you've got some
+
+785
+00:55:23,250 --> 00:55:27,699
+proclivities like maybe you can sort of flip your hand or or you develop that
+
+786
+00:55:27,699 --> 00:55:32,250
+and you have reflexes so you know if you blow on a baby for example a baby you'll
+
+787
+00:55:32,250 --> 00:55:37,000
+go like this it's built into it it's like an it's a it's a startle reflex
+
+788
+00:55:37,000 --> 00:55:40,039
+essentially so that startle reflex is there right from the beginning so whole
+
+789
+00:55:40,039 --> 00:55:44,550
+body reflex and you know if you stroke the bottom of their feet their feet will
+
+790
+00:55:44,550 --> 00:55:48,440
+sort of curl up and if you put your finger in their hands even a newborn if
+
+791
+00:55:48,440 --> 00:55:52,338
+you put your finger in their hands you can lift them right up and it's sort of
+
+792
+00:55:52,338 --> 00:55:57,029
+well clinging ape you know because chimpanzee infants
+
+793
+00:55:57,030 --> 00:56:00,420
+cling to their mother for like five years and so without reflux is still
+
+794
+00:56:00,420 --> 00:56:05,869
+there so the kid comes into the world born with these simplistic low
+
+795
+00:56:05,869 --> 00:56:10,858
+resolution procedures that enable it to get a foothold on the world and then out
+
+796
+00:56:10,858 --> 00:56:16,519
+of that the child emerges and that's so the constructivist idea is that well it
+
+797
+00:56:16,519 --> 00:56:20,969
+isn't like you have your heads full of fully developed axiomatic structures and
+
+798
+00:56:20,969 --> 00:56:24,419
+it isn't that you get all your knowledge from the world it's that you have a bit
+
+799
+00:56:24,420 --> 00:56:27,900
+of structure there to begin with that gives you a toehold on the world and
+
+800
+00:56:27,900 --> 00:56:33,650
+then you act in the world and as you act you generate information and out of that
+
+801
+00:56:33,650 --> 00:56:38,099
+information you make the structures inside of you and you make the world
+
+802
+00:56:38,099 --> 00:56:42,230
+that's a constructivist idea is that you take whatever's there this tremendous
+
+803
+00:56:42,230 --> 00:56:48,400
+complexity and you sort it into you and the world and so and so that that goes
+
+804
+00:56:48,400 --> 00:56:52,480
+back to that William James idea about that initial chaos and it's a hard
+
+805
+00:56:52,480 --> 00:56:56,760
+conflict it's a hard hard concept to grasp because that isn't really how we
+
+806
+00:56:56,760 --> 00:57:00,400
+think you know we think that there's an objective world and there's a subjective
+
+807
+00:57:00,400 --> 00:57:04,760
+world and that the objective world is just there and the subjective world is
+
+808
+00:57:04,760 --> 00:57:09,040
+maybe a subset of that but that is not piagetian presupposition it's not a
+
+809
+00:57:09,039 --> 00:57:13,179
+presupposition of phenomenologist sin general who we'll talk about later
+
+810
+00:57:13,179 --> 00:57:18,460
+but so here's one example of how to think about this in a sense it's like
+
+811
+00:57:18,460 --> 00:57:21,619
+you know you think as Piaget said you kind of think that your representations
+
+812
+00:57:21,619 --> 00:57:24,869
+of the world are fixed so we'll go back to the you're in a long-term
+
+813
+00:57:24,869 --> 00:57:29,640
+relationship and the person betrays you a scenario right so you've been with
+
+814
+00:57:29,639 --> 00:57:34,920
+this person 10 years you assume fidelity and faithfulness and honesty and all of
+
+815
+00:57:34,920 --> 00:57:40,108
+that you you weave a shared narrative you both inhabit that it structures your
+
+816
+00:57:40,108 --> 00:57:43,369
+existence and regulates your emotion then you find out that the person has
+
+817
+00:57:43,369 --> 00:57:48,519
+not only betrayed you once but multiple times it's like okay what you thought
+
+818
+00:57:48,519 --> 00:57:53,630
+isn't what happened but here's the weird thing you see because you interpreted
+
+819
+00:57:53,630 --> 00:57:58,720
+the world obviously within the confines of that relationship and you hadn't you
+
+820
+00:57:58,719 --> 00:58:03,480
+know obviously you had an interpretation but there was also a world that's the
+
+821
+00:58:03,480 --> 00:58:08,320
+world you thought you lived in it's like those were facts well all of a sudden
+
+822
+00:58:08,320 --> 00:58:12,480
+those aren't facts they're not at all facts and so what happens that's that
+
+823
+00:58:12,480 --> 00:58:16,380
+descent into the underworld it's like all of a sudden what happens is that
+
+824
+00:58:16,380 --> 00:58:21,619
+past that you thought was fixed now becomes this weird mixture of fantasy
+
+825
+00:58:21,619 --> 00:58:25,289
+because you're wondering what what what what is it that happened then and you're
+
+826
+00:58:25,289 --> 00:58:30,369
+gonna run through all sorts of fantasies some of them are gonna be really dark
+
+827
+00:58:30,369 --> 00:58:33,400
+you know really dark about what happened in the state of the world and all that
+
+828
+00:58:33,400 --> 00:58:37,849
+and those are unconscious fantasies and that's mingled inextricably with the
+
+829
+00:58:37,849 --> 00:58:42,450
+world right because you don't know the facts anymore which kind of suggests
+
+830
+00:58:42,449 --> 00:58:46,250
+that maybe you never did know them and that's pretty strange thing because you
+
+831
+00:58:46,250 --> 00:58:49,880
+know you're operating as if you've got this factual representation of the world
+
+832
+00:58:49,880 --> 00:58:53,900
+but it can be upended like that and so that makes you think well what about
+
+833
+00:58:53,900 --> 00:58:58,720
+these facts like they're kind of they're kind of hard to get a handle on you know
+
+834
+00:58:58,719 --> 00:59:03,969
+and you see this a lot in court room in courtroom situations because of course
+
+835
+00:59:03,969 --> 00:59:09,019
+what the court decides is what happened and the answer is we don't exactly know
+
+836
+00:59:09,019 --> 00:59:14,969
+because you can keep making the context of interpretation wider and wider so you
+
+837
+00:59:14,969 --> 00:59:18,769
+know maybe you bring your partner to court because they've betrayed you let's
+
+838
+00:59:18,769 --> 00:59:21,780
+say and you're trying to get a divorce settlement predicated on that but then
+
+839
+00:59:21,780 --> 00:59:24,790
+they tell a bunch of stories about how you were just as miserable as you could
+
+840
+00:59:24,789 --> 00:59:28,420
+possibly be and that anybody with any sense would have betrayed you and never
+
+841
+00:59:28,420 --> 00:59:31,760
+told you about it because you know that's just what a normal sensible
+
+842
+00:59:31,760 --> 00:59:36,460
+person would do and so then the question is well were you actually betrayed and
+
+843
+00:59:36,460 --> 00:59:39,550
+if you were well who was it that betrayed you was that your partner was
+
+844
+00:59:39,550 --> 00:59:43,550
+it you or is it your bloody mother or your father who taught you act that way
+
+845
+00:59:43,550 --> 00:59:47,220
+or who didn't teach you it's like it's a hell of a thing because you can just
+
+846
+00:59:47,219 --> 00:59:52,250
+keep altering the interpretive context and within it the facts shift around and
+
+847
+00:59:52,250 --> 00:59:56,900
+then you might say well they're not facts it's like yeah yeah you can say
+
+848
+00:59:56,900 --> 01:00:01,010
+that but it's it's more complicated than that by a large margin
+
+849
+01:00:01,010 --> 01:00:08,410
+anyways so PJ's notion is essentially that well this is how I interpret it
+
+850
+01:00:08,409 --> 01:00:12,489
+this is sort of this is my thinking in some sense but I'm offering it to you as
+
+851
+01:00:12,489 --> 01:00:17,159
+a scheme for helping you understand Piaget it's like junior Rome Bruner
+
+852
+01:00:17,159 --> 01:00:22,269
+famous famous cognitive psychologist said we seem to have no other way
+
+853
+01:00:22,269 --> 01:00:27,869
+of describing live time SEP except in the form of a narrative and a narrative
+
+854
+01:00:27,869 --> 01:00:32,710
+as far as I could tell I think this is the same thing as one of PS J's
+
+855
+01:00:32,710 --> 01:00:36,970
+knowledge representations as far as I can tell there's a representation of you
+
+856
+01:00:36,969 --> 01:00:40,469
+and there's a representation of the future and there's behaviors that you
+
+857
+01:00:40,469 --> 01:00:45,439
+use to transform one into the other and so when Piaget talks about so this is
+
+858
+01:00:45,440 --> 01:00:49,960
+kind of where the mind meets the body that that's how it looks to me it's like
+
+859
+01:00:49,960 --> 01:00:53,338
+you have a conception of you and you have something you're aiming at you want
+
+860
+01:00:53,338 --> 01:00:56,170
+to have happen those are both representations but when
+
+861
+01:00:56,170 --> 01:00:59,331
+you act in the world those aren't representations anymore those are
+
+862
+01:00:59,331 --> 01:01:03,720
+actually actions and some of mine transforms into body when you act out
+
+863
+01:01:03,719 --> 01:01:07,480
+your notion and that's that's sort of how the mind is linked to the body as
+
+864
+01:01:07,480 --> 01:01:12,460
+far as I can tell and so what Piaget says is that the behaviors are built
+
+865
+01:01:12,460 --> 01:01:18,260
+before the representation and so we're going to take a look at that so here's
+
+866
+01:01:18,260 --> 01:01:24,990
+here's a Piaget a notion of assimilation and accommodation whereas other animals
+
+867
+01:01:24,989 --> 01:01:27,639
+cannot alter themselves except by changing their species
+
+868
+01:01:27,639 --> 01:01:32,139
+so that's through Darwinian means right so what happens is a bear is a kind of
+
+869
+01:01:32,139 --> 01:01:35,179
+solution to a set of problems and they're the problems that the bear's
+
+870
+01:01:35,179 --> 01:01:38,559
+environment presents and the bear is just a bear so it's sort of like bears
+
+871
+01:01:38,559 --> 01:01:42,159
+were ten thousand years ago and the only way the bear can solve a new problem
+
+872
+01:01:42,159 --> 01:01:45,949
+basically is by generating new random bears which is what it does wouldn't
+
+873
+01:01:45,949 --> 01:01:49,960
+reproduce us and hoping that one of those more random bears is a better fit
+
+874
+01:01:49,960 --> 01:01:53,470
+for whatever random change might occur in the environment that's the whole
+
+875
+01:01:53,469 --> 01:01:57,829
+Darwinian issue right you can't predict which way the environment is going to go
+
+876
+01:01:57,829 --> 01:02:01,130
+and so what you do is you take your structure and you vary it and you throw
+
+877
+01:02:01,130 --> 01:02:07,000
+those out into the world and some animals do that expensively so they have
+
+878
+01:02:07,000 --> 01:02:10,119
+infants that they have to program to that specific environment but it takes a
+
+879
+01:02:10,119 --> 01:02:14,989
+lot of investment and some creatures do that cheaply like mosquitoes it's like
+
+880
+01:02:14,989 --> 01:02:17,809
+they don't care for their kids but they have a million of them so like who cares
+
+881
+01:02:17,809 --> 01:02:21,130
+if nine hundred and ninety nine thousand nine hundred ninety eight die there's
+
+882
+01:02:21,130 --> 01:02:25,280
+still twice as many of you as there were so those are two different reproductive
+
+883
+01:02:25,280 --> 01:02:30,450
+strategies and you could think about all those mosquito offspring as new mosquito
+
+884
+01:02:30,449 --> 01:02:34,779
+ideas in embodied form and most of them are bad ideas and so the environment
+
+885
+01:02:34,780 --> 01:02:37,859
+just wipes them out Opia Jays point is we do the same thing
+
+886
+01:02:37,858 --> 01:02:40,769
+with our cognitive structures and that's the thing that's so interesting about
+
+887
+01:02:40,769 --> 01:02:45,489
+people in some sense that we've internalized the Darwinian problem and
+
+888
+01:02:45,489 --> 01:02:48,969
+so when you think about the future what you're doing is generating a
+
+889
+01:02:48,969 --> 01:02:53,379
+multiplicity of potential environments and then you're generating a sequence of
+
+890
+01:02:53,380 --> 01:02:57,730
+avatars of yourself to live in those fictional futures and then you watch
+
+891
+01:02:57,730 --> 01:03:02,460
+what happens as that Avatar lives in each of those those fictional futures
+
+892
+01:03:02,460 --> 01:03:07,010
+and if the Avatar fails you don't act that out it's bloody brilliant it's
+
+893
+01:03:07,010 --> 01:03:09,461
+brilliant that's what our brain does it's like it
+
+894
+01:03:09,460 --> 01:03:15,118
+hypothesizes potential futures it runs simulations and it kills them and that
+
+895
+01:03:15,119 --> 01:03:18,349
+can be really painful but it beats the hell out of dying yourself or maybe
+
+896
+01:03:18,349 --> 01:03:22,750
+sometimes you won't think so because it really can be painful but it's it's it's
+
+897
+01:03:22,750 --> 01:03:26,179
+something that as far as we know only human beings can really do right we
+
+898
+01:03:26,179 --> 01:03:30,989
+invent possible futures and invent possible future selves and kill them off
+
+899
+01:03:30,989 --> 01:03:34,829
+in our imagination and that's what you're doing in an argument that's what
+
+900
+01:03:34,829 --> 01:03:39,750
+an argument is it's like well here's an avatar a representational avatar you
+
+901
+01:03:39,750 --> 01:03:43,730
+know that's based on certain axioms and all articulated and you articulate yours
+
+902
+01:03:43,730 --> 01:03:47,329
+and we'll have them have a fight in which everyone survives we'll accept as
+
+903
+01:03:47,329 --> 01:03:51,710
+true and we'll move forward and act that out and you know arguments can be pretty
+
+904
+01:03:51,710 --> 01:03:56,349
+damn intense but hypothetically they're not as intense as acting out a stupid
+
+905
+01:03:56,349 --> 01:04:01,699
+idea that's the thing right better to have some conflict and reach resolution
+
+906
+01:04:01,699 --> 01:04:07,250
+in an abstract sense than to embody your stupidity and die and so you know it's
+
+907
+01:04:07,250 --> 01:04:27,119
+sort of a trade-off between anxiety and and an annihilation or pain
+
+908
+01:04:27,119 --> 01:04:29,650
+whereas other animals cannot alter themselves except by changing your
+
+909
+01:04:29,650 --> 01:04:33,650
+species man can transform himself by transforming the world and construct
+
+910
+01:04:33,650 --> 01:04:37,389
+himself by constructing structures and these structures are his own they're not
+
+911
+01:04:37,389 --> 01:04:43,179
+eternally predestined either from within or from without also Piaget you know
+
+912
+01:04:43,179 --> 01:04:46,019
+he's well he's a constructivist he believes that there's something that
+
+913
+01:04:46,019 --> 01:04:50,690
+your biology brings to the table and and and sets up the parameters let's say
+
+914
+01:04:50,690 --> 01:04:53,970
+within which you can play games but within those parameters there's a very
+
+915
+01:04:53,969 --> 01:04:58,569
+wide range of games that you could play and so it's not a biological determinism
+
+916
+01:04:58,570 --> 01:05:01,369
+even though it's a biological framing and you can think about it like a chess
+
+917
+01:05:01,369 --> 01:05:05,970
+game you know let's let's assume that the rules of chess are biologically
+
+918
+01:05:05,969 --> 01:05:09,219
+determined just for the sake of argument you can still play a near infinite
+
+919
+01:05:09,219 --> 01:05:12,939
+number of chess games and so it's the same with you you come into the world
+
+920
+01:05:12,940 --> 01:05:16,849
+with a set of built-in axioms that's sort of your body and your nervous
+
+921
+01:05:16,849 --> 01:05:20,570
+system but you can play a very large number of games within that set of
+
+922
+01:05:20,570 --> 01:05:24,200
+frames and one of the things that's very interesting about that something that's
+
+923
+01:05:24,199 --> 01:05:29,079
+very mysterious to me is this is a game that I played before with students so
+
+924
+01:05:29,079 --> 01:05:31,690
+I'm gonna play it with you if you don't mind so we're gonna play a game you
+
+925
+01:05:31,690 --> 01:05:37,730
+ready okay you move first right exactly you don't know what to do right and
+
+926
+01:05:37,730 --> 01:05:40,969
+that's well that's so interesting because I basically made the
+
+927
+01:05:40,969 --> 01:05:44,459
+presupposition that you could do anything you're completely free and what
+
+928
+01:05:44,460 --> 01:05:47,699
+do you do you throw up your hands it's like you don't know what to do I'm so
+
+929
+01:05:47,699 --> 01:05:52,329
+free it's like free to do what well that's not freedom it's it's just
+
+930
+01:05:52,329 --> 01:05:56,338
+nothing but if I said well look what we're gonna do instead is when I move my
+
+931
+01:05:56,338 --> 01:06:00,380
+arm right you're gonna move your arm right so let's do that okay so I'm gonna
+
+932
+01:06:00,380 --> 01:06:04,809
+go like that you're gonna good and then I'll go like that and then we'll have a
+
+933
+01:06:04,809 --> 01:06:09,509
+little dance yeah yeah so you can play a game like that with it with a kid
+
+934
+01:06:09,510 --> 01:06:14,700
+instantly and they like that they've got that man and so I've got so I've got
+
+935
+01:06:14,699 --> 01:06:18,079
+some pictures of that I'll show you that in a bit but even a newborn baby you
+
+936
+01:06:18,079 --> 01:06:21,108
+stick out your tongue they can stick their tongue out back and now do you
+
+937
+01:06:21,108 --> 01:06:25,088
+think about that that's just absolutely mind-boggling that they can do that and
+
+938
+01:06:25,088 --> 01:06:27,789
+they really can they really do seem to be able to do that right at the moment
+
+939
+01:06:27,789 --> 01:06:34,400
+of birth and so you know you hear babies have no theory of mind it's like ah yeah
+
+940
+01:06:34,400 --> 01:06:39,920
+no they can imitate that's pretty bloody amazing man like you haven't seen robot
+
+941
+01:06:39,920 --> 01:06:43,750
+that can do that yet although there are robots now that you can teach by moving
+
+942
+01:06:43,750 --> 01:06:48,320
+their their arms you move their arms and then they'll do it and so you can
+
+943
+01:06:48,320 --> 01:06:51,849
+actually program them by moving them and then they'll just repeat it and so
+
+944
+01:06:51,849 --> 01:06:55,329
+they're getting damn close to imitation they're really getting close and then
+
+945
+01:06:55,329 --> 01:06:58,800
+look the hell out man because they're gonna be imitating each other as well as
+
+946
+01:06:58,800 --> 01:07:04,210
+us and they're gonna do it so fast you just won't be able to believe it so
+
+947
+01:07:04,210 --> 01:07:09,750
+that's coming the organism adapts itself by but materially constructing new forms
+
+948
+01:07:09,750 --> 01:07:12,900
+to fit themselves into those of the universe where as intelligence extends
+
+949
+01:07:12,900 --> 01:07:16,030
+this creation by constructing mental structures which can be applied to those
+
+950
+01:07:16,030 --> 01:07:19,180
+of the environment that's that there are winny an idea that I just mentioned you
+
+951
+01:07:19,179 --> 01:07:21,889
+know the guys that are building the autonomous cars like they don't think
+
+952
+01:07:21,889 --> 01:07:26,009
+they're building on Thomas cars they know perfectly well what they're doing
+
+953
+01:07:26,010 --> 01:07:30,690
+they're building fleets of mutually intercommunicating autonomous robots and
+
+954
+01:07:30,690 --> 01:07:33,161
+each of them will to be able to teach the other because their nervous system
+
+955
+01:07:33,161 --> 01:07:36,019
+will be the same and when there's ten million of them when one of them learned
+
+956
+01:07:36,019 --> 01:07:39,519
+something all ten million of them will learn it at the same time so they're not
+
+957
+01:07:39,519 --> 01:07:44,150
+gonna have to be very bright before they're very very very smart because us
+
+958
+01:07:44,150 --> 01:07:48,050
+you know we'll learn something you have to imitate it's like god that's hard or
+
+959
+01:07:48,050 --> 01:07:50,990
+I have to explain it to you and you have to understand it and then you have to
+
+960
+01:07:50,989 --> 01:07:55,239
+act it out we're not connected wirelessly with the same platform but
+
+961
+01:07:55,239 --> 01:07:59,549
+robots they are and so once those things get a little bit smart they're not going
+
+962
+01:07:59,550 --> 01:08:04,460
+to stop at a little bit smart for very long they're gonna be unbelievably smart
+
+963
+01:08:04,460 --> 01:08:08,789
+like overnight so and they're imitating the hell out of us right now too because
+
+964
+01:08:08,789 --> 01:08:13,150
+we're teaching them how to understand us every second of every day the net is
+
+965
+01:08:13,150 --> 01:08:16,710
+learning what we're like it's watching us it's communicating with us it's
+
+966
+01:08:16,710 --> 01:08:20,480
+imitating us and it's gonna know it already knows in some ways more about us
+
+967
+01:08:20,479 --> 01:08:24,209
+than we know about ourselves you know there's lots of reports already of
+
+968
+01:08:24,210 --> 01:08:30,649
+people getting pregnancy ads or ads for infants sometimes before they know
+
+969
+01:08:30,649 --> 01:08:34,170
+they're pregnant but often before they've told their families and the way
+
+970
+01:08:34,170 --> 01:08:37,850
+that that happens is the net is watching what they're looking at and inferring
+
+971
+01:08:37,850 --> 01:08:41,359
+with its artificial intelligence and so maybe you're pregnant that's just
+
+972
+01:08:41,359 --> 01:08:44,440
+tilting you a little bit right to interest in things that you might not
+
+973
+01:08:44,439 --> 01:08:47,879
+otherwise be interested in the net tracks that then it tells you what
+
+974
+01:08:47,880 --> 01:08:51,630
+you're at what you're after it does that by offering an advertisement so it's
+
+975
+01:08:51,630 --> 01:08:58,619
+reading your unconscious mind so well so that's what's happening so
+
+976
+01:08:58,619 --> 01:09:03,390
+all right so what's the motive for development dis equilibria
+
+977
+01:09:03,390 --> 01:09:07,940
+that's a Piaget lien term well this is a life is suffering idea it's like why
+
+978
+01:09:07,939 --> 01:09:13,979
+learn something cuz you're wrong who cares it makes you suffer you care so
+
+979
+01:09:13,979 --> 01:09:18,139
+you know if you run out a little scheme in the world a little action pattern you
+
+980
+01:09:18,140 --> 01:09:21,048
+don't get what you want if you're especially if you're two years old you
+
+981
+01:09:21,048 --> 01:09:25,319
+burst into tears and cry and why is that it's because you don't know what you
+
+982
+01:09:25,319 --> 01:09:27,730
+don't know where you are and you don't know what you're doing
+
+983
+01:09:27,729 --> 01:09:31,579
+it's like time for some negative emotion it indicates that you're wrong and
+
+984
+01:09:31,579 --> 01:09:36,170
+that's terrible in some sense because it all it almost always means that to learn
+
+985
+01:09:36,170 --> 01:09:44,289
+requires pain now I don't believe that exactly because people are curious you
+
+986
+01:09:44,289 --> 01:09:48,939
+know and to go out and be curious and to learn new things can be very exciting
+
+987
+01:09:48,939 --> 01:09:53,698
+and so what it seems to be is that there's there's a rate of learning
+
+988
+01:09:53,698 --> 01:09:58,259
+that's too fast and that hurts you that's what makes you cry but if you get
+
+989
+01:09:58,260 --> 01:10:02,760
+the rate just right you're just opening up enough novelty so that you can
+
+990
+01:10:02,760 --> 01:10:07,199
+benefit from the possibilities that gives you a dopamine kick fundamentally
+
+991
+01:10:07,198 --> 01:10:11,159
+you can benefit from the possibilities without being overwhelmed by the by the
+
+992
+01:10:11,159 --> 01:10:14,229
+unexpected element of it and you can tell when that's happening and this is
+
+993
+01:10:14,229 --> 01:10:17,779
+one of the coolest things as far as I'm concerned this is and I learned this
+
+994
+01:10:17,779 --> 01:10:23,029
+partly from Piaget it's like you know in order to withstand suffering let's say
+
+995
+01:10:23,029 --> 01:10:26,948
+your life has to have some meaning okay well that that means a bunch of things
+
+996
+01:10:26,948 --> 01:10:31,198
+it means that part of the way that you overcome suffering is by making the
+
+997
+01:10:31,198 --> 01:10:34,629
+suffering into something meaningful and I don't mean that metaphysically I mean
+
+998
+01:10:34,630 --> 01:10:38,529
+it technically you made a mistake it causes you suffering you learn something
+
+999
+01:10:38,529 --> 01:10:40,979
+about it you don't make that mistake again
+
+1000
+01:10:40,979 --> 01:10:44,979
+it's real adaptation it's not it's not defense against death anxiety or
+
+1001
+01:10:44,979 --> 01:10:50,279
+something like that it's real adaptation but more importantly the reality that
+
+1002
+01:10:50,279 --> 01:10:54,670
+you learn through pain is the oldest reality will say it's it's really old
+
+1003
+01:10:54,670 --> 01:11:00,369
+it's as old as nervous systems and so you've adapted so that you've learned to
+
+1004
+01:11:00,369 --> 01:11:04,840
+transform your knowledge structures in a way that will minimize your potential
+
+1005
+01:11:04,840 --> 01:11:09,360
+exposure to future pain they at a rate you can tolerate or maybe
+
+1006
+01:11:09,359 --> 01:11:14,609
+even enjoy and so what's happening is you don't actually like being static it
+
+1007
+01:11:14,609 --> 01:11:19,549
+bores you but you don't like being thrown into chaos it's like no a little
+
+1008
+01:11:19,550 --> 01:11:23,390
+bit of that's fine what you want is you want to be opening up your knowledge
+
+1009
+01:11:23,390 --> 01:11:27,000
+structures on the periphery to transformation voluntary transformation
+
+1010
+01:11:27,000 --> 01:11:31,520
+that's voluntary exploration and letting those things manifest a little bit of
+
+1011
+01:11:31,520 --> 01:11:35,230
+interesting chaos and so you have a little bit you put a little feeler out
+
+1012
+01:11:35,229 --> 01:11:39,000
+there that you're willing to let die and it comes apart and you gather a bit of
+
+1013
+01:11:39,000 --> 01:11:42,920
+information it comes back together stronger and you do that all the time if
+
+1014
+01:11:42,920 --> 01:11:46,289
+you're if you're smart and you're looking for new information foraging for
+
+1015
+01:11:46,289 --> 01:11:50,600
+new information and that means you keep taking little bits of yourself apart and
+
+1016
+01:11:50,600 --> 01:11:55,250
+reconstructing them and overtime that keeps you alive and active you know part
+
+1017
+01:11:55,250 --> 01:11:58,479
+of the reason you're alive is because you're dying all the time right all the
+
+1018
+01:11:58,479 --> 01:12:02,409
+cells in your body like if they don't die you get cancer and that that's it
+
+1019
+01:12:02,409 --> 01:12:07,170
+you're done you're a very very tight balance between death and life at every
+
+1020
+01:12:07,170 --> 01:12:11,020
+every single level including the cognitive level and it's not that fun to
+
+1021
+01:12:11,020 --> 01:12:13,980
+learn something because you have to kill something you already know in order to
+
+1022
+01:12:13,979 --> 01:12:17,519
+learn it that's another piece yet in observation because you're always
+
+1023
+01:12:17,520 --> 01:12:21,190
+interpreting something within a structure and if that interpretation is
+
+1024
+01:12:21,189 --> 01:12:25,488
+wrong even in a microwave you have to kill that structure and it's a
+
+1025
+01:12:25,488 --> 01:12:29,379
+biological structure it actually hurts to kill it but maybe you can generate
+
+1026
+01:12:29,380 --> 01:12:34,650
+something new in its stead and if you get the dynamic right let the rate right
+
+1027
+01:12:34,649 --> 01:12:39,439
+then you find that exhilarating not painful and that's and that's well you
+
+1028
+01:12:39,439 --> 01:12:42,399
+can tell when you're doing that as far as I can tell you can tell when you're
+
+1029
+01:12:42,399 --> 01:12:46,339
+doing that because you're engaged in the world in a meaningful way and what your
+
+1030
+01:12:46,340 --> 01:12:51,270
+nervous system is doing is signaling to you that you're not in a static place
+
+1031
+01:12:51,270 --> 01:12:55,489
+that's death you're not in a chaotic place that's death your balance between
+
+1032
+01:12:55,488 --> 01:13:00,000
+the static and the chaotic such that the static structures are transforming at
+
+1033
+01:13:00,000 --> 01:13:05,310
+exactly the right rate to keep you on top of the environmental transformations
+
+1034
+01:13:05,310 --> 01:13:10,030
+and so you're surfing you know in Hawaii the surfers surfing was sacred well
+
+1035
+01:13:10,029 --> 01:13:14,909
+that's why it's like do you can you tell someone how to surf well you can't
+
+1036
+01:13:14,909 --> 01:13:18,340
+because they have to go out there and dynamically interact with the wave but
+
+1037
+01:13:18,340 --> 01:13:20,819
+they can stay on top of the wave and that's
+
+1038
+01:13:20,819 --> 01:13:24,509
+what you have to do and if you're staying on top of the wave properly then
+
+1039
+01:13:24,510 --> 01:13:29,460
+it's exhilarating and that's the kind of meaning that that it rejuvenates you
+
+1040
+01:13:29,460 --> 01:13:33,760
+literally it makes you able to tolerate the suffering in life and it's not
+
+1041
+01:13:33,760 --> 01:13:37,300
+metaphysical precisely it's because that is what you're doing at that moment
+
+1042
+01:13:37,300 --> 01:13:41,250
+you're you're overcoming your limitations and of course that's what
+
+1043
+01:13:41,250 --> 01:13:45,289
+you have to do in order to to know and to learn because you want to be doing
+
+1044
+01:13:45,289 --> 01:13:48,439
+both of those things at the same time that's what you do when you play a game
+
+1045
+01:13:48,439 --> 01:13:52,460
+properly your parents say it doesn't matter whether you win or lose this is a
+
+1046
+01:13:52,460 --> 01:13:57,600
+PSAT and observation it's how you play the game what does that mean well it
+
+1047
+01:13:57,600 --> 01:14:01,159
+means that you should play the game in a manner that increases the probability
+
+1048
+01:14:01,159 --> 01:14:05,609
+that you're going to be invited to play many games in the future perfect so you
+
+1049
+01:14:05,609 --> 01:14:09,130
+master the skills of the game but at the same time you master a set of meta
+
+1050
+01:14:09,130 --> 01:14:13,650
+skills which is the skills that remain constant across transforming sets of
+
+1051
+01:14:13,649 --> 01:14:18,079
+games and that's what it means to play fair that's a bloody basis of morality
+
+1052
+01:14:18,079 --> 01:14:23,680
+as far as Piaget was concerned it's so damn smart you know because you think
+
+1053
+01:14:23,680 --> 01:14:29,539
+all interactions have this game-like quality they're sort of bounded and but
+
+1054
+01:14:29,539 --> 01:14:33,659
+there are commonalities across all the games and you want to extract out the
+
+1055
+01:14:33,659 --> 01:14:37,170
+commonalities and you want to learn to inhabit the universe that's made out of
+
+1056
+01:14:37,170 --> 01:14:41,329
+the commonalities between games and that's what it means to be a good person
+
+1057
+01:14:41,329 --> 01:14:44,880
+roughly speaking you know it varies to some degree from culture to culture
+
+1058
+01:14:44,880 --> 01:14:49,500
+obviously because each culture is a game unto itself but there's something that
+
+1059
+01:14:49,500 --> 01:14:55,119
+transcends that that's the nature of games across game contexts and you know
+
+1060
+01:14:55,119 --> 01:14:58,500
+that you know that because you can tell the difference between a game and and
+
+1061
+01:14:58,500 --> 01:15:02,300
+something that isn't a game instantly everyone knows and it's not like there's
+
+1062
+01:15:02,300 --> 01:15:09,770
+only one kind of game there's hockey say and there's there's a world of warcraft
+
+1063
+01:15:09,770 --> 01:15:14,581
+I know it's way out of date but so am I so it's not surprising so but the fact
+
+1064
+01:15:14,581 --> 01:15:18,569
+that those things are very very different in many many ways doesn't stop
+
+1065
+01:15:18,569 --> 01:15:22,519
+you from identifying the underlying commonalities you know they're games and
+
+1066
+01:15:22,520 --> 01:15:27,160
+they're they're like stories in a sense so and that's a piagetian that's a
+
+1067
+01:15:27,159 --> 01:15:36,050
+piagetian observation very very smart so why do you develop well it's because
+
+1068
+01:15:36,050 --> 01:15:40,920
+your your previous idea their your previous frame micro frame let's say
+
+1069
+01:15:40,920 --> 01:15:45,779
+doesn't fit the circumstance and so something happens it you go like this
+
+1070
+01:15:45,779 --> 01:15:50,149
+what's up well the world isn't what you thought and there's something wrong with
+
+1071
+01:15:50,149 --> 01:15:54,559
+your knowledge structure this is partly what's makes Piaget a pragmatist you see
+
+1072
+01:15:54,560 --> 01:15:57,730
+the pragmatist American school of philosophy William James and his
+
+1073
+01:15:57,729 --> 01:16:01,500
+followers they knew that we had bounded knowledge we don't have infinite
+
+1074
+01:16:01,500 --> 01:16:04,340
+knowledge and so they thought well that means we can't really be right about
+
+1075
+01:16:04,340 --> 01:16:09,579
+anything because we're definitely wrong and so how is it that you can operate in
+
+1076
+01:16:09,579 --> 01:16:15,210
+the world given that you're always wrong and the answer is you you set up a
+
+1077
+01:16:15,210 --> 01:16:20,170
+procedure that has rules for what constitutes true within the procedure
+
+1078
+01:16:20,170 --> 01:16:24,170
+itself so you play a game and at the same time you set up the rules so you
+
+1079
+01:16:24,170 --> 01:16:30,109
+might say well is this joke funny and then the answer is well do people laugh
+
+1080
+01:16:30,109 --> 01:16:34,299
+now when I tell the joke do they laugh and if the answer is yes then it's funny
+
+1081
+01:16:34,300 --> 01:16:39,380
+enough you've you've you've taken a particular definition of funny you've
+
+1082
+01:16:39,380 --> 01:16:45,310
+transformed it into a local phenomena and if your behavior matches the
+
+1083
+01:16:45,310 --> 01:16:48,580
+prediction in that local area you say well that's true enough is it like
+
+1084
+01:16:48,579 --> 01:16:53,460
+transcendently funny well maybe you'd have to tell it to 200 different groups
+
+1085
+01:16:53,460 --> 01:16:57,220
+of people to figure that out but mostly it's it's funny enough so that when I
+
+1086
+01:16:57,220 --> 01:17:00,460
+predicted what would happen when I told the joke that's what happened and you
+
+1087
+01:17:00,460 --> 01:17:04,670
+don't predict it by the way you desire it it's not the same thing because
+
+1088
+01:17:04,670 --> 01:17:08,680
+prediction has no motivation in it but desire does and we're always motivated
+
+1089
+01:17:08,680 --> 01:17:15,320
+always always motivated so well here's a way of thinking about the Piaget teen
+
+1090
+01:17:15,319 --> 01:17:22,170
+system so two-year-olds they're very chaotic and they bounce between one
+
+1091
+01:17:22,170 --> 01:17:26,840
+highly motivated emotional state to another and so the first thing that the
+
+1092
+01:17:26,840 --> 01:17:34,279
+two-year-old has to do is get his or her act together more or less inside and so
+
+1093
+01:17:34,279 --> 01:17:37,159
+you know two-year-olds still have tantrums and they still cry a lot and
+
+1094
+01:17:37,159 --> 01:17:40,899
+and they still run around like mad being joyful crazily which you have to train
+
+1095
+01:17:40,899 --> 01:17:43,809
+out of them right away because it's nothing but disruptive and it's one of
+
+1096
+01:17:43,810 --> 01:17:46,199
+the most painful things about being a parent
+
+1097
+01:17:46,198 --> 01:17:51,839
+like 90% of the time you're going stop having fun stop having fun you know and
+
+1098
+01:17:51,840 --> 01:17:57,279
+then you turn into a teenager and your parents get what they ask for and so but
+
+1099
+01:17:57,279 --> 01:18:01,840
+because positive emotion is so impulsive and so chaotic it's really hard to
+
+1100
+01:18:01,840 --> 01:18:06,650
+manifest itself it's manifested within it within a predictable environment and
+
+1101
+01:18:06,649 --> 01:18:10,659
+so you're dampening down your child's enthusiasm non-stop it's but it has to
+
+1102
+01:18:10,659 --> 01:18:14,979
+be regulated because happiness is impulsive and chaotic and people don't
+
+1103
+01:18:14,979 --> 01:18:18,750
+like to think that because they think well we should be happy it's like Mannix
+
+1104
+01:18:18,750 --> 01:18:22,930
+are happy but they're maniacs that's where the word comes from like they're
+
+1105
+01:18:22,930 --> 01:18:30,010
+just you it's not good they're too happy way too happy like someone who's way too
+
+1106
+01:18:30,010 --> 01:18:34,020
+stoned on math or on cocaine and I mean that technically because it's it's
+
+1107
+01:18:34,020 --> 01:18:39,410
+they're very similar they're very similar biochemical states so and and
+
+1108
+01:18:39,409 --> 01:18:43,380
+cocaine produces happiness pretty much in its pure form
+
+1109
+01:18:43,380 --> 01:18:49,039
+so does meth very rapidly and so it's just not good you know you lose judgment
+
+1110
+01:18:49,039 --> 01:18:53,710
+you happy people you don't have good judgment they're too happy maybe they
+
+1111
+01:18:53,710 --> 01:18:58,930
+get dopey it's like you know it's like irrational stock market bubbles oh boy
+
+1112
+01:18:58,930 --> 01:19:05,380
+it's always going to go up it's like no no it's not always going to go up but
+
+1113
+01:19:05,380 --> 01:19:09,170
+that's what you think when you're happy anyways the two-year-old has to get all
+
+1114
+01:19:09,170 --> 01:19:14,719
+these motivational systems sort of hammered into one thing internally now
+
+1115
+01:19:14,719 --> 01:19:17,640
+in some sense from the PIA jetty in perspective that happens within the
+
+1116
+01:19:17,640 --> 01:19:21,680
+child he thinks of the child is egocentric but and that that development
+
+1117
+01:19:21,680 --> 01:19:24,800
+takes place internally and then it's not till a child's let's say about three
+
+1118
+01:19:24,800 --> 01:19:29,539
+that it can learn to bring its controlled unity into a unity with
+
+1119
+01:19:29,539 --> 01:19:35,019
+another controlled unity and make a game that happens around three and so what
+
+1120
+01:19:35,020 --> 01:19:38,930
+happens is that instead of the child only pursuing his or her goals
+
+1121
+01:19:38,930 --> 01:19:42,220
+although modulated by the social environment the child is able to
+
+1122
+01:19:42,220 --> 01:19:46,119
+communicate with another child and establish a shared goal and that's what
+
+1123
+01:19:46,119 --> 01:19:49,539
+happens when they play and so obviously you play Monopoly that's what you're
+
+1124
+01:19:49,539 --> 01:19:54,000
+doing but when you play peekaboo you're doing the same thing it's like
+
+1125
+01:19:54,000 --> 01:19:58,350
+with your parent you're actually playing with object permanence dad's go on
+
+1126
+01:19:58,350 --> 01:20:02,520
+oh look dad's here haha he's there dad's gone that's here yeah
+
+1127
+01:20:02,520 --> 01:20:05,360
+it's gone dad's here like a kid man you can do that for like
+
+1128
+01:20:05,359 --> 01:20:10,059
+three hours they never get tired of it because every time you reappear it's an
+
+1129
+01:20:10,060 --> 01:20:15,640
+it's a miracle unis watch babies it's so funny like you go like this and they go
+
+1130
+01:20:15,640 --> 01:20:20,420
+then you talk back holding like they're so happy they're just overjoyed and then
+
+1131
+01:20:20,420 --> 01:20:24,220
+you take yourself away and they're like what's going on what's going on bang you
+
+1132
+01:20:24,220 --> 01:20:28,739
+reappear they don't have a real memory you know it's like reality is
+
+1133
+01:20:28,738 --> 01:20:33,879
+manifesting itself in all its freshness moment by moment and and they can't
+
+1134
+01:20:33,880 --> 01:20:37,529
+remember there are neurological conditions that do that so sometimes and
+
+1135
+01:20:37,529 --> 01:20:40,170
+there are people who that this has happened to so they get hippocampal
+
+1136
+01:20:40,170 --> 01:20:43,569
+damage and so they can't move short-term information into long-term
+
+1137
+01:20:43,569 --> 01:20:48,269
+storage and there's this one guy it's very interesting case he was a concert
+
+1138
+01:20:48,270 --> 01:20:52,810
+pianist and he had hell of a neurological injury and he could still
+
+1139
+01:20:52,810 --> 01:20:56,850
+play the piano he couldn't remember eight he couldn't he had amnesia and he
+
+1140
+01:20:56,850 --> 01:20:59,770
+couldn't move information from short-term storage into long-term
+
+1141
+01:20:59,770 --> 01:21:04,160
+storage so as far as he was concerned it was it was always like ten days before
+
+1142
+01:21:04,159 --> 01:21:08,250
+he had his accident he never got passed out he was stuck in that moment and then
+
+1143
+01:21:08,250 --> 01:21:11,420
+but he could still play the piano and but was so interesting you watch him
+
+1144
+01:21:11,420 --> 01:21:14,510
+there were films of him before he sat down to play the piano he'd have like a
+
+1145
+01:21:14,510 --> 01:21:18,760
+seizure and then he could play the piano procedural memory that was intact and
+
+1146
+01:21:18,760 --> 01:21:21,480
+then at the end he'd kind of have a little seizure and then he'd go back to
+
+1147
+01:21:21,479 --> 01:21:26,029
+being who he was but he had these notebooks and all he did was write in
+
+1148
+01:21:26,029 --> 01:21:30,619
+them over and over the same thing it's as if I have never seen this before it's
+
+1149
+01:21:30,619 --> 01:21:35,179
+as if I've never seen this before it's as if I've never seen this before
+
+1150
+01:21:35,179 --> 01:21:39,760
+so he's in this ecstatic state where everything was novel and new and pure
+
+1151
+01:21:39,760 --> 01:21:43,820
+and paradisal but there was no continuity and so when his wife would
+
+1152
+01:21:43,819 --> 01:21:47,949
+come to visit him he would just be overwhelmed to see her overwhelmed every
+
+1153
+01:21:47,949 --> 01:21:51,289
+time and even if she just left the room and came back in it was exactly the same
+
+1154
+01:21:51,289 --> 01:21:55,779
+thing it's just like the kid it's like no object permanence and every time the
+
+1155
+01:21:55,779 --> 01:21:59,949
+face appears it's it's a staggering and you can see that in the reflexes of the
+
+1156
+01:21:59,949 --> 01:22:04,300
+child and that's that's without object permanence and so that's what Piaget was
+
+1157
+01:22:04,300 --> 01:22:09,500
+talking about with regards to object permanence it's very very cool so
+
+1158
+01:22:09,500 --> 01:22:13,270
+anyways the two-year-olds a collection of these sort of random motivations more
+
+1159
+01:22:13,270 --> 01:22:16,020
+or less gets his or her act together by about three
+
+1160
+01:22:16,020 --> 01:22:20,540
+if they're being socialized properly and that means that the parents are doing
+
+1161
+01:22:20,539 --> 01:22:25,179
+their best to make the child acceptable to other children that's your damn job
+
+1162
+01:22:25,179 --> 01:22:30,670
+as a parent you have to understand that because if your child isn't acceptable
+
+1163
+01:22:30,670 --> 01:22:35,000
+to other children they won't play with your child and then your child will be
+
+1164
+01:22:35,000 --> 01:22:39,488
+lonesome and isolated and awkward and they will never recover because if the
+
+1165
+01:22:39,488 --> 01:22:43,238
+kid doesn't get that right between two and four it's over
+
+1166
+01:22:43,238 --> 01:22:46,488
+they're never gonna learn it the other kids accelerate forward that kids left
+
+1167
+01:22:46,488 --> 01:22:50,289
+behind and it's not a good life for that kid they don't learn how to play with
+
+1168
+01:22:50,289 --> 01:22:54,890
+others and then they're done and there's a huge literature on trying to rectify
+
+1169
+01:22:54,890 --> 01:23:00,900
+antisocial children say from the age of four on it's like no you can't and you
+
+1170
+01:23:00,899 --> 01:23:05,409
+can go ahead and read three four hundred papers on rectification of antisocial
+
+1171
+01:23:05,409 --> 01:23:08,948
+behavior and figure it out for yourself but I did that for about five years and
+
+1172
+01:23:08,948 --> 01:23:13,109
+it was a while ago but I know the literature hasn't changed so you got to
+
+1173
+01:23:13,109 --> 01:23:17,529
+get it right between that period you got to get the kid together enough so they
+
+1174
+01:23:17,529 --> 01:23:21,679
+can control themselves well enough so that they can adopt a mutual frame of
+
+1175
+01:23:21,680 --> 01:23:25,640
+reference with a peer so that they can start using that to scaffold their
+
+1176
+01:23:25,640 --> 01:23:28,660
+development further and become more and more sophisticated in social
+
+1177
+01:23:28,659 --> 01:23:32,399
+interactions and that's what you're you're acting as a proxy for the social
+
+1178
+01:23:32,399 --> 01:23:36,739
+environment as a parent that's what you're doing now a gentle proxy an
+
+1179
+01:23:36,739 --> 01:23:42,239
+informative proxy maybe even a merciful proxy but a proxy nonetheless because
+
+1180
+01:23:42,239 --> 01:23:45,099
+they're not going to be around you forever they're gonna be out there among
+
+1181
+01:23:45,100 --> 01:23:48,100
+people who don't really care about them and if they don't have something to
+
+1182
+01:23:48,100 --> 01:23:52,610
+bring to the table at least the ability to cooperate they're gonna be lonesome
+
+1183
+01:23:52,609 --> 01:23:57,479
+and isolated and that's not going to be good well here's an here's an here's an
+
+1184
+01:23:57,479 --> 01:24:01,939
+idea so as you're moving from what is to what should be you're in this little
+
+1185
+01:24:01,939 --> 01:24:05,879
+frame of reference this little game this little Piaget alien game sometimes you
+
+1186
+01:24:05,880 --> 01:24:10,250
+get what you want or predict that's on the left-hand side that makes you happy
+
+1187
+01:24:10,250 --> 01:24:14,710
+and it validates your frame so if the frame keeps working across different
+
+1188
+01:24:14,710 --> 01:24:19,390
+circumstances you get a reward from that the reward produces a dopaminergic kick
+
+1189
+01:24:19,390 --> 01:24:23,210
+that makes you feel good but the dopamine also enhances the strength of
+
+1190
+01:24:23,210 --> 01:24:26,670
+the circuitry that underlies that particular representation that's what
+
+1191
+01:24:26,670 --> 01:24:30,270
+reinforcement is it's different than reward reward is
+
+1192
+01:24:30,270 --> 01:24:34,460
+what you feel let's say roughly speaking reinforcement is the effect of the
+
+1193
+01:24:34,460 --> 01:24:39,090
+dopamine bathing the neurological tissues to make it stronger and grow and
+
+1194
+01:24:39,090 --> 01:24:42,840
+so if the neurological tissue underlies a sequence of actions that produces a
+
+1195
+01:24:42,840 --> 01:24:47,569
+desired outcome there's a biochemical kick that strengthens the nervous
+
+1196
+01:24:47,569 --> 01:24:51,179
+structures that were activated just before the good thing happens and so
+
+1197
+01:24:51,179 --> 01:24:54,720
+that's how something you know that's valuable gets instantiated and if it
+
+1198
+01:24:54,720 --> 01:25:00,949
+fails instead you get punished pain anxiety and that that starts to
+
+1199
+01:25:00,948 --> 01:25:05,259
+extinguish that circuitry and we don't know how that works exactly we don't
+
+1200
+01:25:05,260 --> 01:25:09,079
+know exactly if those circuits then start to die because they can degenerate
+
+1201
+01:25:09,079 --> 01:25:13,429
+across time or if what happens is you build other circuits that inhibit them
+
+1202
+01:25:13,429 --> 01:25:17,230
+so it's like you've got this knowledge structure it's built into you and once
+
+1203
+01:25:17,229 --> 01:25:19,509
+it's there there's not really much getting rid of it but you can build
+
+1204
+01:25:19,510 --> 01:25:22,541
+another one that tells it to shut up that's sort of what happens when you're
+
+1205
+01:25:22,541 --> 01:25:27,090
+addicted to drugs so cocaine bathes the tissue that was
+
+1206
+01:25:27,090 --> 01:25:30,420
+active just before you took the cocaine with dopamine and so that gets stronger
+
+1207
+01:25:30,420 --> 01:25:34,090
+and stronger and stronger and stronger and so you're basically building a
+
+1208
+01:25:34,090 --> 01:25:38,630
+cocaine seeking monster in your head and that's all it wants and it has
+
+1209
+01:25:38,630 --> 01:25:43,609
+rationalizations and it has emotions and it has motivations and it's alive but it
+
+1210
+01:25:43,609 --> 01:25:47,270
+wants one thing and the problem is once you build that thing especially if you
+
+1211
+01:25:47,270 --> 01:25:50,769
+nail it a couple of hundred times with the powerful dopaminergic agonist like
+
+1212
+01:25:50,770 --> 01:25:55,880
+cocaine that thing is one vicious monster and it's alive and it's in there
+
+1213
+01:25:55,880 --> 01:25:59,960
+and you can't get it to go away the only thing you can do is build another
+
+1214
+01:25:59,960 --> 01:26:03,710
+structure to shut it up but the problem is is that as soon as you get stressed
+
+1215
+01:26:03,710 --> 01:26:07,750
+it interferes with that new structure and the old thing comes popping back up
+
+1216
+01:26:07,750 --> 01:26:14,189
+not good I wouldn't recommend it and the faster acting those dopaminergic
+
+1217
+01:26:14,189 --> 01:26:19,139
+agonists are cocaine is a good example but so is math the faster they hit you
+
+1218
+01:26:19,140 --> 01:26:23,400
+which is often why people inject them instead of snorting them say the faster
+
+1219
+01:26:23,399 --> 01:26:28,750
+that transformation from steady state to dopaminergic path the bigger the kick is
+
+1220
+01:26:28,750 --> 01:26:33,579
+and so you know so speed of introduction of the substance matters which is why
+
+1221
+01:26:33,579 --> 01:26:37,899
+you drink shots instead of drinking say wine or beer because alcohol has you
+
+1222
+01:26:37,899 --> 01:26:41,359
+know very similar very similar effects so
+
+1223
+01:26:41,359 --> 01:26:52,559
+all right so if you get what you want well then you feel good but not only do
+
+1224
+01:26:52,560 --> 01:26:56,140
+you feel good but the frame itself is validated and if you don't get what you
+
+1225
+01:26:56,140 --> 01:26:59,530
+want well then not only do you not get what you want but the frame itself
+
+1226
+01:26:59,529 --> 01:27:03,090
+starts to come apart at the seams and the question part is how far should the
+
+1227
+01:27:03,090 --> 01:27:07,110
+frame come apart how deeply should you unlearn something when you make a
+
+1228
+01:27:07,109 --> 01:27:12,738
+mistake god it's a very very very hard problem and I'll show you a partial
+
+1229
+01:27:12,738 --> 01:27:17,269
+solution to it this very useful thing and this is a pia jetty an idea - let's
+
+1230
+01:27:17,270 --> 01:27:24,000
+see yeah I'm gonna go to this for a minute so so I'm gonna decompose
+
+1231
+01:27:24,000 --> 01:27:28,329
+something for you and and this is partly to give you an introduction to the way
+
+1232
+01:27:28,329 --> 01:27:33,710
+behaviorists think but it's also to help unpack how the pia jetty in oceans work
+
+1233
+01:27:33,710 --> 01:27:37,829
+and so from a piagetian perspective high-order abstractions are actually
+
+1234
+01:27:37,829 --> 01:27:42,600
+made of what's common among actions and perceptions so and those things are
+
+1235
+01:27:42,600 --> 01:27:46,660
+unified in some sense so an abstraction isn't what's common across sets of
+
+1236
+01:27:46,659 --> 01:27:50,738
+objects it's more like what's common across sets of perceptions and actions
+
+1237
+01:27:50,738 --> 01:27:54,539
+and so that's a hard thing to understand but but this will help you understand
+
+1238
+01:27:54,539 --> 01:27:58,698
+okay so let's say you want to be a good person it's kind of abstraction all
+
+1239
+01:27:58,698 --> 01:27:59,960
+right and then you think well what does it
+
+1240
+01:27:59,960 --> 01:28:06,510
+mean to be a good person it's a box it's an empty box no it's a box and it says
+
+1241
+01:28:06,510 --> 01:28:09,890
+good person on outside but it's full of things it might even be full of
+
+1242
+01:28:09,890 --> 01:28:14,560
+transforming things so but you know what it means you say good person you kind of
+
+1243
+01:28:14,560 --> 01:28:17,720
+know and you kind of know but you know if we started talking about details we
+
+1244
+01:28:17,720 --> 01:28:20,490
+might start to argue but it's like pornography you know what when you see
+
+1245
+01:28:20,489 --> 01:28:24,519
+it okay so what does it mean to be a good person well we could decompose it
+
+1246
+01:28:24,520 --> 01:28:28,160
+we could say well if you're one way of being a good person is to be a good
+
+1247
+01:28:28,159 --> 01:28:32,238
+parent and you basically say that being a good parent is a subset of being a
+
+1248
+01:28:32,238 --> 01:28:37,309
+good person right because person is bigger than parent and maybe it'd be to
+
+1249
+01:28:37,310 --> 01:28:41,410
+be a good employee and to be a good sister and to be a good you know to be
+
+1250
+01:28:41,409 --> 01:28:46,869
+to be a good good partner sort of on the same level of abstraction so you
+
+1251
+01:28:46,869 --> 01:28:51,279
+decompose good person into your major functional roles let's say and you're
+
+1252
+01:28:51,279 --> 01:28:55,960
+good at all of them whatever that means well let's say if you're a good parent
+
+1253
+01:28:55,960 --> 01:28:59,060
+well you have to have a good job because otherwise you starve and so do your
+
+1254
+01:28:59,060 --> 01:29:02,640
+children so at least you have to financially provide in some manner
+
+1255
+01:29:02,640 --> 01:29:06,869
+that's a subset of being a good parent it's not the only subset and then to be
+
+1256
+01:29:06,869 --> 01:29:10,399
+a good to have a good be a good parent you also have to take care of your
+
+1257
+01:29:10,399 --> 01:29:16,199
+family and so you could decompose that into play with baby or complete meal you
+
+1258
+01:29:16,199 --> 01:29:20,800
+might say well if take care of family you can either order a meal or you can
+
+1259
+01:29:20,800 --> 01:29:25,550
+cook one it's like good for you and so then you're cooking a meal and you think
+
+1260
+01:29:25,550 --> 01:29:29,070
+well what do you decompose that into well now you're starting to get to the
+
+1261
+01:29:29,069 --> 01:29:33,619
+micro level say because let's say you're making broccoli so you take the broccoli
+
+1262
+01:29:33,619 --> 01:29:38,029
+out of the fridge and you put it on the cutting board that's actually action
+
+1263
+01:29:38,029 --> 01:29:42,119
+that's not abstraction it's actually something you're doing with your body so
+
+1264
+01:29:42,119 --> 01:29:46,460
+the abstraction grounds itself out in micro activity actual action that's the
+
+1265
+01:29:46,460 --> 01:29:51,130
+connection between the mind and the body and so you're cutting broccoli right but
+
+1266
+01:29:51,130 --> 01:29:55,929
+that's not abstraction and so if you take apart these higher-order moral
+
+1267
+01:29:55,929 --> 01:29:59,369
+abstractions what happens is you decompose them into action perception
+
+1268
+01:29:59,369 --> 01:30:03,439
+sequences and they're embodied now Piaget is basic claim is you build the
+
+1269
+01:30:03,439 --> 01:30:07,939
+dam abstractions from the bottom up that's his that's the fundamental Pia
+
+1270
+01:30:07,939 --> 01:30:11,889
+jetty and claim it so the kid comes into the world with some reflexes and starts
+
+1271
+01:30:11,890 --> 01:30:16,640
+building a body of embodied knowledge out of that interaction with other
+
+1272
+01:30:16,640 --> 01:30:21,320
+people and then they start playing games and that abstracts but but they move
+
+1273
+01:30:21,319 --> 01:30:25,029
+from the bottom of the hierarchy which is actual micro actions up to the top of
+
+1274
+01:30:25,029 --> 01:30:29,920
+the abstraction world and so it's this is how you boot yourself up little bitty
+
+1275
+01:30:29,920 --> 01:30:36,219
+stories what little bitty stories at the bottom cut broccoli you know and then
+
+1276
+01:30:36,219 --> 01:30:40,219
+cut corn here set table do dishes complete meal take care of your family
+
+1277
+01:30:40,219 --> 01:30:46,219
+be a good parent be a good person and you know one of the propositions that I
+
+1278
+01:30:46,219 --> 01:30:49,640
+am offering you in this class is that to be a good person you're actually not
+
+1279
+01:30:49,640 --> 01:30:52,850
+stuck in one of these to be a good person means that you're the thing that
+
+1280
+01:30:52,850 --> 01:30:56,910
+transforms these things continually and so that's what's at the top of the
+
+1281
+01:30:56,909 --> 01:31:00,569
+hierarchy and that's basically the hero story which is you're in a state of
+
+1282
+01:31:00,569 --> 01:31:05,279
+being and it normally occurs you allow it to demolish you and then you rebuild
+
+1283
+01:31:05,279 --> 01:31:09,529
+and that's at the highest end of the moral hierarchy and that's also a sense
+
+1284
+01:31:09,529 --> 01:31:14,759
+reappears Yeti and claim so so let's think about emotional regulation because
+
+1285
+01:31:14,760 --> 01:31:18,989
+this is a really good schema for understanding emotional regulation how
+
+1286
+01:31:18,988 --> 01:31:22,409
+upset should you get and how do you calculate it because if you make a
+
+1287
+01:31:22,409 --> 01:31:26,420
+mistake you wake up in the morning in your side hurts okay you it's the first
+
+1288
+01:31:26,420 --> 01:31:28,699
+symptom of pancreatic cancer you're dead in six months
+
+1289
+01:31:28,698 --> 01:31:35,989
+100% chats or you know you pulled a muscle well which is it you might say
+
+1290
+01:31:35,989 --> 01:31:40,000
+well the chances of the pancreatic cancer or low but they're not zero and
+
+1291
+01:31:40,000 --> 01:31:44,739
+like infinite times any proportion is a very large number so you might be
+
+1292
+01:31:44,739 --> 01:31:48,439
+thinking why don't you just have a screaming fit any time ever any little
+
+1293
+01:31:48,439 --> 01:31:51,539
+thing happens to you which is exactly what happens by the way if you're two
+
+1294
+01:31:51,539 --> 01:31:56,619
+years old right that is what you do so and it's because you don't know you
+
+1295
+01:31:56,619 --> 01:32:01,219
+don't know like things fell apart what does that mean could be anything well
+
+1296
+01:32:01,219 --> 01:32:05,699
+that's no good well so let's say you're arguing with your with your partner you
+
+1297
+01:32:05,699 --> 01:32:09,859
+know and they I don't know if they make a lousy meal or maybe no meals and
+
+1298
+01:32:09,859 --> 01:32:15,339
+you're kind of sick of it you know and so you say you're a bad person and
+
+1299
+01:32:15,340 --> 01:32:20,090
+what's the evidence not only are you a bad person but you've always been a bad
+
+1300
+01:32:20,090 --> 01:32:23,720
+person and the probability that you're going to improve in the future looks to
+
+1301
+01:32:23,720 --> 01:32:28,719
+me to be zero it's like what's the person supposed to do punch you right
+
+1302
+01:32:28,719 --> 01:32:34,529
+really because there's no room in there for any discussion you're done it's like
+
+1303
+01:32:34,529 --> 01:32:39,349
+you're horrible and you don't change and you've always been horrible and you've
+
+1304
+01:32:39,350 --> 01:32:43,570
+never changed and you know inferring from that into the future
+
+1305
+01:32:43,569 --> 01:32:46,969
+you're gonna stay horrible and you're not going to change well any argument
+
+1306
+01:32:46,969 --> 01:32:51,110
+can go there immediately it's a really bad idea and it happens all the time and
+
+1307
+01:32:51,110 --> 01:32:59,619
+this is why people can't have a civil discussion you know they can't say
+
+1308
+01:32:59,619 --> 01:33:02,609
+here's an example so you've got your four-year-old you want them to clean up
+
+1309
+01:33:02,609 --> 01:33:09,179
+their room and so it's full of toys let's say they're three and a half you
+
+1310
+01:33:09,179 --> 01:33:13,010
+look at it you say look you know clean clean this up clean up your room so you
+
+1311
+01:33:13,010 --> 01:33:15,440
+shut the door and you go away and you magically hope that when you come back
+
+1312
+01:33:15,439 --> 01:33:18,719
+the room will be clean but of course the child has no idea
+
+1313
+01:33:18,719 --> 01:33:22,779
+in all likelihood at that age or maybe it's two and a half something like that
+
+1314
+01:33:22,779 --> 01:33:24,630
+they know what clean up a room means that's
+
+1315
+01:33:24,630 --> 01:33:29,600
+like way up here man it's like you told your child there's mass every be a good
+
+1316
+01:33:29,600 --> 01:33:32,960
+person you know and then you come back in half an hour and they're no better a
+
+1317
+01:33:32,960 --> 01:33:37,670
+person than they were and you get upset it's like you can't do that you have to
+
+1318
+01:33:37,670 --> 01:33:43,210
+say you see that teddy bear and you know that that kid knows how to see a teddy
+
+1319
+01:33:43,210 --> 01:33:46,319
+bear and they know how to pick it up because you've watched them see a teddy
+
+1320
+01:33:46,319 --> 01:33:49,460
+bear and pick it up and you know that the child knows the name of the teddy
+
+1321
+01:33:49,460 --> 01:33:54,130
+bear it's teddy bear and so you point to the teddy bear and you say do you see
+
+1322
+01:33:54,130 --> 01:33:56,989
+that teddy bear and they go yes and you say that's good
+
+1323
+01:33:56,988 --> 01:34:00,750
+pat pat and they get a little kick of dopamine so that's happy day for the kid
+
+1324
+01:34:00,750 --> 01:34:04,461
+and then they smile at you so you feel pretty good about that too and then you
+
+1325
+01:34:04,461 --> 01:34:08,380
+say you think you could pick up that teddy bear and they say yeah and so they
+
+1326
+01:34:08,380 --> 01:34:12,409
+go over there not every kid by the way but they go over there and they pick up
+
+1327
+01:34:12,409 --> 01:34:15,619
+the teddy bear and it's like it's a good day for both of you and then you say you
+
+1328
+01:34:15,619 --> 01:34:18,409
+see that little space on the shelf because you know they know what a shelf
+
+1329
+01:34:18,409 --> 01:34:22,479
+is and you know they know what a space is and you say take that teddy bear and
+
+1330
+01:34:22,479 --> 01:34:25,619
+put it in the shelf and then go over there and they put it in the shelf and
+
+1331
+01:34:25,619 --> 01:34:28,960
+then they look at you and you're smiling and so the probability that they'll do
+
+1332
+01:34:28,960 --> 01:34:33,159
+that again is now increased because but watching you smile produces a
+
+1333
+01:34:33,159 --> 01:34:36,220
+dopaminergic kick and you've just strengthened those circuits so I would
+
+1334
+01:34:36,220 --> 01:34:40,739
+highly recommend that you do that with your children and with your partners
+
+1335
+01:34:40,738 --> 01:34:46,029
+right you watch them like like a sneaky person and every time they do something
+
+1336
+01:34:46,029 --> 01:34:49,819
+that you actually want them to do you notice and you give them a little pat on
+
+1337
+01:34:49,819 --> 01:34:54,488
+the head yeah and then they like you that's cool but if they don't if you
+
+1338
+01:34:54,488 --> 01:34:58,139
+don't want them to like you because you hate them and then you won't do that but
+
+1339
+01:34:58,140 --> 01:35:01,219
+and you think well I don't hate them it's like oh yes you do you just think
+
+1340
+01:35:01,219 --> 01:35:04,850
+about the last month man there's been twenty times you absolutely hated them
+
+1341
+01:35:04,850 --> 01:35:09,550
+and maybe that's the predominant emotion and that's not so good over time so when
+
+1342
+01:35:09,550 --> 01:35:13,079
+they do something good if you really want to screw things up watch like a
+
+1343
+01:35:13,079 --> 01:35:16,969
+hawk and wait till they do something good and then punish them that's really
+
+1344
+01:35:16,969 --> 01:35:21,969
+fun that is that really messes with them and people do that all the time so if
+
+1345
+01:35:21,969 --> 01:35:26,010
+you really want to mock things up you can even do it more subtly you can wait
+
+1346
+01:35:26,010 --> 01:35:28,720
+till they do something good especially if they've never done it before and
+
+1347
+01:35:28,720 --> 01:35:32,780
+they're just kind of tentatively trying it and then you can ignore them that's a
+
+1348
+01:35:32,780 --> 01:35:36,488
+really good what that's even better than punishing them because at least when you
+
+1349
+01:35:36,488 --> 01:35:38,948
+punish you're paying attention if you ignore
+
+1350
+01:35:38,948 --> 01:35:43,219
+them it's like that's that's just perfect also takes hardly any effort on
+
+1351
+01:35:43,220 --> 01:35:48,219
+your part so that's an additional plus so anyways so if you're having a
+
+1352
+01:35:48,219 --> 01:35:51,429
+discussion with someone it's like what you're doing with this kid you know it's
+
+1353
+01:35:51,429 --> 01:35:55,340
+like you say maybe you're negotiating about meals you don't start with you're
+
+1354
+01:35:55,340 --> 01:35:58,949
+a bad person let's way the hell up here you know you blow the whole person
+
+1355
+01:35:58,948 --> 01:36:02,819
+schema right out from underneath them and you might as well get divorced which
+
+1356
+01:36:02,819 --> 01:36:06,359
+is what will happen if you keep doing that soon you'll roll it your eyes at
+
+1357
+01:36:06,359 --> 01:36:09,658
+each other that means you're getting divorced by the way so if you ever watch
+
+1358
+01:36:09,658 --> 01:36:12,649
+it he does I'm serious there's good empirical data on that once you're at
+
+1359
+01:36:12,649 --> 01:36:17,899
+the eye-rolling stage there's no going back so you should intervene way before
+
+1360
+01:36:17,899 --> 01:36:24,399
+that it's discussed that AI role once you've hit disease-carrying rodent
+
+1361
+01:36:24,399 --> 01:36:30,908
+status in your mates eyes there's no coming back so anyways so what you do if
+
+1362
+01:36:30,908 --> 01:36:34,448
+you want to have a conversation with someone that's a corrective conversation
+
+1363
+01:36:34,448 --> 01:36:41,579
+is you sort of take a piagetian attitude and the attitude is go to the highest
+
+1364
+01:36:41,579 --> 01:36:45,579
+level of resolution that you can manage so let's say and that's what you're
+
+1365
+01:36:45,579 --> 01:36:48,899
+doing with the kid it's like clean up your room be a good
+
+1366
+01:36:48,899 --> 01:36:51,819
+person it's like no they don't know any about anything about that but they do
+
+1367
+01:36:51,819 --> 01:36:54,960
+know how to pick up a teddy bear and then maybe you think cleaning up your
+
+1368
+01:36:54,960 --> 01:36:58,899
+room is a hundred things like that and so you have to teach the child each one
+
+1369
+01:36:58,899 --> 01:37:03,299
+of those hundred things and then they learn this is the scheme they learn
+
+1370
+01:37:03,300 --> 01:37:08,179
+what's the same across all of those different actions that's clean right
+
+1371
+01:37:08,179 --> 01:37:12,440
+pick up the teddy bear put away the Legos make your bed what those have
+
+1372
+01:37:12,439 --> 01:37:16,729
+nothing in common really like the motor outputs completely different but they
+
+1373
+01:37:16,729 --> 01:37:20,609
+fall under the heading of clean but unless you fill the heading of clean
+
+1374
+01:37:20,609 --> 01:37:24,119
+with all the subordinate categories of the action perception sequences that
+
+1375
+01:37:24,119 --> 01:37:28,229
+make up clean kid can't do it and so partly what you're doing by attending to
+
+1376
+01:37:28,229 --> 01:37:33,319
+your child constantly is noticing where they are in the construction of this
+
+1377
+01:37:33,319 --> 01:37:37,238
+hierarchy and they start way down here right and so that's why you play
+
+1378
+01:37:37,238 --> 01:37:41,370
+peekaboo for example it's like they can do that and you can you know you
+
+1379
+01:37:41,371 --> 01:37:44,219
+interact with them because you can watch you do a little something and if they
+
+1380
+01:37:44,219 --> 01:37:48,100
+respond you got some sense that you're you're at the same level and kids and
+
+1381
+01:37:48,100 --> 01:37:50,829
+playgrounds do that with each other right away so
+
+1382
+01:37:50,829 --> 01:37:53,198
+if you if you see two three-year-olds together say they're fairly
+
+1383
+01:37:53,198 --> 01:37:56,389
+sophisticated for three-year-olds what they'll do is they'll start playing a
+
+1384
+01:37:56,390 --> 01:37:59,760
+little primitive game with each other like door like a dog you know what a dog
+
+1385
+01:37:59,760 --> 01:38:03,829
+does what it wants to play it kind of goes like that and and that's what kids
+
+1386
+01:38:03,829 --> 01:38:07,019
+do and that's what adults do too it's a plague
+
+1387
+01:38:07,020 --> 01:38:10,489
+it's play it if it tastes like I'm ready but you're smiling it's not like I'm
+
+1388
+01:38:10,488 --> 01:38:14,429
+ready it's and so you can tell the difference between a play fight and play
+
+1389
+01:38:14,430 --> 01:38:18,960
+and kids can too so it's an invitation to play and so if you're interacting
+
+1390
+01:38:18,960 --> 01:38:22,730
+with your little kid they got that play circuit man that thing's in there like
+
+1391
+01:38:22,729 --> 01:38:26,928
+when they're from birth I think because you can play with a kid right from birth
+
+1392
+01:38:26,929 --> 01:38:30,449
+at least something like peekaboo and so you're on the same wavelength
+
+1393
+01:38:30,449 --> 01:38:33,939
+fundamentally and then you interact with them and you see if they're following
+
+1394
+01:38:33,939 --> 01:38:37,428
+what you're doing is what I'm doing when I'm lecturing more or less I'm watching
+
+1395
+01:38:37,429 --> 01:38:44,670
+you guys and seeing if we're more or less in the same shared space you know
+
+1396
+01:38:44,670 --> 01:38:48,380
+and we want the space to be expanding because if it's just staying the same
+
+1397
+01:38:48,380 --> 01:38:53,279
+well you might as well play whatever you play on your computer it has to be
+
+1398
+01:38:53,279 --> 01:38:57,529
+expanding at the same time that's optimal and so when you're playing with
+
+1399
+01:38:57,529 --> 01:39:01,119
+your kid you put them on that developmental edge where they're undoing
+
+1400
+01:39:01,119 --> 01:39:06,149
+and then rebuilding their little skills you know you can do that like I had this
+
+1401
+01:39:06,149 --> 01:39:11,259
+memory from when I was a little kid a while back and I remembered I used to go
+
+1402
+01:39:11,260 --> 01:39:15,570
+over to these peoples house with my father and my mom and it was way up in
+
+1403
+01:39:15,569 --> 01:39:18,420
+northern Alberta and these people were Russian immigrants as children of
+
+1404
+01:39:18,420 --> 01:39:22,500
+Russian immigrants and they had a farmhouse way way out in the country way
+
+1405
+01:39:22,500 --> 01:39:26,670
+out by the way there where the railroad actually ended if you walk north from
+
+1406
+01:39:26,670 --> 01:39:31,590
+there you'd walk until you hit like southern Europe without fun running into
+
+1407
+01:39:31,590 --> 01:39:34,710
+another person it was way the hell out in the middle of nowhere and anyways
+
+1408
+01:39:34,710 --> 01:39:38,600
+they had a nice house it's like a warm house you know they had three kids and
+
+1409
+01:39:38,600 --> 01:39:42,409
+they were way older than me but it was a real fun comfortable place to go and I
+
+1410
+01:39:42,408 --> 01:39:46,170
+used to sit in the living room with my father and his friend whose name was
+
+1411
+01:39:46,170 --> 01:39:50,329
+Nick and Nick was a really playful guy I really liked him he was like my
+
+1412
+01:39:50,329 --> 01:39:54,579
+surrogate grandfather and I used to I don't think I was more than about three
+
+1413
+01:39:54,579 --> 01:39:59,179
+I'd sit there and I try to hit his foot with my fist and he would be talking to
+
+1414
+01:39:59,179 --> 01:40:02,569
+my dad you know and my dad would say Jordan don't bother Nick and Nick would
+
+1415
+01:40:02,569 --> 01:40:04,500
+say well he's not really bothering me and
+
+1416
+01:40:04,500 --> 01:40:08,810
+his dad was checking it out to see if I was anoint were poor if I was a fun kid
+
+1417
+01:40:08,810 --> 01:40:14,429
+you know cuz it's a fine line and so I tried to hit his foot and he would move
+
+1418
+01:40:14,429 --> 01:40:18,760
+it and now I had this memory while back and I thought wow that was a good memory
+
+1419
+01:40:18,760 --> 01:40:22,050
+and I thought what is going on there exactly and I realized well he's
+
+1420
+01:40:22,050 --> 01:40:26,739
+sharpening he was sharpening me up you know it's like I was aiming at something
+
+1421
+01:40:26,738 --> 01:40:29,489
+you're aiming at something if you're pointing your eyes at it you're pointing
+
+1422
+01:40:29,489 --> 01:40:32,439
+your whole damn soul out it you're aiming at something and you're trying to
+
+1423
+01:40:32,439 --> 01:40:36,589
+get your behaviors and your conceptions in line and organized so that you can
+
+1424
+01:40:36,590 --> 01:40:41,880
+attain that aim that's what people do you know we throw rocks at things we we
+
+1425
+01:40:41,880 --> 01:40:47,230
+fire arrows at things we shoot guns at things we aim at things our whole body
+
+1426
+01:40:47,229 --> 01:40:51,549
+is that platform for aiming and I was trying to aim at his feet and he'd move
+
+1427
+01:40:51,550 --> 01:40:56,289
+his feet you know but he'd let me hit it what now and then and so let's say
+
+1428
+01:40:56,289 --> 01:41:00,960
+you're a rat okay because like I said it rats a good model for a person let's say
+
+1429
+01:41:00,960 --> 01:41:04,869
+you're a little rat a juvenile male and you want to play because you want to
+
+1430
+01:41:04,869 --> 01:41:08,399
+play and you'll work to play and that's how we know you want to play if we're
+
+1431
+01:41:08,399 --> 01:41:12,579
+experimental psychologists because you're Bosch put button push like mad to
+
+1432
+01:41:12,579 --> 01:41:16,600
+get access to an arena where you can wrestle with another little rat and so
+
+1433
+01:41:16,600 --> 01:41:20,739
+rats wrestle just like human beings and they even pin each other just like human
+
+1434
+01:41:20,738 --> 01:41:25,209
+beings and they love that and so if you put little rat a in with a little rat B
+
+1435
+01:41:25,210 --> 01:41:29,770
+and little rat B is 10% bigger little rat B can stomp the hell out of little
+
+1436
+01:41:29,770 --> 01:41:33,830
+rat a all the time so they go out there and they have a little dominance
+
+1437
+01:41:33,829 --> 01:41:38,679
+competition and little rat B is gonna win because he's bigger so now he's
+
+1438
+01:41:38,679 --> 01:41:43,930
+dominant rat so then they play in they wrestle and little rat a loses but and
+
+1439
+01:41:43,930 --> 01:41:47,909
+then next time they both know that little rat a is the inviter
+
+1440
+01:41:47,908 --> 01:41:52,000
+because he's subordinate so he's the one who has to go up to the big rat and go
+
+1441
+01:41:52,000 --> 01:41:56,020
+you ready and the big rat then we'll wrestle however if you repeatedly pair
+
+1442
+01:41:56,020 --> 01:42:02,949
+them and the big rat doesn't let the little rat win at least 30% of the time
+
+1443
+01:42:02,948 --> 01:42:06,799
+the little rat won't invite him to play anymore and that was york panksepp who
+
+1444
+01:42:06,800 --> 01:42:12,369
+figured that out and that is mind-boggling because it tells you like
+
+1445
+01:42:12,369 --> 01:42:16,448
+the bit there's a there's an ethical basis for play that's so deep that the
+
+1446
+01:42:16,448 --> 01:42:20,969
+damn rat and their rats not known for their sense of fair play
+
+1447
+01:42:20,969 --> 01:42:25,029
+the big rat has to let the little rat win 30% of the time or the little rat
+
+1448
+01:42:25,029 --> 01:42:30,059
+will not play anymore and even rats know that it's it's so profound that
+
+1449
+01:42:30,060 --> 01:42:34,230
+discovery like banks have discovered the play circuit in mammals that's a big
+
+1450
+01:42:34,229 --> 01:42:37,679
+deal that's like discovering a whole continent like that's a big deal he
+
+1451
+01:42:37,680 --> 01:42:41,909
+should have got a Nobel Prize for that and to see that that's built in that
+
+1452
+01:42:41,908 --> 01:42:46,179
+sense of fair play that's mind boggling you know cuz that's evidence for the
+
+1453
+01:42:46,179 --> 01:42:52,340
+biological instantiation of a complex morality fair play even if you can win
+
+1454
+01:42:52,340 --> 01:42:56,380
+you shouldn't all the time well so when I'm trying to hit Nick's feet with my
+
+1455
+01:42:56,380 --> 01:42:59,890
+hand like I'm really paying attention and he's moving it pretty well but now
+
+1456
+01:42:59,890 --> 01:43:03,610
+and then I get to nail it and I'm feeling pretty good about that you know
+
+1457
+01:43:03,609 --> 01:43:07,109
+and he makes a little bit more difficult all the time so that my aim gets better
+
+1458
+01:43:07,109 --> 01:43:10,849
+and better and I'm building up my motor coordination I'm building up my social
+
+1459
+01:43:10,850 --> 01:43:15,250
+skills cuz I don't hit too hard and I don't cry when I miss because that just
+
+1460
+01:43:15,250 --> 01:43:19,448
+makes you annoying to play with right so I'm learning really complicated things
+
+1461
+01:43:19,448 --> 01:43:23,549
+about how to go about finessing my aim and that's what you're doing with your
+
+1462
+01:43:23,550 --> 01:43:28,650
+kids and what are they aiming at well they aim higher and higher so when my
+
+1463
+01:43:28,649 --> 01:43:33,079
+son was about two and a half we had him start setting the table it's you don't
+
+1464
+01:43:33,079 --> 01:43:36,779
+say you know you want to take grandma's fine china and go set the table
+
+1465
+01:43:36,779 --> 01:43:41,908
+it's like no you don't do that you say you know what a fork looks like he goes
+
+1466
+01:43:41,908 --> 01:43:45,359
+yeah see if you wanted the forks are well that doesn't work because the
+
+1467
+01:43:45,359 --> 01:43:48,889
+Drover's way up here right so you have to hand him a fork you say look take
+
+1468
+01:43:48,890 --> 01:43:52,780
+this fork and go put it on the table he's like this high you know so he goes
+
+1469
+01:43:52,779 --> 01:43:56,389
+over to the table and he puts the fork up here can't even see what he's doing
+
+1470
+01:43:56,390 --> 01:44:00,600
+he puts the fork up there and then you know he's reasonably happy with that and
+
+1471
+01:44:00,600 --> 01:44:04,010
+you could give him a path and then you go and give him a really sharp not no
+
+1472
+01:44:04,010 --> 01:44:09,300
+you don't do that you don't do that you give him a spoon and you say well go put
+
+1473
+01:44:09,300 --> 01:44:13,670
+the spoon beside the fork and you don't say look you're stupid kid you got to
+
+1474
+01:44:13,670 --> 01:44:17,350
+leave enough space between the fork and the spoon so the plate can fit there
+
+1475
+01:44:17,350 --> 01:44:20,829
+don't you know anything you're stupid it's like well that's
+
+1476
+01:44:20,829 --> 01:44:26,680
+right up here right you're a bad kid no that's bad you don't do that you go down
+
+1477
+01:44:26,680 --> 01:44:32,030
+here and you say well good micro routine adaptation there Chum well
+
+1478
+01:44:32,029 --> 01:44:35,408
+let's try it again you know when you build that up and like men
+
+1479
+01:44:35,408 --> 01:44:39,849
+you can't extend the kid past its point his point or her point of exhaustion
+
+1480
+01:44:39,850 --> 01:44:42,890
+because it's got to be a game and a two-year-old can probably only do that
+
+1481
+01:44:42,890 --> 01:44:48,700
+for you can watch them and some are more persistent than others but 10 minutes 15
+
+1482
+01:44:48,699 --> 01:44:52,349
+minutes you pushing your luck you can take a two-year-old to a restaurant for
+
+1483
+01:44:52,350 --> 01:44:58,370
+about 40 minutes and expect them to sit and behave but after that you know
+
+1484
+01:44:58,369 --> 01:45:02,859
+they're the will exhausts them all right well anyways that's Piaget in his
+
+1485
+01:45:02,859 --> 01:45:06,670
+nascent form fundamentally and so if you if you remember that diagram and you
+
+1486
+01:45:06,670 --> 01:45:10,390
+think about how that would be built from the bottom up and how there would be a
+
+1487
+01:45:10,390 --> 01:45:14,180
+stage transition every time those things are learned you kind of got the
+
+1488
+01:45:14,180 --> 01:45:20,170
+essential elements of piagetian theory so we'll see you Thursday
+

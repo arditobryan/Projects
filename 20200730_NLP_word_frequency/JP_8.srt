@@ -1,0 +1,4216 @@
+1
+00:00:13,054 --> 00:00:14,054
+All right.
+
+2
+00:00:14,935 --> 00:00:15,955
+So...
+
+3
+00:00:16,304 --> 00:00:19,295
+We're going to leap out of the psycoanalytic
+
+4
+00:00:19,295 --> 00:00:20,295
+domain,
+
+5
+00:00:20,964 --> 00:00:21,964
+now.
+
+6
+00:00:22,425 --> 00:00:25,685
+and start talking about a form of
+
+7
+00:00:25,785 --> 00:00:28,815
+approach to personality and its transformations
+
+8
+00:00:28,815 --> 00:00:31,745
+that's predicated on
+
+9
+00:00:31,745 --> 00:00:32,745
+a different...
+
+10
+00:00:32,984 --> 00:00:35,795
+a set of different philosophical assumptions.
+
+11
+00:00:36,664 --> 00:00:39,854
+And...it's a bit tricky to navigate this because...
+
+12
+00:00:41,734 --> 00:00:43,884
+it requires the adoption of a different frame
+
+13
+00:00:43,884 --> 00:00:45,164
+of mind and, of course,
+
+14
+00:00:45,164 --> 00:00:48,214
+that's the case with all the theorists that we're going to be
+
+15
+00:00:48,215 --> 00:00:49,215
+discussing.
+
+16
+00:00:49,865 --> 00:00:50,865
+Uh...
+
+17
+00:00:54,325 --> 00:00:57,685
+Phenomenology probably had its most
+
+18
+00:00:58,054 --> 00:00:59,054
+thorough
+
+19
+00:01:00,005 --> 00:01:01,325
+explication
+
+20
+00:01:02,734 --> 00:01:04,545
+in the philosophy of
+
+21
+00:01:04,954 --> 00:01:07,274
+Martin Heidegger.
+
+22
+00:01:08,465 --> 00:01:11,594
+And Heidegger was actually trying to
+
+23
+00:01:12,105 --> 00:01:15,505
+reconstruct western philosophy
+
+24
+00:01:15,875 --> 00:01:17,325
+from the bottom up.
+
+25
+00:01:18,555 --> 00:01:19,975
+He tought that
+
+26
+00:01:20,924 --> 00:01:23,834
+we had been pursuing an improper
+
+27
+00:01:23,834 --> 00:01:26,634
+pathway  conceptually really ever since the time of the
+
+28
+00:01:26,635 --> 00:01:27,954
+Ancient Greeks.
+
+29
+00:01:33,405 --> 00:01:35,875
+Back around the turn of the century
+
+30
+00:01:35,879 --> 00:01:38,099
+-- the previous century, that's from the 19th
+
+31
+00:01:38,099 --> 00:01:39,619
+to the 20th century --
+
+32
+00:01:41,094 --> 00:01:44,025
+a new form of geometry was invented
+
+33
+00:01:44,025 --> 00:01:47,085
+and that geometry was predicated on different axioms
+
+34
+00:01:47,084 --> 00:01:49,774
+than Euclidian geometry. Now,
+
+35
+00:01:49,780 --> 00:01:52,260
+people had thought for thousand of years that
+
+36
+00:01:52,340 --> 00:01:55,400
+the world was properly described by Euclidian geometry.
+
+37
+00:01:55,405 --> 00:01:56,405
+and, you know,
+
+38
+00:01:56,900 --> 00:01:59,480
+when you employ a system like
+
+39
+00:01:59,480 --> 00:02:02,160
+Euclidian geometry you have...there's axioms that you have to
+
+40
+00:02:02,159 --> 00:02:04,939
+accept and they're like the rules of the game and, once you accept
+
+41
+00:02:04,939 --> 00:02:07,299
+the axioms then you can go ahead and play the game.
+
+42
+00:02:08,175 --> 00:02:11,564
+But there are other forms of geometry invented
+
+43
+00:02:11,694 --> 00:02:14,764
+and...in the...in the later part of the..
+
+44
+00:02:15,155 --> 00:02:18,194
+19th century and it turned out that  those
+
+45
+00:02:18,194 --> 00:02:21,084
+forms with different axioms actually described the world
+
+46
+00:02:21,504 --> 00:02:24,444
+better than the Euclidian forms, sort of like
+
+47
+00:02:24,444 --> 00:02:26,055
+the transformation from Newton
+
+48
+00:02:26,474 --> 00:02:29,074
+to Einstein...this was the..
+
+49
+00:02:29,585 --> 00:02:32,015
+transformation from Euclide to, say,
+
+50
+00:02:32,014 --> 00:02:34,944
+-- I think I"ve got his name right -- Rie...Riemannn, R, I, E, M,
+
+51
+00:02:34,944 --> 00:02:38,064
+A, N, N., who developed a new form of geometry and turned out to be
+
+52
+00:02:38,064 --> 00:02:41,055
+just the geometry that Einstein needed when he was putting his
+
+53
+00:02:41,055 --> 00:02:44,185
+theories forward. And, the reason I'm teling you that is because
+
+54
+00:02:46,319 --> 00:02:49,139
+you can think of systems that have different axioms as...
+
+55
+00:02:49,180 --> 00:02:50,640
+as different tools
+
+56
+00:02:51,395 --> 00:02:53,775
+Same idea that Piaget was trying to express
+
+57
+00:02:53,775 --> 00:02:56,805
+when he talked about how children's
+
+58
+00:02:56,805 --> 00:02:59,685
+cognitive representations underwent
+
+59
+00:03:00,905 --> 00:03:03,905
+stage transformations so that they were starting to apply
+
+60
+00:03:03,905 --> 00:03:06,414
+new principles. Not only a new way
+
+61
+00:03:06,414 --> 00:03:08,644
+of looking at the world but they were
+
+62
+00:03:08,645 --> 00:03:12,340
+fundamentally retooling their presumptions about how the world operated.
+
+63
+00:03:12,340 --> 00:03:14,465
+And Heidegger tried to do the same
+
+64
+00:03:14,465 --> 00:03:17,365
+thing with philosophy. And so...
+
+65
+00:03:18,504 --> 00:03:21,375
+And it's tricky to figure out exactly what he was talking about
+
+66
+00:03:21,375 --> 00:03:24,224
+but I'll give it a shot and then, we can move
+
+67
+00:03:24,224 --> 00:03:25,525
+forward with Rogers
+
+68
+00:03:26,275 --> 00:03:27,275
+So...
+
+69
+00:03:27,425 --> 00:03:30,564
+Since the dawn of the scientific world and, likely, before
+
+70
+00:03:30,564 --> 00:03:33,134
+that, we have tended to believe
+
+71
+00:03:33,134 --> 00:03:35,974
+that we are subjects in a world of objects.
+
+72
+00:03:36,544 --> 00:03:38,224
+And that 's obvioulsy a
+
+73
+00:03:38,224 --> 00:03:41,155
+very useful way to view the world and you can
+
+74
+00:03:41,155 --> 00:03:44,104
+tell that because, formalizing that in the form of
+
+75
+00:03:44,104 --> 00:03:47,004
+science, has enabled us to extend
+
+76
+00:03:47,004 --> 00:03:48,805
+control over the world
+
+77
+00:03:49,395 --> 00:03:52,185
+in ways that we were not able to before.
+
+78
+00:03:52,745 --> 00:03:55,344
+Uh...To formulate the idea of
+
+79
+00:03:55,344 --> 00:03:58,215
+an objective truth has been an extraordinarily useful maneuver
+
+80
+00:03:58,215 --> 00:04:01,085
+and so, the idea, roughly, is that
+
+81
+00:04:01,925 --> 00:04:04,415
+everyone's perceptions can be contaminated by
+
+82
+00:04:04,414 --> 00:04:07,694
+their own biases and their own fantasies, that subjective
+
+83
+00:04:07,694 --> 00:04:11,194
+biases and fantasies and you can overcome that by
+
+84
+00:04:11,335 --> 00:04:13,844
+stringently specifying
+
+85
+00:04:13,844 --> 00:04:16,334
+the conditions under which an observation takes place
+
+86
+00:04:16,334 --> 00:04:18,634
+-- so that would be an experimental method --
+
+87
+00:04:19,339 --> 00:04:21,939
+Having multiple people  view the consequences
+
+88
+00:04:21,939 --> 00:04:25,439
+separately, have them detail out what the consequences are
+
+89
+00:04:25,439 --> 00:04:28,139
+and then look for commonalities across them. And, you think, well,
+
+90
+00:04:28,139 --> 00:04:30,919
+the commonalities across a set of observations
+
+91
+00:04:30,925 --> 00:04:33,895
+constitute a description of the objective world.
+
+92
+00:04:34,175 --> 00:04:36,595
+And that's been insanely powerful.
+
+93
+00:04:37,055 --> 00:04:39,995
+..uh....crazily powerful. I mean that's not all there is
+
+94
+00:04:39,995 --> 00:04:42,704
+to the scientific method but
+
+95
+00:04:42,704 --> 00:04:43,784
+it's a big part of it.
+
+96
+00:04:45,154 --> 00:04:46,154
+Now...
+
+97
+00:04:46,480 --> 00:04:48,700
+there is an emergent problem with that
+
+98
+00:04:48,920 --> 00:04:49,920
+perhaps,
+
+99
+00:04:50,899 --> 00:04:53,359
+It's complicated but one of the emergent problem
+
+100
+00:04:53,360 --> 00:04:54,379
+with that is...
+
+101
+00:04:55,180 --> 00:04:57,319
+maybe, a consequence of
+
+102
+00:04:57,319 --> 00:05:00,399
+stripping the subjectivity out of the world
+
+103
+00:05:00,600 --> 00:05:01,600
+So...
+
+104
+00:05:01,899 --> 00:05:05,019
+What science does is..consider
+
+105
+00:05:05,060 --> 00:05:08,120
+anything subjective as a form of bias or
+
+106
+00:05:08,120 --> 00:05:11,019
+error in the observation and then, get rid of it and so
+
+107
+00:05:11,139 --> 00:05:13,079
+what you're left with, when you...
+
+108
+00:05:13,800 --> 00:05:16,740
+formulate the scientific world, is a world that's stripped of
+
+109
+00:05:16,745 --> 00:05:19,095
+subjectivity. Now, the problem with that
+
+110
+00:05:19,095 --> 00:05:21,325
+is that you're a subject and so, when you strip
+
+111
+00:05:21,324 --> 00:05:24,235
+the world of its subjectivity, that sort of leaves you
+
+112
+00:05:24,240 --> 00:05:27,460
+isolated, like an isolated being
+
+113
+00:05:27,459 --> 00:05:30,354
+with no necessary connections to
+
+114
+00:05:30,360 --> 00:05:32,780
+objective reality, in the midst of a set of
+
+115
+00:05:32,779 --> 00:05:34,319
+impersonal facts.
+
+116
+00:05:35,199 --> 00:05:38,599
+And, that seems to have psychological consequences
+
+117
+00:05:38,600 --> 00:05:41,060
+and the psychological consequences
+
+118
+00:05:41,060 --> 00:05:43,000
+are that, well, for example,
+
+119
+00:05:43,355 --> 00:05:46,345
+I think it's easier to develop a nihilistic sense
+
+120
+00:05:46,345 --> 00:05:49,145
+of being, for example, if you believe that the
+
+121
+00:05:49,144 --> 00:05:51,875
+world is nothing but objects and that you're,...
+
+122
+00:05:53,084 --> 00:05:55,824
+fundamentally, an object among many
+
+123
+00:05:55,824 --> 00:05:58,324
+and not a particularly important one, at that.
+
+124
+00:05:59,785 --> 00:06:02,795
+So...there are psychological
+
+125
+00:06:02,795 --> 00:06:04,715
+consequences to adopting the
+
+126
+00:06:05,464 --> 00:06:07,244
+scientific worldview.
+
+127
+00:06:07,800 --> 00:06:09,759
+Prior to the emergence of the
+
+128
+00:06:09,759 --> 00:06:12,480
+scientific worldview, people were more embedded in what
+
+129
+00:06:12,480 --> 00:06:15,720
+you might think about as a mythological landscape, you know, where
+
+130
+00:06:16,384 --> 00:06:19,224
+every element of being had its place in something that
+
+131
+00:06:19,225 --> 00:06:22,605
+approximated a master plan or, at least, a meaningful plan.
+
+132
+00:06:22,605 --> 00:06:25,160
+And so...the idea of ...
+
+133
+00:06:25,160 --> 00:06:28,240
+the meaningfulness of life was not necessarily
+
+134
+00:06:28,240 --> 00:06:30,720
+such a pressing intellectual concern.
+
+135
+00:06:34,925 --> 00:06:35,925
+And then...
+
+136
+00:06:36,625 --> 00:06:39,120
+well, and so, we don't know the full extent of that
+
+137
+00:06:39,564 --> 00:06:40,064
+...I mean...
+
+138
+00:06:40,064 --> 00:06:42,160
+I've talked to you a little bit about Nietzsche's
+
+139
+00:06:42,160 --> 00:06:45,020
+idea that's  expressed at the end of the 19th century about
+
+140
+00:06:45,339 --> 00:06:48,099
+the death of God and his prognostication that
+
+141
+00:06:48,100 --> 00:06:49,100
+the collapse of...
+
+142
+00:06:50,300 --> 00:06:53,235
+classic systems of meaning
+
+143
+00:06:53,240 --> 00:06:55,860
+open up people to posession by
+
+144
+00:06:55,860 --> 00:06:59,080
+nihilism and also by potentially totalitarian
+
+145
+00:06:59,134 --> 00:07:02,194
+political systems and that seems to have been what happened
+
+146
+00:07:02,194 --> 00:07:04,964
+Now, Heidegger was very concerned about that,
+
+147
+00:07:05,314 --> 00:07:08,675
+among other things. And so, he decided to
+
+148
+00:07:09,084 --> 00:07:10,384
+reconsider
+
+149
+00:07:11,194 --> 00:07:13,324
+reality from the bottom up.
+
+150
+00:07:13,800 --> 00:07:16,379
+And so, what he did was generate an alternative set
+
+151
+00:07:16,500 --> 00:07:19,300
+of axioms. He said something like "what if we
+
+152
+00:07:19,305 --> 00:07:20,745
+decide
+
+153
+00:07:21,560 --> 00:07:24,399
+to make reality everything that we
+
+154
+00:07:24,399 --> 00:07:27,699
+experience? Forget about the subject/object divide.
+
+155
+00:07:28,399 --> 00:07:30,914
+And...One of the other problems with
+
+156
+00:07:30,915 --> 00:07:32,314
+the subject/object divide
+
+157
+00:07:32,314 --> 00:07:34,795
+for example, is accounting for consciousness, right? because
+
+158
+00:07:34,800 --> 00:07:37,560
+it's a problem that science really hasn't got any distance with
+
+159
+00:07:37,560 --> 00:07:40,899
+at all, as far as I can tell. I mean, people have been trying to crack
+
+160
+00:07:40,904 --> 00:07:43,954
+the secret of counsciousness, obviously, for a very long time
+
+161
+00:07:44,245 --> 00:07:46,665
+but they've been trying to do it formally
+
+162
+00:07:46,665 --> 00:07:49,675
+and using scientific methods, at least for the last
+
+163
+00:07:49,675 --> 00:07:52,495
+50 years and my sense of that is that they've
+
+164
+00:07:52,495 --> 00:07:53,855
+got absolutely nowhere.
+
+165
+00:07:54,759 --> 00:07:57,279
+Maybe, that's a bit unfair. We're better at
+
+166
+00:07:57,279 --> 00:07:59,719
+representing how conscious experiences
+
+167
+00:07:59,980 --> 00:08:02,555
+manifest themselves in the brain but we're
+
+168
+00:08:02,555 --> 00:08:04,764
+but we're certainly no better at understanding
+
+169
+00:08:05,334 --> 00:08:08,284
+how it is that we experience things. And that's the problem of
+
+170
+00:08:08,285 --> 00:08:09,285
+"qualia".
+
+171
+00:08:09,839 --> 00:08:12,739
+That's how the philosophers describe it. And qualia is
+
+172
+00:08:12,740 --> 00:08:15,860
+the quality of your experience, like the fact that pain,
+
+173
+00:08:15,860 --> 00:08:19,215
+for example...A pain you feel
+
+174
+00:08:19,214 --> 00:08:22,134
+is by no means identical, at least, as far as your concerned,
+
+175
+00:08:22,134 --> 00:08:25,064
+to some pattern of neurological activity, right?
+
+176
+00:08:25,064 --> 00:08:28,064
+It's pain. It seems to be a fundamental
+
+177
+00:08:28,064 --> 00:08:30,779
+reality of some... In fact, I think pain is THE fundamental
+
+178
+00:08:30,779 --> 00:08:33,639
+reality. I think it's the only thing that people will never
+
+179
+00:08:33,639 --> 00:08:34,639
+deny.
+
+180
+00:08:35,179 --> 00:08:36,179
+But...
+
+181
+00:08:37,034 --> 00:08:39,485
+So, there's these aspects of your
+
+182
+00:08:39,485 --> 00:08:41,779
+existence that are subjective, like your experience of
+
+183
+00:08:41,779 --> 00:08:44,419
+colour and your experience of beauty and just your experience
+
+184
+00:08:44,659 --> 00:08:47,500
+of things or, maybe, just your experience.
+
+185
+00:08:47,554 --> 00:08:49,064
+Your eperience plays an
+
+186
+00:08:49,485 --> 00:08:50,995
+indeterminate role
+
+187
+00:08:51,904 --> 00:08:55,044
+in the structure of being itself. 'Cause you might ask, well,
+
+188
+00:08:55,134 --> 00:08:58,044
+what would there be if there was nothing conscious?
+
+189
+00:08:58,174 --> 00:08:59,774
+and you could say, well...
+
+190
+00:09:01,159 --> 00:09:04,000
+what would there be if there was nothing conscious of being?
+
+191
+00:09:04,000 --> 00:09:05,879
+Well, it's a tricky question, because
+
+192
+00:09:06,419 --> 00:09:08,814
+it depends on your a priori
+
+193
+00:09:08,815 --> 00:09:11,435
+axioms but...it's not obvious what
+
+194
+00:09:11,434 --> 00:09:14,104
+there would be in the absence of a conscious oberver.
+
+195
+00:09:14,679 --> 00:09:16,899
+There wouldn't obviously be any
+
+196
+00:09:16,899 --> 00:09:19,720
+duration between things. It would be very difficult to
+
+197
+00:09:19,720 --> 00:09:22,980
+specify things in terms of size. There wouldn't be
+
+198
+00:09:23,000 --> 00:09:25,975
+any of the qualities that we experience...
+
+199
+00:09:25,980 --> 00:09:28,460
+...that we experience our being is having 'cause
+
+200
+00:09:28,460 --> 00:09:31,160
+colour doesn't seem to be an intrinsic part of the world,
+
+201
+00:09:31,159 --> 00:09:34,039
+smell doesn't seem to be an intrinsic part of the world.
+
+202
+00:09:34,539 --> 00:09:37,259
+It's very difficult. The more you think about it, you'd find
+
+203
+00:09:37,259 --> 00:09:40,375
+the more difficut it is to determine exactly what there would
+
+204
+00:09:40,375 --> 00:09:42,575
+be if there was no one to observe it.
+
+205
+00:09:43,034 --> 00:09:45,975
+And...that's not the tree-in-the-forest idea, precisely
+
+206
+00:09:45,975 --> 00:09:49,055
+It's not so much if a tree falls in the forest
+
+207
+00:09:49,059 --> 00:09:51,500
+and there's no one to hear it, it doesn't make a sound
+
+208
+00:09:51,500 --> 00:09:54,820
+'cause that's more a matter of the definition of sound than anything else.
+
+209
+00:09:54,820 --> 00:09:57,940
+This is more, like, if there's a tree in the forest and there isn't anyone,
+
+210
+00:09:57,940 --> 00:10:00,660
+is there a tree ? And that's a
+
+211
+00:10:00,659 --> 00:10:04,139
+whole different question. Anyways, so, what Heidegger did,
+
+212
+00:10:04,919 --> 00:10:08,779
+partly because he was not pleased, I suppose,
+
+213
+00:10:08,779 --> 00:10:10,799
+with the metaphysical
+
+214
+00:10:10,804 --> 00:10:13,384
+consequences of the scientific worldview,
+
+215
+00:10:13,595 --> 00:10:16,715
+and also, perhaps, because he wasn't very
+
+216
+00:10:16,715 --> 00:10:19,355
+happy about our ability to account for consciousness,
+
+217
+00:10:19,360 --> 00:10:22,560
+he decided to see what would happen if he played
+
+218
+00:10:22,559 --> 00:10:24,739
+a different kind of game. And
+
+219
+00:10:24,740 --> 00:10:28,019
+you can do that in an intellectual discussion, you know, you can say, well,
+
+220
+00:10:28,480 --> 00:10:31,139
+here's a set of axioms out of which a system
+
+221
+00:10:31,139 --> 00:10:34,220
+will emerge, like, here's a set of rules out of which a game
+
+222
+00:10:34,220 --> 00:10:36,300
+would emerge. Same idea.
+
+223
+00:10:36,860 --> 00:10:39,659
+What if we start with a different set of rules? Let's see
+
+224
+00:10:39,659 --> 00:10:43,059
+what we can do if we do that. You kind of do that when you play one video game
+
+225
+00:10:43,059 --> 00:10:45,419
+rather than another. You know, there're little worlds
+
+226
+00:10:45,419 --> 00:10:48,399
+that pop out. There's a different underlining structure.
+
+227
+00:10:48,399 --> 00:10:51,620
+And then, you can go inside that world and experiment with it and
+
+228
+00:10:51,625 --> 00:10:53,615
+see what comes out of it.
+
+229
+00:10:54,754 --> 00:10:57,924
+So Heidegger decided to say "OK, what we're gonna do instead
+
+230
+00:10:57,924 --> 00:11:00,764
+is we're going to assume that everything we experience is real.
+
+231
+00:11:00,764 --> 00:11:03,814
+We're going to make our field of experience itself
+
+232
+00:11:03,815 --> 00:11:05,665
+reality".
+
+233
+00:11:06,375 --> 00:11:09,754
+And...So that would mean, from Heidegger's point of view,
+
+234
+00:11:10,134 --> 00:11:11,134
+that
+
+235
+00:11:11,315 --> 00:11:12,695
+everything about
+
+236
+00:11:14,684 --> 00:11:17,714
+the being that manifests itself to you is to be regarded as
+
+237
+00:11:17,715 --> 00:11:20,535
+equallly real. So, then, you think, well, that makes pain
+
+238
+00:11:20,534 --> 00:11:23,865
+a fundamental reality. That makes anxiety a fundamental reality.
+
+239
+00:11:23,865 --> 00:11:26,560
+It makes beauty and colour fundamental
+
+240
+00:11:26,559 --> 00:11:29,179
+realities. They're not self-evidently
+
+241
+00:11:29,325 --> 00:11:32,680
+reducible to anything else, which they would be...
+
+242
+00:11:33,335 --> 00:11:36,085
+...which they are in a scientific...from a scientific
+
+243
+00:11:36,085 --> 00:11:38,545
+perspective because you have to think about them as
+
+244
+00:11:38,544 --> 00:11:41,259
+manifestations of some more fundamental underlying
+
+245
+00:11:41,259 --> 00:11:44,720
+material reality. And I guess that's another problem with the
+
+246
+00:11:44,940 --> 00:11:47,955
+subject/object model and the material
+
+247
+00:11:47,955 --> 00:11:48,965
+model.
+
+248
+00:11:49,514 --> 00:11:52,524
+When you aggregate atoms, when you
+
+249
+00:11:52,524 --> 00:11:55,584
+arrange them in certain forms.
+
+250
+00:11:55,585 --> 00:11:58,160
+When they manifest themselves as certain molecules and then
+
+251
+00:11:58,159 --> 00:12:01,379
+in more complex structures, they seem to take on all sorts
+
+252
+00:12:01,379 --> 00:12:04,654
+of qualities that you couldn't predict if you just knew about
+
+253
+00:12:04,654 --> 00:12:05,654
+the
+
+254
+00:12:05,774 --> 00:12:09,235
+subatomic particles and the atoms themselves and so, of course, the...
+
+255
+00:12:10,134 --> 00:12:13,115
+those are called emerging properties and you say, well, you can
+
+256
+00:12:14,625 --> 00:12:17,585
+observe hydrogen and you can observe oxygen but
+
+257
+00:12:17,884 --> 00:12:19,884
+that doesn't make it self-evident
+
+258
+00:12:20,465 --> 00:12:23,805
+for you to be able to predict the properties of water. And, of course,
+
+259
+00:12:23,804 --> 00:12:26,504
+that's a more simpler problem, all things considered,
+
+260
+00:12:26,504 --> 00:12:29,434
+than the problem of figuring YOU out. You're this
+
+261
+00:12:29,434 --> 00:12:32,634
+crazily complex aggregate of these hypothetical...
+
+262
+00:12:32,794 --> 00:12:35,235
+hypothetically simple entities but
+
+263
+00:12:35,559 --> 00:12:36,919
+it isn't obvious how
+
+264
+00:12:37,679 --> 00:12:40,579
+their elemental properties can combine
+
+265
+00:12:40,580 --> 00:12:43,440
+to produce YOU. It's not obvious at all.
+
+266
+00:12:43,440 --> 00:12:46,760
+It's certainly not obious how a material that's supposed to be
+
+267
+00:12:46,759 --> 00:12:49,740
+dead matter, so to speak, can
+
+268
+00:12:49,745 --> 00:12:52,615
+manifest consciousness,
+
+269
+00:12:52,865 --> 00:12:55,335
+no matter how complexly it's arranged.
+
+270
+00:12:55,924 --> 00:12:57,004
+So...
+
+271
+00:12:58,715 --> 00:13:00,595
+The phenomenologists,
+
+272
+00:13:02,404 --> 00:13:05,174
+Heidegger leading them, were...
+
+273
+00:13:05,179 --> 00:13:07,799
+attempted to produce a philosophical model of
+
+274
+00:13:07,799 --> 00:13:09,099
+being.
+
+275
+00:13:09,335 --> 00:13:12,365
+And...We'll talk more specifically about the phenomenologists
+
+276
+00:13:12,365 --> 00:13:15,455
+after we're done with Rogers, but he is...
+
+277
+00:13:15,455 --> 00:13:17,115
+he fits in that
+
+278
+00:13:17,575 --> 00:13:18,795
+philosophical
+
+279
+00:13:19,445 --> 00:13:20,515
+framework.
+
+280
+00:13:21,615 --> 00:13:22,615
+And...
+
+281
+00:13:35,684 --> 00:13:38,094
+One of the things that I've thought...
+
+282
+00:13:38,855 --> 00:13:41,654
+-- This is a bit of a tangent but I'll move back
+
+283
+00:13:41,654 --> 00:13:43,054
+to the model afterwards. --
+
+284
+00:13:44,014 --> 00:13:46,504
+See, I really like the psychoanalysts.
+
+285
+00:13:46,504 --> 00:13:49,054
+And I like the idea that you have a psyche that's inside
+
+286
+00:13:49,054 --> 00:13:51,304
+of you and that is structured, in part
+
+287
+00:13:51,304 --> 00:13:53,984
+consciously and in part uncounsciously.
+
+288
+00:13:53,985 --> 00:13:56,904
+There's something about that that's really cool and I've learned a lot
+
+289
+00:13:57,225 --> 00:14:00,404
+from the psychoanalysts. But, you know, there is a funny
+
+290
+00:14:00,894 --> 00:14:04,044
+conesquence of thinking the way they think -- and you do
+
+291
+00:14:04,044 --> 00:14:06,495
+think the way they think, even if you don't know it --
+
+292
+00:14:06,804 --> 00:14:09,814
+like we tend to think that a lot of us is inside our head,
+
+293
+00:14:09,815 --> 00:14:12,925
+you know. That's the psyche model basically.
+
+294
+00:14:13,144 --> 00:14:16,105
+But, the more I've practised as a clinical psychologist
+
+295
+00:14:16,105 --> 00:14:18,435
+the less I've actually been convinced that that's true
+
+296
+00:14:19,034 --> 00:14:21,924
+So, I could say, well...Let's say I want to know about
+
+297
+00:14:21,924 --> 00:14:24,554
+your personality. We think, well, I wanna now
+
+298
+00:14:24,554 --> 00:14:27,454
+you. I wanna know about your subjectivity and I want to know
+
+299
+00:14:27,455 --> 00:14:29,004
+what's inside of you.
+
+300
+00:14:29,475 --> 00:14:32,175
+But that is not exactly what you do want to know if you're doing clinical
+
+301
+00:14:32,174 --> 00:14:34,544
+work, say, with someone. You wanna know
+
+302
+00:14:35,664 --> 00:14:37,245
+do they have any friends?
+
+303
+00:14:37,725 --> 00:14:40,435
+That's really important. Because, if you're miserable
+
+304
+00:14:40,434 --> 00:14:43,164
+and anxious and badly placed in life
+
+305
+00:14:43,164 --> 00:14:44,844
+and misbehaving,
+
+306
+00:14:45,440 --> 00:14:47,660
+one of the reasons that all of that can occur is  'cause
+
+307
+00:14:47,659 --> 00:14:50,980
+you don't have any friends, you don't know anyone. And that's not something that's
+
+308
+00:14:50,980 --> 00:14:52,320
+inside you.
+
+309
+00:14:52,634 --> 00:14:54,814
+It's you, localized
+
+310
+00:14:55,179 --> 00:14:57,899
+in a broader sphere. And then, you might say, well, do you
+
+311
+00:14:57,899 --> 00:14:59,220
+have a job?
+
+312
+00:14:59,264 --> 00:15:01,754
+And...Well, let's talk about the job. Do you actually make enough
+
+313
+00:15:01,754 --> 00:15:04,615
+money with your job? Is it satisfying for
+
+314
+00:15:04,615 --> 00:15:07,615
+you in any way? Are you bullied all the time when you're at work?
+
+315
+00:15:07,615 --> 00:15:10,394
+Does it provoke anxiety? Is it a carrier that allows
+
+316
+00:15:10,394 --> 00:15:13,444
+you to go somewhere? Are you overworked?
+
+317
+00:15:13,445 --> 00:15:15,820
+Or...But let's start with just the first question.
+
+318
+00:15:15,820 --> 00:15:19,400
+Do you have a job? Well, if the answer to that is "no",
+
+319
+00:15:19,595 --> 00:15:22,435
+you have a serious problem and that would enough
+
+320
+00:15:22,434 --> 00:15:25,154
+might be to depress you and make you anxious and
+
+321
+00:15:25,154 --> 00:15:28,134
+hopeless and nihilistic and all of those things. And, you could say, well,
+
+322
+00:15:28,134 --> 00:15:31,044
+you're not reacting very well to not having a job but
+
+323
+00:15:31,184 --> 00:15:34,125
+that's kind of a foolish objection, even though some of
+
+324
+00:15:34,125 --> 00:15:37,115
+it might be true. One problem is that you're not reacting very
+
+325
+00:15:37,115 --> 00:15:40,004
+well to not having a job but another problem is that you don't have a
+
+326
+00:15:40,004 --> 00:15:43,164
+job and that, actually, constitutes the problem,
+
+327
+00:15:43,245 --> 00:15:46,294
+right? You don't get to eat, you don't have a place to live.
+
+328
+00:15:46,294 --> 00:15:49,184
+Those aren't psychological problems precisely, even
+
+329
+00:15:49,184 --> 00:15:52,214
+though a psychological probem could make it worse.
+
+330
+00:15:52,215 --> 00:15:55,095
+Well, are you as educated as you should be?
+
+331
+00:15:55,100 --> 00:15:57,800
+That's another question. How do you handle drugs and alcohol?
+
+332
+00:15:57,799 --> 00:16:00,539
+Are they taking you down a bad pathway? Know?
+
+333
+00:16:00,975 --> 00:16:01,975
+Uhmm...
+
+334
+00:16:02,259 --> 00:16:04,799
+What about intimate relationships ? Do you have one?
+
+335
+00:16:04,799 --> 00:16:08,019
+Do you have a plan for one? Or is that a never ending series of
+
+336
+00:16:08,024 --> 00:16:11,074
+catastrophes or something that you avoid completely?
+
+337
+00:16:11,075 --> 00:16:13,865
+That's a big problem! And, maybe, people don't...
+
+338
+00:16:13,865 --> 00:16:16,914
+aren't attracted to you for one reason or another and.... You can think about that as
+
+339
+00:16:16,914 --> 00:16:19,584
+a psychological problem but...it's an interpersonal
+
+340
+00:16:19,585 --> 00:16:20,585
+problem.
+
+341
+00:16:20,934 --> 00:16:24,064
+And the degree to which that's a psychological problem is...
+
+342
+00:16:24,360 --> 00:16:26,740
+is certainly unspecified when
+
+343
+00:16:26,740 --> 00:16:30,480
+you first begin to talk to somebody. What about your family? Do you have a family?
+
+344
+00:16:30,904 --> 00:16:34,144
+'Cause' it's hard to be in the world all by yourself. That's for sure!
+
+345
+00:16:34,144 --> 00:16:37,225
+It makes things a lot more stressful...even though having a family
+
+346
+00:16:37,225 --> 00:16:40,105
+can also be extraordinarily stressful...you know..
+
+347
+00:16:40,105 --> 00:16:43,154
+Do you have plans to have children? How are you doing with your parents?
+
+348
+00:16:43,159 --> 00:16:45,579
+Do you get along with your siblings? You know, all of
+
+349
+00:16:45,580 --> 00:16:47,900
+that, all of that, to me, is more
+
+350
+00:16:47,899 --> 00:16:52,699
+fundamental and it's outside of you. Those are elements of your experience.
+
+351
+00:16:52,700 --> 00:16:54,815
+More broadly...conceptualized...
+
+352
+00:16:54,820 --> 00:16:57,580
+more than they are objects of your psychology
+
+353
+00:16:57,580 --> 00:17:01,160
+or of your internal experience.  You know, it's sort of like
+
+354
+00:17:04,835 --> 00:17:07,835
+Well, a person is a creature that exists
+
+355
+00:17:07,835 --> 00:17:09,944
+at multiple levels of analysis.
+
+356
+00:17:10,359 --> 00:17:12,759
+Right? Something might go wrong with you at a
+
+357
+00:17:12,759 --> 00:17:16,115
+cellular level. So, maybe, you're born with a genetic abnormality.
+
+358
+00:17:16,115 --> 00:17:18,704
+So, something's wrong with you molecularly.
+
+359
+00:17:18,704 --> 00:17:21,439
+Or you have something wrong with a major organ.
+
+360
+00:17:21,440 --> 00:17:24,259
+Or, maybe, there's something wrong with you psycologically. Or, maybe,
+
+361
+00:17:24,259 --> 00:17:26,920
+you're in a pathological family. Or, maybe, you're stuck
+
+362
+00:17:26,920 --> 00:17:30,375
+in a pathological social system. And...
+
+363
+00:17:30,375 --> 00:17:33,204
+figuring out why you're suffering
+
+364
+00:17:33,259 --> 00:17:35,599
+means going up and down those different levels trying
+
+365
+00:17:35,599 --> 00:17:37,679
+to specify the appropriate level
+
+366
+00:17:37,684 --> 00:17:40,744
+for analysis and also the appropriate level for intervention.
+
+367
+00:17:40,744 --> 00:17:43,714
+And, for me, as I said, even though I'm a great admirer
+
+368
+00:17:43,714 --> 00:17:45,754
+of the psychoanalysts and I do
+
+369
+00:17:45,755 --> 00:17:48,945
+things like dream analysis which I really find
+
+370
+00:17:48,944 --> 00:17:51,500
+incredibly useful and enlightning, the first, the
+
+371
+00:17:51,500 --> 00:17:55,194
+fundamental level of analysis is, well, what's your experience structured like...
+
+372
+00:17:55,194 --> 00:17:58,075
+exactly? And that isn't localized in you.
+
+373
+00:17:58,075 --> 00:18:00,805
+Now, the behaviourists do that to, because...
+
+374
+00:18:00,805 --> 00:18:03,755
+-- which is one of the things I really like about the behaviourial approach of psychotherapy.
+
+375
+00:18:03,759 --> 00:18:06,480
+It's very very concrete and practical. It's like,
+
+376
+00:18:06,480 --> 00:18:07,839
+they'll say, well,
+
+377
+00:18:08,180 --> 00:18:10,759
+there're certain things that you need to have in order to live properly
+
+378
+00:18:10,759 --> 00:18:12,879
+and, maybe, you don't have the skills or the wherewithwall...
+
+379
+00:18:12,880 --> 00:18:15,800
+wherewithal to accumulate them and we'll break them down
+
+380
+00:18:15,799 --> 00:18:19,079
+into tiny little pieces and you'll practice. So, for example,
+
+381
+00:18:19,085 --> 00:18:21,965
+someone who doesn't have any friends and you do a micro-analysis
+
+382
+00:18:21,964 --> 00:18:24,559
+of their...social skills, say,
+
+383
+00:18:24,559 --> 00:18:26,994
+and maybe an analysis of the kind of anxiety
+
+384
+00:18:27,000 --> 00:18:29,720
+that are stopping them from going out and meeting people
+
+385
+00:18:29,720 --> 00:18:32,940
+and then you address those things practically one by one. You try
+
+386
+00:18:32,940 --> 00:18:36,215
+to get the person have some friends. You try to figure out how they can
+
+387
+00:18:36,214 --> 00:18:38,924
+establish an intimate relationship. You see if you could help
+
+388
+00:18:38,924 --> 00:18:41,359
+them sort out their family. You do what you can about their
+
+389
+00:18:41,359 --> 00:18:44,714
+employment and...A lot of that's only tangentially related
+
+390
+00:18:44,714 --> 00:18:47,964
+to -- really, in some sense -- to the structure of their psyche.
+
+391
+00:18:47,964 --> 00:18:50,799
+But, one of the things you'll see, if you work as a
+
+392
+00:18:50,799 --> 00:18:53,914
+clinician, or as a counsellor, is that, most of the time, people
+
+393
+00:18:53,914 --> 00:18:56,825
+come and see you because they have problems, not because they have psychological
+
+394
+00:18:56,825 --> 00:18:57,894
+problems.
+
+395
+00:18:58,319 --> 00:19:00,899
+And those things are not that easy to distinguish.
+
+396
+00:19:00,900 --> 00:19:04,495
+You know, it's sort of the psychoanalytic idea, sort of like, well, if you juste got
+
+397
+00:19:04,494 --> 00:19:07,494
+your act together, everything would work out for you. It's like,
+
+398
+00:19:07,545 --> 00:19:08,545
+yeaaaah...
+
+399
+00:19:11,365 --> 00:19:12,974
+There's some truth in that.
+
+400
+00:19:13,404 --> 00:19:14,404
+But...
+
+401
+00:19:17,200 --> 00:19:19,700
+But, you know if you're 55 years old and you've just been
+
+402
+00:19:19,700 --> 00:19:21,259
+laid off work,
+
+403
+00:19:22,319 --> 00:19:24,519
+and, maybe, through no fault of your own,
+
+404
+00:19:25,920 --> 00:19:28,380
+it isn't obvious how much getting your act together
+
+405
+00:19:28,380 --> 00:19:31,100
+is gonna help you find another job...because...
+
+406
+00:19:31,099 --> 00:19:34,375
+the actual problem that you're facing may have
+
+407
+00:19:34,375 --> 00:19:37,335
+relatively little to do with you. And that would especially be the case
+
+408
+00:19:37,335 --> 00:19:38,335
+if you're,
+
+409
+00:19:38,835 --> 00:19:41,815
+maybe, on the bottom half of the itelligence distribution,
+
+410
+00:19:41,815 --> 00:19:43,625
+for example, and so...it isn't
+
+411
+00:19:43,625 --> 00:19:46,299
+as easy for you just to go out and pick up new
+
+412
+00:19:46,299 --> 00:19:49,259
+skills at the drop of a hat...you know...and that
+
+413
+00:19:49,259 --> 00:19:52,220
+gets harder as you get older because your IQ actually declines quite
+
+414
+00:19:52,220 --> 00:19:55,680
+substantially as you get older, the working or the....
+
+415
+00:19:55,680 --> 00:19:58,480
+the fluid intelligence part, anyways -- exercise
+
+416
+00:19:58,480 --> 00:20:01,559
+can keep that at bay, by the way, it's the best way to keep that at bay.
+
+417
+00:20:02,525 --> 00:20:05,384
+So, anyways...you can think,
+
+418
+00:20:05,384 --> 00:20:07,775
+from the phenomenological viewpoint, of
+
+419
+00:20:07,775 --> 00:20:10,465
+your experience as a whole, instead of
+
+420
+00:20:10,464 --> 00:20:12,439
+you being a subject in an objective world.
+
+421
+00:20:12,440 --> 00:20:16,019
+And so...here's another way of...here's something that's quite useful.
+
+422
+00:20:16,025 --> 00:20:17,455
+Jung talked about this
+
+423
+00:20:17,460 --> 00:20:20,100
+'cause he was moving towards a phenomenological perspective later
+
+424
+00:20:20,099 --> 00:20:23,875
+in his life. The last book he wrote was called Mysterium Coniunctionis.
+
+425
+00:20:23,875 --> 00:20:26,755
+He talked about three conjunctions
+
+426
+00:20:26,755 --> 00:20:29,615
+that needed to take place in order for someone to be
+
+427
+00:20:29,615 --> 00:20:32,605
+well constituted psychologically. And, you know how
+
+428
+00:20:32,605 --> 00:20:34,075
+Piaget talked about
+
+429
+00:20:34,684 --> 00:20:35,894
+learning that you could,
+
+430
+00:20:36,214 --> 00:20:39,224
+not only follow rules, but that you could make rules for new
+
+431
+00:20:39,224 --> 00:20:42,394
+games as sort of a highest level of moral development. I would say
+
+432
+00:20:42,394 --> 00:20:45,404
+Jung extended the Piagetian
+
+433
+00:20:45,404 --> 00:20:47,220
+moral continuum
+
+434
+00:20:47,220 --> 00:20:50,500
+up past what Piaget had envisioned. Now, he didn't...
+
+435
+00:20:50,674 --> 00:20:54,014
+he didn't do that 'cause he wasn't trying to extend Piaget's model. But...
+
+436
+00:20:54,805 --> 00:20:57,855
+But you can think about it the same way. And it's not easy to
+
+437
+00:20:57,855 --> 00:20:58,914
+come up with a moral
+
+438
+00:21:00,220 --> 00:21:02,980
+mode of being, say, that transcends the ability to
+
+439
+00:21:02,980 --> 00:21:06,214
+make rules for new games. That's damn smart, man, that's...
+
+440
+00:21:06,214 --> 00:21:08,115
+That's a major home run by Piaget,
+
+441
+00:21:08,115 --> 00:21:10,894
+as far as I am concerned. But Jung said something like this.
+
+442
+00:21:10,900 --> 00:21:13,280
+He said, look, when you're going through the process of
+
+443
+00:21:13,279 --> 00:21:15,039
+psychological integration...
+
+444
+00:21:16,884 --> 00:21:20,254
+Here's a way of conceptualizing it. He thought about this as...
+
+445
+00:21:21,184 --> 00:21:24,474
+symbolically, as male-female pairings, because...
+
+446
+00:21:24,954 --> 00:21:28,004
+as I've tried to point out, the most... one of the most fundamental
+
+447
+00:21:28,005 --> 00:21:30,935
+categories that our mythological imagination
+
+448
+00:21:30,934 --> 00:21:33,704
+uses to structure the world is the category
+
+449
+00:21:33,704 --> 00:21:36,814
+of masculine and feminine. And it moves that around, you know,
+
+450
+00:21:36,815 --> 00:21:39,825
+it's a fundamental metaphor so you can move that around anywhere.
+
+451
+00:21:39,944 --> 00:21:42,974
+And so Jung thought well, one of the things that you're trying to do
+
+452
+00:21:43,099 --> 00:21:45,619
+is to get your thoughts and your emotions
+
+453
+00:21:45,619 --> 00:21:47,000
+integrated.
+
+454
+00:21:47,295 --> 00:21:50,125
+And so, you know, the classic Enlightenment viewpoint,
+
+455
+00:21:50,125 --> 00:21:52,085
+roughly speaking, is something like,
+
+456
+00:21:52,474 --> 00:21:54,584
+passion is the enemy of reason.
+
+457
+00:21:55,220 --> 00:21:57,700
+Right? And so, to the degree that you're rational, it's sort of
+
+458
+00:21:57,700 --> 00:22:01,140
+a Freudian viewpoint 'cause you've got your emotions under control.
+
+459
+00:22:01,595 --> 00:22:04,704
+And...there's some truth in that but...not enough truth.
+
+460
+00:22:04,704 --> 00:22:07,595
+I like the Piagetian idea better, which is that,
+
+461
+00:22:07,599 --> 00:22:10,219
+no, no, that isn't what happens. What happens is if...
+
+462
+00:22:10,220 --> 00:22:13,414
+if you're playing the proper game is that, you integrate your
+
+463
+00:22:13,414 --> 00:22:16,625
+emotions underneath your thinkings, something like that.
+
+464
+00:22:16,644 --> 00:22:19,654
+So, they're all working in the same direction, you know. So,
+
+465
+00:22:19,654 --> 00:22:21,164
+for example,
+
+466
+00:22:21,164 --> 00:22:24,134
+you can make your anxiety work against you or for you.
+
+467
+00:22:24,140 --> 00:22:25,680
+And, one of the ways...
+
+468
+00:22:25,940 --> 00:22:28,920
+I made a program, called the Future Authoring Program
+
+469
+00:22:28,920 --> 00:22:31,960
+that I think helps people do that. 'Cause, one of the things you see when you're
+
+470
+00:22:31,960 --> 00:22:35,039
+talking to people and they're trying to solve problems is that they're afraid to
+
+471
+00:22:35,039 --> 00:22:36,559
+face the problem.
+
+472
+00:22:37,015 --> 00:22:39,915
+And so, then, their anxiety is working against them and you can think about it as a...
+
+473
+00:22:39,914 --> 00:22:43,264
+as antagonistic to rationality.
+
+474
+00:22:43,704 --> 00:22:46,754
+But then, I could say, well, what if you think for a while about
+
+475
+00:22:46,759 --> 00:22:49,140
+what your life would be like if you didn't face
+
+476
+00:22:49,140 --> 00:22:50,420
+this problem?
+
+477
+00:22:50,839 --> 00:22:53,279
+Because, if you think that through, if you have a problem and you
+
+478
+00:22:53,279 --> 00:22:56,720
+really think through what the consequences are
+
+479
+00:22:56,720 --> 00:22:59,279
+gonna be in two to three years of not facing it, then
+
+480
+00:22:59,279 --> 00:23:02,440
+you're gonna get more afraid of not facing it than facing it.
+
+481
+00:23:02,440 --> 00:23:05,255
+And that's great because then, your anxiety, instead of
+
+482
+00:23:05,259 --> 00:23:07,579
+standing in front of you...instead of...
+
+483
+00:23:07,579 --> 00:23:10,220
+you having a dragon that's guarding the path in front of you, you
+
+484
+00:23:10,220 --> 00:23:13,680
+have one chasing you down the path from behind. That's
+
+485
+00:23:13,684 --> 00:23:14,974
+a lot more useful.
+
+486
+00:23:15,434 --> 00:23:16,434
+And so...
+
+487
+00:23:16,565 --> 00:23:18,025
+you know, that's just a...
+
+488
+00:23:18,525 --> 00:23:21,705
+a minimal example of the utility of getting your emotions
+
+489
+00:23:21,704 --> 00:23:22,674
+and your...
+
+490
+00:23:22,680 --> 00:23:24,960
+and your thoughts aligned the same way. The same
+
+491
+00:23:24,960 --> 00:23:26,779
+thing happens with the aggression.
+
+492
+00:23:27,184 --> 00:23:30,044
+You know...One of the most common reasons that people come and
+
+493
+00:23:30,045 --> 00:23:33,215
+seek psychotherapy, really, is because they're too agreeable.
+
+494
+00:23:33,220 --> 00:23:35,860
+But...what that means is they're not assertive enough. They haven't
+
+495
+00:23:35,859 --> 00:23:39,679
+integrated their capacity for aggression. And so, other people can push them around.
+
+496
+00:23:39,934 --> 00:23:43,204
+And...and they're very conflict avoidant.
+
+497
+00:23:43,224 --> 00:23:46,164
+And...and so, the consequences of that across time
+
+498
+00:23:46,164 --> 00:23:49,474
+is that you don't stand up for yourself well enough
+
+499
+00:23:49,474 --> 00:23:52,355
+and you get taken advantage of and that spirals
+
+500
+00:23:52,355 --> 00:23:55,795
+badly downwards. And so, partly what you do when you're
+
+501
+00:23:56,434 --> 00:23:59,085
+doing assertiveness training with people
+
+502
+00:23:59,085 --> 00:24:02,075
+is you find out what they're angry about...and...
+
+503
+00:24:02,079 --> 00:24:04,699
+They're usuallly angry, if they're not assertive enough,
+
+504
+00:24:04,700 --> 00:24:07,799
+because other people are taking advantage of them or, you could say, because they're not
+
+505
+00:24:07,799 --> 00:24:09,159
+putting their own...
+
+506
+00:24:09,440 --> 00:24:10,980
+necessities forward
+
+507
+00:24:10,980 --> 00:24:14,339
+with enough force. It's hard to distinguish between those two things.
+
+508
+00:24:14,615 --> 00:24:15,835
+But, anyways, you...
+
+509
+00:24:16,234 --> 00:24:18,714
+get them to talk about what they're angry about,
+
+510
+00:24:18,714 --> 00:24:21,964
+that often makes them cry, often many times,
+
+511
+00:24:21,964 --> 00:24:24,720
+and then, you get them to kind of envision what they would want
+
+512
+00:24:24,720 --> 00:24:27,519
+to have instead, which they're often afraid to do
+
+513
+00:24:27,519 --> 00:24:31,019
+because people are afraid to think about what they want
+
+514
+00:24:31,025 --> 00:24:33,865
+because that makes it more clear when they're not getting it
+
+515
+00:24:33,865 --> 00:24:36,620
+and that's painful, right?  Or, maybe, they're afraid of hoping
+
+516
+00:24:36,619 --> 00:24:39,579
+so they won't specify a clear aim. But, anyways, you get them to
+
+517
+00:24:39,579 --> 00:24:42,835
+think about what they might want instead. You get them
+
+518
+00:24:42,839 --> 00:24:45,139
+to think about the cost of not pursuing that
+
+519
+00:24:45,140 --> 00:24:48,800
+and then, you help them develop strategies for integrating
+
+520
+00:24:48,799 --> 00:24:52,159
+their aggression and... with their thinking,
+
+521
+00:24:52,164 --> 00:24:54,774
+so they can come up with a plan to
+
+522
+00:24:54,775 --> 00:24:57,634
+approach the world in a more confident way. So, for example,
+
+523
+00:24:57,634 --> 00:25:01,115
+someone might come to me and say "I'm being bullied badly at work".
+
+524
+00:25:01,335 --> 00:25:04,164
+And so, then, I'll say "well, what are your options?
+
+525
+00:25:04,519 --> 00:25:06,680
+You have to put up with it? Well,
+
+526
+00:25:06,680 --> 00:25:09,835
+we'll figure that out cause maybe you do, maybe you don't have options.
+
+527
+00:25:09,835 --> 00:25:12,904
+But here's how to find out. Get your damn CV together,
+
+528
+00:25:12,904 --> 00:25:16,055
+so it's pristine, right? It's ready to go.
+
+529
+00:25:16,055 --> 00:25:19,015
+Get over your fear of a new interview, because
+
+530
+00:25:19,015 --> 00:25:22,015
+people are generally afraid of that. Get over your fear of applying
+
+531
+00:25:22,015 --> 00:25:24,915
+for a new job. Start thinking about what it would mean to have
+
+532
+00:25:24,914 --> 00:25:28,154
+a different job. Start thinking about what it would mean to have
+
+533
+00:25:28,154 --> 00:25:31,004
+a better job, even. Cause, maybe, your fear
+
+534
+00:25:31,005 --> 00:25:33,665
+is just making you stuck here but I can tell you one thing :
+
+535
+00:25:33,664 --> 00:25:36,784
+if someone's picking on you at work and you don't have options,
+
+536
+00:25:36,785 --> 00:25:38,005
+you lose."
+
+537
+00:25:38,394 --> 00:25:41,664
+So you get the person to start building a strategy. It's like, "OK,
+
+538
+00:25:41,664 --> 00:25:44,615
+if you're gonna tell this person to stop,
+
+539
+00:25:44,680 --> 00:25:46,779
+you have to know how to make them stop
+
+540
+00:25:46,779 --> 00:25:49,899
+and the one thing you need for sure is an option,
+
+541
+00:25:49,900 --> 00:25:52,460
+and, if you can't...if you don't have an option
+
+542
+00:25:52,460 --> 00:25:55,535
+then, maybe, we start thinking about the fact that you need some more
+
+543
+00:25:55,535 --> 00:25:58,394
+training or something like that. Because you cannot negotiate
+
+544
+00:25:58,394 --> 00:26:00,045
+if you don't have any power.
+
+545
+00:26:00,380 --> 00:26:02,960
+So...because while....especially if you're dealing with someone
+
+546
+00:26:02,960 --> 00:26:06,079
+who's really out to get you or really disagreeable,
+
+547
+00:26:06,079 --> 00:26:08,919
+If you don't have a leg to stand on, they'll just push you over and, maybe, they'll
+
+548
+00:26:08,920 --> 00:26:12,315
+jump on you too because that's what they're like and enjoy anyways, so...
+
+549
+00:26:12,315 --> 00:26:13,315
+It's no joke.
+
+550
+00:26:13,674 --> 00:26:14,674
+So...
+
+551
+00:26:14,884 --> 00:26:17,305
+You put your options behind you and then you
+
+552
+00:26:17,305 --> 00:26:20,195
+start to think about strategy." So I tell people "Look,
+
+553
+00:26:20,194 --> 00:26:23,105
+if you're being harassed at work, you document it every time
+
+554
+00:26:23,105 --> 00:26:25,440
+it happens. You write it down. So you've got like twenty
+
+555
+00:26:25,440 --> 00:26:28,620
+stories about it and it's fully documented. And then,
+
+556
+00:26:28,619 --> 00:26:31,279
+you go confront the person at some point with, at least,
+
+557
+00:26:31,279 --> 00:26:33,879
+3 pieces of evidence. And you have some
+
+558
+00:26:33,880 --> 00:26:37,600
+sense about what you tell them about what will happen if they don't stop.
+
+559
+00:26:37,865 --> 00:26:40,615
+So you have to figure out : well, they don't stop?
+
+560
+00:26:40,720 --> 00:26:43,460
+What are you gonna do about it? Leave? Not if you
+
+561
+00:26:43,460 --> 00:26:46,815
+can't leave. So, you have to be able to
+
+562
+00:26:46,815 --> 00:26:49,775
+-- what is it? -- wield a big stick and speak softly.
+
+563
+00:26:49,785 --> 00:26:52,945
+But, you see, that way...that's how you take your
+
+564
+00:26:52,944 --> 00:26:55,375
+aggression, which is an absolute necessary
+
+565
+00:26:55,375 --> 00:26:58,525
+part of your psyche and manifest it up into
+
+566
+00:26:58,525 --> 00:27:01,585
+a sophisticated means of dealing with the world.
+
+567
+00:27:01,585 --> 00:27:04,605
+You don't just suppress it and say "well, I should be able to put up with it"
+
+568
+00:27:04,605 --> 00:27:07,745
+or "I wish I wasn't so angry" or some...it's like...forget that!
+
+569
+00:27:08,345 --> 00:27:09,345
+That's...
+
+570
+00:27:09,579 --> 00:27:12,279
+All that'll happen is your blood pressure will stay high and you'll die of a heart
+
+571
+00:27:12,279 --> 00:27:15,680
+attack. Because anger, for example, is a very toxic emotion.
+
+572
+00:27:16,000 --> 00:27:18,319
+And it does cause heart damage over time. It's the only
+
+573
+00:27:18,319 --> 00:27:21,220
+emotion that we really know that's been linked to things like
+
+574
+00:27:21,220 --> 00:27:25,019
+cardiovascular risk. And anger is toxic because
+
+575
+00:27:25,434 --> 00:27:27,884
+it's like, you're driving a car, you're stepping on the gas
+
+576
+00:27:27,884 --> 00:27:29,940
+and pushing on the brake at the same time. Because
+
+577
+00:27:29,940 --> 00:27:32,860
+anger tells you to run away and to attack
+
+578
+00:27:33,365 --> 00:27:36,444
+...at the same time, cause you don't know what's gonna happen. And so, it
+
+579
+00:27:36,444 --> 00:27:39,059
+really amps up the physiological
+
+580
+00:27:39,059 --> 00:27:42,294
+demand on your body. And so, if you...
+
+581
+00:27:42,299 --> 00:27:44,779
+-- including your heart and your musculature -- so, if you stay like that for
+
+582
+00:27:44,779 --> 00:27:47,819
+like 10 years, you know...you're gonna age
+
+583
+00:27:47,819 --> 00:27:49,299
+20 years.
+
+584
+00:27:49,674 --> 00:27:51,274
+And that's a bad plan.
+
+585
+00:27:51,684 --> 00:27:52,684
+So...
+
+586
+00:27:53,920 --> 00:27:55,720
+So, you know, you take your
+
+587
+00:27:55,720 --> 00:27:59,235
+underground emotions and you integrate them into a sophisticated
+
+588
+00:27:59,234 --> 00:28:00,375
+reality.
+
+589
+00:28:01,095 --> 00:28:02,095
+Now...
+
+590
+00:28:03,305 --> 00:28:04,805
+Jung said, so
+
+591
+00:28:05,375 --> 00:28:08,355
+"FIrst of all you unite your mind,
+
+592
+00:28:08,359 --> 00:28:11,099
+your thinking, let's say, with your emotions. So that makes one
+
+593
+00:28:11,099 --> 00:28:14,179
+thing, instead of two fighting things."
+
+594
+00:28:14,454 --> 00:28:17,424
+OK. That's a good one. And then, the next conjunction
+
+595
+00:28:17,424 --> 00:28:18,740
+he talked about was
+
+596
+00:28:18,960 --> 00:28:21,795
+"It isn'tenough to unite your mind
+
+597
+00:28:21,799 --> 00:28:24,200
+and your emotions". And he tought about that as male/female
+
+598
+00:28:24,200 --> 00:28:26,120
+pairing, symbolically. That's how
+
+599
+00:28:26,119 --> 00:28:29,079
+it would manifest itself sometimes in dreams. So you
+
+600
+00:28:29,085 --> 00:28:32,134
+take the masculine element and the feminine element,
+
+601
+00:28:32,134 --> 00:28:35,144
+the thinking and the emotion, unite
+
+602
+00:28:35,144 --> 00:28:37,839
+those and that makes you more like one thing. OK and now,
+
+603
+00:28:37,839 --> 00:28:41,059
+all of a sudden, that's represented as symbolicaly male, that one thing.
+
+604
+00:28:41,099 --> 00:28:43,099
+And it unites with something else that's now represented
+
+605
+00:28:43,099 --> 00:28:46,519
+symbolically femin...female. That's the body.
+
+606
+00:28:46,565 --> 00:28:49,664
+So you take the mind/emotion integration
+
+607
+00:28:49,664 --> 00:28:52,359
+and integrate that in your body. So what'd that be?
+
+608
+00:28:52,359 --> 00:28:53,719
+You act it out!
+
+609
+00:28:53,980 --> 00:28:55,819
+Instead of just thinking.
+
+610
+00:28:55,819 --> 00:28:58,659
+So, there's this philosophical idea called a...
+
+611
+00:29:00,900 --> 00:29:03,180
+-- now I'm gonna forget what it's called -- It's a
+
+612
+00:29:03,180 --> 00:29:06,440
+contradiction in action! There's actually a technical term for it.
+
+613
+00:29:06,444 --> 00:29:09,845
+But that's when you think and believe something but you don't act it out.
+
+614
+00:29:09,845 --> 00:29:12,595
+And so, that means there's a dissociation  in you somehow
+
+615
+00:29:12,595 --> 00:29:15,884
+between your abstract representations and
+
+616
+00:29:15,884 --> 00:29:18,914
+what you manifest in action. Wel that's
+
+617
+00:29:18,914 --> 00:29:22,214
+another form of discontinuity that isn't doing you any good.
+
+618
+00:29:22,220 --> 00:29:24,980
+You know, the driver is going one way and the car is going the
+
+619
+00:29:24,980 --> 00:29:28,720
+other. And you won't even be able to understand yourself, if you do that.
+
+620
+00:29:28,724 --> 00:29:31,754
+But, even more, you're not putting your principles into practice.
+
+621
+00:29:31,755 --> 00:29:35,175
+So, you're dissociated. Your being is dissociated. So...
+
+622
+00:29:35,174 --> 00:29:38,174
+Once you get your mind and your emotions working together, then
+
+623
+00:29:38,180 --> 00:29:40,740
+the next thing to do is to act that out consistenly.
+
+624
+00:29:40,740 --> 00:29:44,375
+That was the second conjunction, as far as Jung was concerned, and then
+
+625
+00:29:44,375 --> 00:29:46,884
+the third one was -- this is the tough one, and
+
+626
+00:29:46,884 --> 00:29:48,994
+this is the one that's related to phenomenology --
+
+627
+00:29:50,134 --> 00:29:53,345
+you erase the distinction between yourself and the world.
+
+628
+00:29:54,244 --> 00:29:55,244
+OK.
+
+629
+00:29:55,555 --> 00:29:56,725
+That's a tough one.
+
+630
+00:29:56,724 --> 00:29:59,344
+So, imagine you're dealing with someone who's hoarding.
+
+631
+00:29:59,785 --> 00:30:02,915
+Now, people who are hoarding are often older or
+
+632
+00:30:02,914 --> 00:30:06,254
+neurologically damaged or they have obsessive compulsive disorder.
+
+633
+00:30:06,299 --> 00:30:08,579
+But then, you walk into their house and there's like ten
+
+634
+00:30:08,579 --> 00:30:11,779
+thousands things in their house. There's...there's...there's
+
+635
+00:30:11,779 --> 00:30:15,359
+There's, maybe, a hundred boxes. And you open up a box and, in the box, there's some
+
+636
+00:30:15,365 --> 00:30:18,035
+pens and some old passports and some
+
+637
+00:30:18,035 --> 00:30:21,025
+checks and... there's collections of silver dollars and
+
+638
+00:30:21,025 --> 00:30:23,884
+some hypodermic needles and some dust and...
+
+639
+00:30:23,884 --> 00:30:26,815
+you know, a dead mouse and...and...
+
+640
+00:30:26,815 --> 00:30:29,404
+there's boxes and boxes and boxes. It's like
+
+641
+00:30:29,404 --> 00:30:32,164
+that in the house. It's absolute chaos in there.
+
+642
+00:30:32,164 --> 00:30:34,839
+Absolute chaos. Not order...chaos.
+
+643
+00:30:34,839 --> 00:30:36,899
+And then, you think, is that their house or is that
+
+644
+00:30:36,900 --> 00:30:40,455
+their being? Is that their mind? And the answer is :
+
+645
+00:30:40,454 --> 00:30:43,424
+there's no difference. There's no difference.
+
+646
+00:30:43,424 --> 00:30:46,004
+So, you know, I could say, well, if you want to organize your
+
+647
+00:30:46,005 --> 00:30:49,015
+psyche, you could start by organizing your room...if that
+
+648
+00:30:49,019 --> 00:30:50,859
+would be easier, cause, maybe, you're a more
+
+649
+00:30:50,859 --> 00:30:53,139
+concrete person and you need something concrete to do.
+
+650
+00:30:53,440 --> 00:30:55,880
+So...you go clean up under your bed and you
+
+651
+00:30:55,880 --> 00:30:59,275
+make your bed and you organize the papers on your desk and you think, well...
+
+652
+00:30:59,279 --> 00:31:01,680
+Just exactly what are you organizing? Are you
+
+653
+00:31:01,680 --> 00:31:05,220
+organizing the objective world or are you objecting your field...
+
+654
+00:31:05,224 --> 00:31:07,704
+are you organizing your field of being,
+
+655
+00:31:07,704 --> 00:31:10,125
+like your field of total experience?
+
+656
+00:31:10,319 --> 00:31:12,500
+And Jung believed that...and I think
+
+657
+00:31:12,500 --> 00:31:14,759
+there's a Buddhist doctrine that's sort of nested in there,
+
+658
+00:31:14,759 --> 00:31:18,319
+that, at the highest level of psychological integrration, there's
+
+659
+00:31:18,325 --> 00:31:20,975
+no difference between you and what your experience.
+
+660
+00:31:20,980 --> 00:31:23,559
+Now, you think, well,
+
+661
+00:31:23,559 --> 00:31:26,819
+I can't control everything I experience. But that's no objection
+
+662
+00:31:26,825 --> 00:31:29,694
+because you can't control yourself anyway, so the mere fact
+
+663
+00:31:29,694 --> 00:31:32,764
+that you can't extend control over everything
+
+664
+00:31:32,765 --> 00:31:34,660
+you experience is no argument against the
+
+665
+00:31:34,660 --> 00:31:38,060
+idea that you should still treat that as an extension of yourself.
+
+666
+00:31:38,065 --> 00:31:41,095
+Well, let's say that you have a longstanding
+
+667
+00:31:41,095 --> 00:31:44,144
+feud with your brother. Well...
+
+668
+00:31:44,144 --> 00:31:47,134
+Is that a psychological problem? Is that him?  Is it a
+
+669
+00:31:47,134 --> 00:31:50,115
+problem in the objective world or is it a problem in your field
+
+670
+00:31:50,115 --> 00:31:53,184
+of being? And it's very useful to think
+
+671
+00:31:53,184 --> 00:31:55,559
+that way because you might ask what could you do to
+
+672
+00:31:55,559 --> 00:31:58,619
+improve yourself? Well, let's step
+
+673
+00:31:58,619 --> 00:32:01,899
+one step backwards. The first question might be why should you even bother
+
+674
+00:32:01,904 --> 00:32:03,375
+improving yourself?
+
+675
+00:32:03,904 --> 00:32:06,454
+And I think the answer to that is something like : so you don't
+
+676
+00:32:06,454 --> 00:32:09,664
+suffer any more stupidly than you have to.
+
+677
+00:32:09,904 --> 00:32:12,744
+And, maybe, so others don't have to either. It's something like that.
+
+678
+00:32:12,744 --> 00:32:15,944
+You know, like, there's a real injunction at the bottom of it. It's not some
+
+679
+00:32:15,944 --> 00:32:19,164
+casual self-help doctrine, it's that if you don't
+
+680
+00:32:19,164 --> 00:32:21,779
+organize yourself properly, you'll pay for
+
+681
+00:32:21,779 --> 00:32:25,680
+it. And in a big way. And so will the people around you. Now...
+
+682
+00:32:25,795 --> 00:32:28,715
+And, you could say, well, I don't care about that but that's actually not
+
+683
+00:32:28,714 --> 00:32:31,674
+true. You actually do care about that. Because, if you're in pain,
+
+684
+00:32:31,674 --> 00:32:34,565
+you will care about it. And so, you do care
+
+685
+00:32:34,565 --> 00:32:37,545
+about it. Even if it's just that negative way, you know.
+
+686
+00:32:37,545 --> 00:32:40,125
+It's very rare that you can find someone
+
+687
+00:32:40,125 --> 00:32:42,565
+who's in excruciating pain who would ever say
+
+688
+00:32:43,204 --> 00:32:46,214
+well, it would be no better if I was out of this.
+
+689
+00:32:46,214 --> 00:32:49,234
+This sort of pain is one of those things that brings
+
+690
+00:32:49,234 --> 00:32:52,444
+the idea that it would be better if it didn't exist
+
+691
+00:32:52,444 --> 00:32:54,625
+along with it. It's incontrovertible.
+
+692
+00:32:55,140 --> 00:32:57,840
+So...You get your act together so that there
+
+693
+00:32:57,839 --> 00:33:00,994
+isn't any more stupid pain around you than necessary.
+
+694
+00:33:01,000 --> 00:33:03,480
+So then, the question might be: well, how would you go about getting
+
+695
+00:33:03,480 --> 00:33:05,660
+your act together? And the answer to that
+
+696
+00:33:05,660 --> 00:33:08,800
+-- and this is a phenomenological idea too -- it's something like:
+
+697
+00:33:08,855 --> 00:33:11,845
+look around for something that bothers you
+
+698
+00:33:11,845 --> 00:33:13,335
+and see if you can fix it.
+
+699
+00:33:13,994 --> 00:33:15,944
+So...Now, you think, well
+
+700
+00:33:16,894 --> 00:33:19,394
+let's say you go into a
+
+701
+00:33:19,500 --> 00:33:22,099
+-- you can do this in a room. It's quite fun to do it just when
+
+702
+00:33:22,099 --> 00:33:25,179
+you're sitting in a room, like, a room...maybe, your bedroom, you can sit there
+
+703
+00:33:25,180 --> 00:33:28,580
+and then just sort of meditate on it, think, OK, if I wanted to
+
+704
+00:33:28,855 --> 00:33:31,724
+spend 10 minutes making this room better,
+
+705
+00:33:32,115 --> 00:33:34,835
+what would I have to do? And you have to ask yourself that,
+
+706
+00:33:34,835 --> 00:33:37,855
+right? It's not a command, it's like a genuine question. And things
+
+707
+00:33:37,859 --> 00:33:40,519
+will pop out in the room that, you know, you...like...there's a
+
+708
+00:33:40,519 --> 00:33:43,875
+stack of papers over there that's kind of bugging you and you know that, maybe,
+
+709
+00:33:43,875 --> 00:33:46,994
+a little order there would be a good thing and, you know you haven't...
+
+710
+00:33:47,164 --> 00:33:50,244
+There's some rubbish behind your computer monitor that you haven't
+
+711
+00:33:50,244 --> 00:33:53,474
+attended to for, like, six months and...the room would be slightly better
+
+712
+00:33:53,480 --> 00:33:56,079
+if it was a little less dusty and the cables weren't all
+
+713
+00:33:56,079 --> 00:33:57,359
+tangled up the same way and...
+
+714
+00:33:57,434 --> 00:33:59,734
+like, if you...if you allow
+
+715
+00:33:59,734 --> 00:34:02,714
+yourself just to consider the
+
+716
+00:34:02,714 --> 00:34:05,724
+expanse in which you exist at that moment,
+
+717
+00:34:05,724 --> 00:34:08,339
+there'll be all sorts of things that will pop out in it, that
+
+718
+00:34:08,340 --> 00:34:09,880
+you could just fix.
+
+719
+00:34:10,315 --> 00:34:13,394
+And, you know, I might say, well, if you're coming to see me for
+
+720
+00:34:13,394 --> 00:34:16,335
+psychotherapy, the easiest thing for us to do
+
+721
+00:34:16,340 --> 00:34:18,920
+first would just be to get you to organize your room.
+
+722
+00:34:18,920 --> 00:34:21,800
+You think, well, is that psychotherapy? And the answer is, well,
+
+723
+00:34:21,800 --> 00:34:25,060
+it depends on how you conceive the limits of your
+
+724
+00:34:25,065 --> 00:34:26,065
+being
+
+725
+00:34:26,954 --> 00:34:30,034
+And, I would say, start where you can start.
+
+726
+00:34:30,119 --> 00:34:32,920
+You know, if something announces itself
+
+727
+00:34:32,920 --> 00:34:35,539
+to you, which is a strange way of thinking about it,
+
+728
+00:34:35,539 --> 00:34:38,820
+as in need of repair, that you could repair,
+
+729
+00:34:38,974 --> 00:34:42,025
+then, hey! fix it! You fix a hundred
+
+730
+00:34:42,025 --> 00:34:45,485
+things like that, your life will be a lot different.
+
+731
+00:34:46,159 --> 00:34:48,719
+You know, I often tell people too, "fix the things you
+
+732
+00:34:48,719 --> 00:34:52,234
+repeat every day. Cause people tend to think of those as trivial.
+
+733
+00:34:52,235 --> 00:34:55,015
+Right? You get up, you brush your teeth,
+
+734
+00:34:55,019 --> 00:34:57,460
+you have your breakfast, you know, you have your
+
+735
+00:34:57,460 --> 00:35:00,434
+routines that you go through everyday. Well, those...those probably
+
+736
+00:35:00,440 --> 00:35:03,380
+constitute 50% of your life. And
+
+737
+00:35:03,380 --> 00:35:06,360
+people think "well, they're mundane, I don't need to pay attention to them", it's like
+
+738
+00:35:06,364 --> 00:35:09,034
+no, no, that's exactly wrong. The things you do every day,
+
+739
+00:35:09,445 --> 00:35:11,625
+those are the most important things you do.
+
+740
+00:35:12,025 --> 00:35:15,045
+Hands down. All you have to do is do the arithmetic.
+
+741
+00:35:15,045 --> 00:35:17,045
+You figure it out right away.  So...
+
+742
+00:35:17,405 --> 00:35:20,435
+A hundred adjustments to your...broader
+
+743
+00:35:20,434 --> 00:35:23,344
+domain of being and there's a lot less
+
+744
+00:35:23,344 --> 00:35:24,464
+rubbish and..
+
+745
+00:35:25,045 --> 00:35:28,085
+there's a lot less rubbish around and a lot fewer traps for you
+
+746
+00:35:28,085 --> 00:35:30,295
+to step into. And so...
+
+747
+00:35:30,965 --> 00:35:33,585
+That's in keeping with Jung's idea about
+
+748
+00:35:34,000 --> 00:35:36,519
+erasing the diss...once you've got your mind and your
+
+749
+00:35:36,519 --> 00:35:39,840
+emotions together and once you're acting that out, then
+
+750
+00:35:39,844 --> 00:35:42,714
+you can extend what you're willing to
+
+751
+00:35:42,719 --> 00:35:46,199
+consider yourself and start fixing up the things
+
+752
+00:35:46,679 --> 00:35:49,174
+that are part of your broader extent. Now,
+
+753
+00:35:49,175 --> 00:35:52,045
+sometimes, you don't know how to do that. So, you might say, imagine you're walking down
+
+754
+00:35:52,045 --> 00:35:55,065
+Bloor Street and there's this guy who's, like, alcoholic
+
+755
+00:35:55,065 --> 00:35:57,764
+and schizophrenic and he's been on the street for ten years.
+
+756
+00:35:57,764 --> 00:36:00,835
+He sort of stumbles towards you and, you know, incoherently
+
+757
+00:36:00,835 --> 00:36:03,235
+mutters something. That's a problem!
+
+758
+00:36:03,780 --> 00:36:06,380
+And...it would be good if you could fix it but
+
+759
+00:36:06,380 --> 00:36:08,519
+you haven't got a clue about how to fix THAT.
+
+760
+00:36:09,239 --> 00:36:12,359
+You just walk around that and go find something that you could
+
+761
+00:36:12,364 --> 00:36:15,034
+fix because, if you muck about in that,
+
+762
+00:36:15,039 --> 00:36:17,340
+not only is it unlikely that' you'll help that person, it's very
+
+763
+00:36:17,340 --> 00:36:20,420
+likely that you'll get hurt yourself. So...
+
+764
+00:36:20,425 --> 00:36:23,445
+you know, just because, while your experiencing
+
+765
+00:36:23,445 --> 00:36:26,535
+things announce themselves as in need of repair
+
+766
+00:36:26,534 --> 00:36:29,524
+doesn't mean that it's you, right then and there, that
+
+767
+00:36:29,525 --> 00:36:32,664
+should repair them. You have to have some humility, you know.
+
+768
+00:36:32,664 --> 00:36:35,715
+You don't walk up to a helicopter that isn't working and just start
+
+769
+00:36:35,715 --> 00:36:38,135
+tinkering away with it. You have to stay within
+
+770
+00:36:38,135 --> 00:36:41,275
+your domain of competence. But, most of the time, when people look
+
+771
+00:36:41,275 --> 00:36:43,315
+at their lives, you know....
+
+772
+00:36:43,824 --> 00:36:46,954
+-- It's a very interesting thing to do. I like...I like
+
+773
+00:36:46,954 --> 00:36:50,144
+the idea of the room because you can do that at the drop of a hat.
+
+774
+00:36:50,144 --> 00:36:53,114
+You know, go back to where you live and sit down and think "OK,
+
+775
+00:36:53,614 --> 00:36:56,584
+I'm gonna make this place better for half an hour. What should I
+
+776
+00:36:56,585 --> 00:36:57,519
+do?"
+
+777
+00:36:57,519 --> 00:36:59,259
+You have to ask.
+
+778
+00:36:59,474 --> 00:37:02,634
+And...things will just pop up like mad. And it's partly
+
+779
+00:37:02,635 --> 00:37:05,685
+because your mind is a very strange thing. As soon as you give it an aim,
+
+780
+00:37:05,684 --> 00:37:08,400
+a genuine aim, it'll
+
+781
+00:37:08,400 --> 00:37:11,300
+reconfigure the world in keeping with that aim. That's, that's
+
+782
+00:37:11,300 --> 00:37:14,160
+actually how you see, to begin with. And so, if you
+
+783
+00:37:14,159 --> 00:37:17,039
+set it a task, espec... -- you have to be genuine about it,
+
+784
+00:37:17,039 --> 00:37:18,880
+which is why you have to bring your
+
+785
+00:37:19,434 --> 00:37:22,174
+thoughts and emotions together and then, you have to get them in
+
+786
+00:37:22,175 --> 00:37:24,875
+your body, so you're acting consistently. You have to
+
+787
+00:37:24,875 --> 00:37:27,684
+be genuine about the aim - But once you aim, the
+
+788
+00:37:27,684 --> 00:37:30,554
+world will reconfigure itself around that aim,
+
+789
+00:37:30,554 --> 00:37:33,634
+which is very strange. And...and... it's...
+
+790
+00:37:33,635 --> 00:37:36,435
+it's..it's technically true.
+
+791
+00:37:36,485 --> 00:37:38,235
+You know, the best example of that
+
+792
+00:37:38,985 --> 00:37:42,095
+-- you've all seen this video where you...watch the
+
+793
+00:37:42,094 --> 00:37:44,744
+basket ball being tossed back and forth
+
+794
+00:37:44,744 --> 00:37:47,505
+between members of the white team versus the black
+
+795
+00:37:47,505 --> 00:37:49,880
+team and, while you're doing that, a gorilla
+
+796
+00:37:49,880 --> 00:37:52,880
+walks up into the middle of the video and you don't see it. It's like...
+
+797
+00:37:52,925 --> 00:37:55,885
+-- you know, if you thought about that experiment for about five
+
+798
+00:37:55,885 --> 00:37:58,925
+years, that would be about the right amount of time to spend thinking about it.
+
+799
+00:37:58,925 --> 00:38:01,945
+Because, what it shows yo isthat you see what you aim at.
+
+800
+00:38:02,019 --> 00:38:04,980
+And that, man, if you can get one thing through your
+
+801
+00:38:04,980 --> 00:38:07,974
+head as a consequence of even being in University,
+
+802
+00:38:07,974 --> 00:38:10,644
+that would be a good one: you see what you aim at.
+
+803
+00:38:10,644 --> 00:38:12,545
+And so, because...one...
+
+804
+00:38:13,860 --> 00:38:16,620
+inference you might draw from that is... be careful what
+
+805
+00:38:16,619 --> 00:38:17,940
+you aimt at!
+
+806
+00:38:17,954 --> 00:38:21,065
+Right? What you aim at determines the
+
+807
+00:38:21,065 --> 00:38:24,065
+way the world manifests itself to you. And so, if the world is
+
+808
+00:38:24,065 --> 00:38:25,860
+manifesting itself in a...
+
+809
+00:38:25,920 --> 00:38:29,034
+very negative way, one thing to ask
+
+810
+00:38:29,034 --> 00:38:31,664
+is: are you aiming at the right thing? Now...
+
+811
+00:38:31,664 --> 00:38:34,644
+you know, I'm not trying to reduce everybody's problems to
+
+812
+00:38:35,045 --> 00:38:37,885
+an improper aim. People get cut off at the knees for all
+
+813
+00:38:37,885 --> 00:38:41,005
+sorts of reasons, you know. They get sick, they have accidents,
+
+814
+00:38:41,005 --> 00:38:44,244
+There's a random element to being, that's for sure. But
+
+815
+00:38:44,244 --> 00:38:47,174
+-- and so, you don't want to take anything, even that particular
+
+816
+00:38:47,175 --> 00:38:50,175
+phrase too far. You want to bind it with the fact that
+
+817
+00:38:50,244 --> 00:38:53,424
+random things do happen to people. But it's still a great thing to
+
+818
+00:38:53,425 --> 00:38:56,120
+ask.-- OK, so, Rogers was a
+
+819
+00:38:56,119 --> 00:38:59,394
+phenomenologist. He was interested in...he didn't start
+
+820
+00:38:59,394 --> 00:39:02,614
+his philosophy from the perspective of
+
+821
+00:39:02,614 --> 00:39:05,644
+subject versus object or from the idea of psyche,
+
+822
+00:39:05,644 --> 00:39:08,644
+like, sort of inside you, your mind
+
+823
+00:39:08,644 --> 00:39:09,844
+with it's layers.
+
+824
+00:39:10,344 --> 00:39:12,704
+That's not how it looked at it. And so,
+
+825
+00:39:12,864 --> 00:39:14,344
+let's go through...
+
+826
+00:39:15,405 --> 00:39:18,355
+(now...) I'll introduce you to Rogers. I think that...
+
+827
+00:39:18,355 --> 00:39:21,344
+then we'll talk more about him next time. I'm gonna start though,
+
+828
+00:39:21,344 --> 00:39:24,294
+with something that I learned from him that  I think was of
+
+829
+00:39:24,300 --> 00:39:27,019
+crucial importance. And so, we'll set the stage for the
+
+830
+00:39:27,019 --> 00:39:30,960
+further discussion with this. And I'm gonna read it to you.
+
+831
+00:39:31,659 --> 00:39:34,554
+ROGERS : "Assuming a minimal mutual willingness to be in
+
+832
+00:39:34,554 --> 00:39:37,444
+contact and to receive communications, we may say that
+
+833
+00:39:37,445 --> 00:39:40,115
+the greater the communicated congruence
+
+834
+00:39:40,114 --> 00:39:41,424
+of experience,
+
+835
+00:39:42,005 --> 00:39:45,015
+awareness and behaviour on the part of
+
+836
+00:39:45,014 --> 00:39:48,045
+one individual, the more the ensuing relationship will involve
+
+837
+00:39:48,045 --> 00:39:50,985
+a tendency towards reciprocal communication with the same
+
+838
+00:39:50,985 --> 00:39:53,335
+qualities. Mutually accurate
+
+839
+00:39:53,335 --> 00:39:56,534
+understanding of the communications, improved psychological adjustments
+
+840
+00:39:56,534 --> 00:39:58,894
+and functioning in both parties, and mutual
+
+841
+00:39:58,894 --> 00:40:00,394
+satisfaction in the relationship."
+
+842
+00:40:00,980 --> 00:40:02,159
+It's quite a mouthful.
+
+843
+00:40:02,559 --> 00:40:04,059
+What does it mean?
+
+844
+00:40:04,059 --> 00:40:07,340
+"Assuming a minimal mutual willingness to be in contact
+
+845
+00:40:07,340 --> 00:40:10,740
+and to receive communications." Okay, we are having a conversation.
+
+846
+00:40:10,739 --> 00:40:13,500
+I'm deciding I'm going to listen to you.
+
+847
+00:40:13,579 --> 00:40:14,539
+Right,
+
+848
+00:40:14,539 --> 00:40:16,039
+That's different than how people
+
+849
+00:40:16,039 --> 00:40:16,940
+generally
+
+850
+00:40:17,059 --> 00:40:20,039
+communicate, because usually when they communicate,
+
+851
+00:40:20,039 --> 00:40:22,994
+they're doing something like: Okay
+
+852
+00:40:22,994 --> 00:40:26,065
+We're going to have a conversation, and I'm going to tell you why I'm right,
+
+853
+00:40:26,065 --> 00:40:27,755
+and I'll win if you agree
+
+854
+00:40:28,175 --> 00:40:30,785
+or maybe you're having a conversation where
+
+855
+00:40:30,784 --> 00:40:33,614
+i don't know what your trying to do, maybe your trying to impress the person
+
+856
+00:40:33,614 --> 00:40:36,674
+you're talking to, so you're not listening to them at all, you're just thinking about  what you're
+
+857
+00:40:36,795 --> 00:40:39,965
+going to say next. Okay, so that's Not This.
+
+858
+00:40:39,965 --> 00:40:42,785
+This Is: You might have something to tell me.
+
+859
+00:40:43,324 --> 00:40:46,335
+And So, I'm going to Listen On the off chance
+
+860
+00:40:46,335 --> 00:40:49,385
+that you'll tell me something that would really  be useful for me to know.
+
+861
+00:40:49,385 --> 00:40:51,925
+and so, you can think about it as an
+
+862
+00:40:51,925 --> 00:40:53,885
+extension of the Piagetian...
+
+863
+00:40:55,000 --> 00:40:57,420
+you know Piaget talked about the fundamental
+
+864
+00:40:58,280 --> 00:41:00,560
+The fundamentally  important element of knowledge being
+
+865
+00:41:00,559 --> 00:41:02,679
+to describe how knowledge is sought.
+
+866
+00:41:02,679 --> 00:41:05,379
+The process by which knowledge is generated. Well,
+
+867
+00:41:06,559 --> 00:41:08,659
+if you agree with me and I find that out,
+
+868
+00:41:08,659 --> 00:41:12,014
+I know nothing more than I knew before. I just know what I knew before.
+
+869
+00:41:12,014 --> 00:41:14,375
+And, maybe, I'm happy about that because, you know, it didn't get
+
+870
+00:41:14,375 --> 00:41:17,594
+challenged. But I'm no smarter than I was before.
+
+871
+00:41:17,635 --> 00:41:18,855
+But, maybe, you're different than
+
+872
+00:41:18,855 --> 00:41:21,945
+me and so, while I'm  listening to you, you'll tell me something I would...
+
+873
+00:41:21,945 --> 00:41:24,700
+I don't like. Maybe, it's something I find contemptible...
+
+874
+00:41:24,699 --> 00:41:28,034
+or difficult, whatever. Maybe you'll find...you'll tell me something
+
+875
+00:41:28,039 --> 00:41:31,079
+I don't know. And then, I won't be quite as stupid. And then,
+
+876
+00:41:31,079 --> 00:41:34,860
+maybe,  I won't run painfully into quite as many things.
+
+877
+00:41:35,014 --> 00:41:37,734
+And that's a really useful thing to know, especially if you live
+
+878
+00:41:37,739 --> 00:41:40,239
+with someone and you're trying to make long-term
+
+879
+00:41:40,239 --> 00:41:42,599
+peace with them and they're not the same as you.
+
+880
+00:41:43,034 --> 00:41:46,105
+And their way they look at the world and the facts that they pull out of the world
+
+881
+00:41:46,105 --> 00:41:48,425
+aren't the same as your facts. And...
+
+882
+00:41:48,679 --> 00:41:51,279
+even though you're going to be overwhelmed with the
+
+883
+00:41:51,280 --> 00:41:54,160
+procilvity to demonstrate that you're right,
+
+884
+00:41:54,159 --> 00:41:56,799
+it is the case that two brains are better than one.
+
+885
+00:41:57,375 --> 00:42:00,005
+And so, maybe, nine of the ten
+
+886
+00:42:00,005 --> 00:42:02,454
+things they tell you are dispensable,
+
+887
+00:42:02,460 --> 00:42:05,039
+or, maybe, even 49 out of 50. But
+
+888
+00:42:05,039 --> 00:42:08,195
+one thing...all you need to get out of the damn conversations is
+
+889
+00:42:08,195 --> 00:42:11,144
+one thing you don't know. And one of the things that's very
+
+890
+00:42:11,144 --> 00:42:13,914
+cool about a good psychotherapeutic
+
+891
+00:42:13,914 --> 00:42:17,014
+session is that the whole conversation is like that.
+
+892
+00:42:17,655 --> 00:42:19,525
+All you're doing is trying to...
+
+893
+00:42:20,255 --> 00:42:23,235
+express the truth of the situation
+
+894
+00:42:23,235 --> 00:42:26,565
+as clearly as possible. That's it!
+
+895
+00:42:27,054 --> 00:42:28,094
+And so...
+
+896
+00:42:28,735 --> 00:42:32,015
+Now, Rodgers' proposition
+
+897
+00:42:32,454 --> 00:42:35,614
+-- and I'll tell you why he derived it -- was that,
+
+898
+00:42:35,614 --> 00:42:38,384
+if you have a conversation like that with someone,
+
+899
+00:42:38,385 --> 00:42:40,955
+it will make both of you better.
+
+900
+00:42:40,954 --> 00:42:43,715
+It will make both of you psychologically healthier.
+
+901
+00:42:43,715 --> 00:42:46,855
+So, there's an implicit presupposition that the exchange
+
+902
+00:42:46,855 --> 00:42:49,885
+of truth is curative. Well, that's
+
+903
+00:42:49,885 --> 00:42:52,845
+a very cool idea. I mean, it's a very deep idea.
+
+904
+00:42:52,844 --> 00:42:55,704
+I think it's the most profound idea...
+
+905
+00:42:55,965 --> 00:42:58,565
+It's the idea upon western civil...
+
+906
+00:42:58,565 --> 00:43:01,215
+upon which western civilization -- although not
+
+907
+00:43:01,215 --> 00:43:04,135
+only western civilization -- is actually predicated.
+
+908
+00:43:04,135 --> 00:43:07,075
+The idea that truth produces health. But for
+
+909
+00:43:07,074 --> 00:43:10,234
+Rogers, that was the entire purpose of the psychotherapeutic alliance.
+
+910
+00:43:10,235 --> 00:43:13,315
+You  come to see me because you want to be better.
+
+911
+00:43:14,094 --> 00:43:17,114
+You don't even know what that means, necessarily. Neither do I.
+
+912
+00:43:17,114 --> 00:43:20,184
+We're gonna figure that out together. But you come and you say
+
+913
+00:43:20,184 --> 00:43:23,195
+"Look, things are not acceptable to me and
+
+914
+00:43:23,199 --> 00:43:25,379
+maybe, there's something I could do about that". So
+
+915
+00:43:25,380 --> 00:43:28,460
+that's the minimal precondition to engage in therapy.
+
+916
+00:43:28,545 --> 00:43:31,575
+Something's wrong. You're willing to talk about it truthfuly
+
+917
+00:43:31,574 --> 00:43:34,904
+and you want it to be better. WIthout that, the therapeutic
+
+918
+00:43:35,094 --> 00:43:37,754
+relationship does not get off the ground.
+
+919
+00:43:37,755 --> 00:43:40,815
+And so, then, you might ask: well what relationships are therapeutic?
+
+920
+00:43:40,835 --> 00:43:43,934
+And the answer to that will be: if you have a real relationship,
+
+921
+00:43:43,940 --> 00:43:45,320
+it's therapeutic.
+
+922
+00:43:45,340 --> 00:43:48,519
+If it isn't, what you have is not a relationship. God only
+
+923
+00:43:48,525 --> 00:43:51,545
+knows what you have. You're a slave, they're a tyrant.
+
+924
+00:43:51,545 --> 00:43:54,505
+You know, you're both butting heads with one another. It's a primate
+
+925
+00:43:54,505 --> 00:43:57,505
+dominance hierarchy dispute or,
+
+926
+00:43:57,505 --> 00:44:00,525
+I don't know, you're like two cats in a barrel or two people with their hands around
+
+927
+00:44:00,525 --> 00:44:03,204
+each other's throats. But what you have is not a
+
+928
+00:44:03,204 --> 00:44:05,264
+relationship. So...
+
+929
+00:44:05,795 --> 00:44:08,365
+All right. ROGERS "We may say that the greater the
+
+930
+00:44:08,364 --> 00:44:11,264
+communicated congruence of experience, awareness and behaviour on the
+
+931
+00:44:11,264 --> 00:44:14,364
+part of one individual"...PETERSON That's a reference to the same idea
+
+932
+00:44:14,364 --> 00:44:17,394
+that I was describing, with regards to Jung. so...
+
+933
+00:44:17,394 --> 00:44:18,394
+Let's say,
+
+934
+00:44:18,784 --> 00:44:21,884
+you come and talk to me and you want things do go well. Well, I'm gonna
+
+935
+00:44:21,885 --> 00:44:24,800
+have to more or less be one thing. Because,   if I'm all over the
+
+936
+00:44:24,800 --> 00:44:26,155
+place,
+
+937
+00:44:26,159 --> 00:44:28,759
+you can't trust any continuity in what I
+
+938
+00:44:28,760 --> 00:44:30,980
+say. There's no....and...you
+
+939
+00:44:30,985 --> 00:44:33,295
+There's no reason for you to believe that I'm capable
+
+940
+00:44:33,295 --> 00:44:34,695
+of actually telling you...
+
+941
+00:44:35,175 --> 00:44:37,945
+...I'm capable of expressing anything that's true.
+
+942
+00:44:38,114 --> 00:44:40,914
+So, the truth is something that emerges as a consequence
+
+943
+00:44:40,914 --> 00:44:44,164
+of getting yourself lined up...and beating all the...
+
+944
+00:44:45,485 --> 00:44:46,664
+-- what would you call? --
+
+945
+00:44:48,204 --> 00:44:51,154
+...all the impurities out of your...out of your...
+
+946
+00:44:51,454 --> 00:44:52,454
+out of your....
+
+947
+00:44:52,635 --> 00:44:55,445
+soul, for lack of a better word.
+
+948
+00:44:55,585 --> 00:44:58,655
+You have to be integrated for that to happen. And you do that, at least in
+
+949
+00:44:58,655 --> 00:45:02,065
+part, by wanting to tell the truth. ROGERS "...the more the ensuing
+
+950
+00:45:02,065 --> 00:45:04,715
+relationship wil involve a tendency towards
+
+951
+00:45:04,715 --> 00:45:07,954
+reciprocal communication with the same qualities...." PETERSON : So, one of
+
+952
+00:45:07,954 --> 00:45:10,894
+the things -- 'cause I've been quite influenced by Rogers --
+
+953
+00:45:10,894 --> 00:45:13,804
+One of the things I try to do in my therapeutic sessions is,  first of all,
+
+954
+00:45:13,804 --> 00:45:16,704
+to listen, to really listen. And then,
+
+955
+00:45:16,704 --> 00:45:19,284
+while I listen, I watch. And while
+
+956
+00:45:19,284 --> 00:45:21,894
+I'm listening, things will happen in my head.
+
+957
+00:45:22,385 --> 00:45:25,165
+You know, maybe, I'll get a litte image of something or
+
+958
+00:45:25,164 --> 00:45:27,900
+I'll get a thought or a question will emerge and I'll just tell the
+
+959
+00:45:27,900 --> 00:45:29,860
+person what that is. But it's sort of
+
+960
+00:45:29,860 --> 00:45:32,460
+directionless, you know. It's not like I have a goal
+
+961
+00:45:32,460 --> 00:45:35,300
+-- except that we're trying to make things better -- I'm on the side
+
+962
+00:45:35,300 --> 00:45:37,920
+of the person...I'm on the side of the part of the
+
+963
+00:45:37,925 --> 00:45:41,175
+person that wants things to be better, not worse.
+
+964
+00:45:41,405 --> 00:45:44,405
+And so, then, those parts of us have a dialogue and
+
+965
+00:45:44,405 --> 00:45:47,405
+the consequence of that dialogue is that certain things take place.
+
+966
+00:45:47,405 --> 00:45:50,315
+And then, I'll just tell the person what happened. And it isn't that
+
+967
+00:45:50,315 --> 00:45:51,434
+I'm right.
+
+968
+00:45:51,864 --> 00:45:54,894
+That's not the point The point of this is that, they get to have an hour
+
+969
+00:45:54,894 --> 00:45:57,954
+with someone who actually tells them what they think.
+
+970
+00:45:58,184 --> 00:46:00,045
+Here's the impact you're having on me.
+
+971
+00:46:00,355 --> 00:46:03,335
+You know...This is making me angry. This is making me
+
+972
+00:46:03,340 --> 00:46:05,200
+happy. This is really interesting. This
+
+973
+00:46:05,199 --> 00:46:08,899
+reminds me of something that you said an hour ago that I  don't quite understand.
+
+974
+00:46:09,284 --> 00:46:10,284
+And the whole...
+
+975
+00:46:10,635 --> 00:46:13,245
+the whole point is not, for either
+
+976
+00:46:13,244 --> 00:46:16,204
+person to make the propositon or convince
+
+977
+00:46:16,204 --> 00:46:19,394
+the other that their position is correct, but merely to
+
+978
+00:46:19,394 --> 00:46:22,184
+have an exchange of experience
+
+979
+00:46:22,184 --> 00:46:24,719
+about how things are set up.
+
+980
+00:46:24,820 --> 00:46:27,940
+And it's extraordinarily useful for people because it's often difficult
+
+981
+00:46:27,940 --> 00:46:31,460
+for anyone to find anyone to talk to that will actually listen.
+
+982
+00:46:31,824 --> 00:46:34,904
+And so...another thing that's really strange about this listening
+
+983
+00:46:34,905 --> 00:46:38,015
+is that, if you really listen to people, they will tell you the weirdest bloody things
+
+984
+00:46:38,019 --> 00:46:40,599
+so fast you just cannot believe it. So,
+
+985
+00:46:40,599 --> 00:46:43,954
+if you're having a conversation with someone and it's dull, it's because
+
+986
+00:46:43,954 --> 00:46:46,944
+you're stupid. That's why. You're not
+
+987
+00:46:46,945 --> 00:46:49,914
+listening to them properly. Because they're weird. They're like
+
+988
+00:46:50,184 --> 00:46:53,585
+wombats or albatrosses or rhinoceroses or something,
+
+989
+00:46:53,585 --> 00:46:56,605
+like, they're strange creatures. And so if you were actually
+
+990
+00:46:56,605 --> 00:46:59,815
+communicating with them and they were telling you how weird they really are,
+
+991
+00:46:59,925 --> 00:47:02,865
+it would be...it would be anything but boring.
+
+992
+00:47:03,264 --> 00:47:06,264
+So.... And you can ask questions, that's a really good
+
+993
+00:47:06,264 --> 00:47:09,085
+way of listening. But, you know... one of
+
+994
+00:47:09,085 --> 00:47:12,375
+Rogers' point is that, well,  you have to orientate properly in order to listen.
+
+995
+00:47:12,375 --> 00:47:13,954
+And the orientation has to be:
+
+996
+00:47:13,954 --> 00:47:16,324
+look, what I want out of this conversation is
+
+997
+00:47:16,324 --> 00:47:19,244
+that the place we both end up is better than the place we left.
+
+998
+00:47:19,295 --> 00:47:20,215
+That's it!
+
+999
+00:47:20,215 --> 00:47:23,315
+That's what I'm after. And, if you're not after that, you gotta think:
+
+1000
+00:47:23,315 --> 00:47:26,325
+why the hell wouldn't you be after that? What could you
+
+1001
+00:47:26,324 --> 00:47:29,274
+possibly be after that would be better than that?
+
+1002
+00:47:29,275 --> 00:47:32,264
+You walk away smarter and more well equipped for
+
+1003
+00:47:32,264 --> 00:47:35,464
+the world than you were before you had the conversation.
+
+1004
+00:47:35,465 --> 00:47:38,280
+And so does the other person. Well, maybe, if you're
+
+1005
+00:47:38,280 --> 00:47:41,535
+bitter and resentful and angry and anxious and, you know,
+
+1006
+00:47:41,534 --> 00:47:44,204
+generally annoyed at the world, then,
+
+1007
+00:47:44,204 --> 00:47:47,074
+that isn't what you want. You want the other person  to walk away
+
+1008
+00:47:47,074 --> 00:47:50,424
+worse, and you too, cause you're full of revenge. But...you know...
+
+1009
+00:47:50,965 --> 00:47:54,245
+You'll get what you want, if you do that. So...
+
+1010
+00:47:54,974 --> 00:47:57,934
+ROGERS "We know from our research that such empathic
+
+1011
+00:47:57,934 --> 00:48:00,884
+understanding..." PETERSON: It's already defined, that. I want to hear you,
+
+1012
+00:48:00,885 --> 00:48:04,325
+I want to hear what you have to say, so we can clarify it and move forward.
+
+1013
+00:48:04,474 --> 00:48:07,844
+I want to have your best interest in mind...And mine as well...but...
+
+1014
+00:48:07,855 --> 00:48:10,905
+you know...both at the same time. Your family's too, if we
+
+1015
+00:48:10,905 --> 00:48:14,105
+can manage that. We're after making things better.
+
+1016
+00:48:14,434 --> 00:48:17,625
+ROGERS: "We know from our reserach that such emphatic understanding
+
+1017
+00:48:17,625 --> 00:48:20,394
+-- understanding with a person, not about them -- is such an
+
+1018
+00:48:20,394 --> 00:48:23,215
+effective approach that it can bring about major changes in personality.
+
+1019
+00:48:23,215 --> 00:48:26,184
+Some of you may be feeling that you listen well
+
+1020
+00:48:26,184 --> 00:48:29,125
+to people and that you have never seen such results. The chances are
+
+1021
+00:48:29,125 --> 00:48:31,594
+very great that you have not been listening
+
+1022
+00:48:31,594 --> 00:48:34,375
+in the manner that I have described. Fortunately, I can suggest
+
+1023
+00:48:34,375 --> 00:48:37,315
+a little experiment that you can do to test the quality of our understanding.
+
+1024
+00:48:37,315 --> 00:48:40,655
+the quality of our understanding. The next time you get into an argument
+
+1025
+00:48:40,655 --> 00:48:43,335
+with your wife, or your friend, or a small group of friends, stop
+
+1026
+00:48:43,335 --> 00:48:46,244
+the discussion for a moment and, for an experiment, institute
+
+1027
+00:48:46,244 --> 00:48:47,284
+this rule.
+
+1028
+00:48:47,755 --> 00:48:50,894
+Each person can speak up for himself only
+
+1029
+00:48:50,894 --> 00:48:54,155
+after he has first restated the ideas and feelings
+
+1030
+00:48:54,155 --> 00:48:56,565
+of the previous speaker accurately."
+
+1031
+00:48:56,565 --> 00:48:58,545
+PETERSON: What "accurately" means is they have to
+
+1032
+00:48:58,545 --> 00:49:01,644
+agree with your restatement. Now, that's an annoying
+
+1033
+00:49:01,644 --> 00:49:04,420
+thing to do! Because, if someone is talking to you and you
+
+1034
+00:49:04,420 --> 00:49:07,180
+disagree with them, the first thing you wanna do is take their argument and make it
+
+1035
+00:49:07,179 --> 00:49:10,239
+the stupidest possible thing out of it that you can
+
+1036
+00:49:10,239 --> 00:49:12,959
+-- that's the straw man -- and then, demolish it.
+
+1037
+00:49:13,295 --> 00:49:16,244
+It's like...so then, you can walk away feeling good about it
+
+1038
+00:49:16,244 --> 00:49:18,539
+and, you know, you primate domins...
+
+1039
+00:49:18,539 --> 00:49:21,139
+dominated them really nicely. So...
+
+1040
+00:49:21,139 --> 00:49:24,379
+But that is not what you do. You say, OK, well, I'm gonna take what you told me,
+
+1041
+00:49:24,385 --> 00:49:27,665
+and, maybe, I'm even gonna make your argument stronger than the one you made.
+
+1042
+00:49:27,664 --> 00:49:30,764
+That's useful if you're dealing with someone that you have to live with.
+
+1043
+00:49:30,764 --> 00:49:33,299
+Because, maybe, they can't bloody well express themselves very well but they
+
+1044
+00:49:33,300 --> 00:49:36,220
+have something to say. So you...make
+
+1045
+00:49:36,224 --> 00:49:39,204
+their argument strong. All right...then...
+
+1046
+00:49:39,204 --> 00:49:42,295
+ROGERS: "You see what this would mean. It would mean that before presenting
+
+1047
+00:49:42,295 --> 00:49:44,204
+your own point of view, it'd be necessary
+
+1048
+00:49:44,204 --> 00:49:47,554
+for you to really achieve the other speaker's frame of reference
+
+1049
+00:49:47,554 --> 00:49:50,094
+-- to understand his thoughts and feelings so well
+
+1050
+00:49:50,094 --> 00:49:53,164
+that you could summarize them for him. Sound simple
+
+1051
+00:49:53,164 --> 00:49:54,164
+doesn't it?
+
+1052
+00:49:54,324 --> 00:49:57,355
+But if you try it, you'll find that it's the most
+
+1053
+00:49:57,355 --> 00:49:59,375
+difficult thing that you've ever done."
+
+1054
+00:49:59,735 --> 00:50:02,835
+PETERSON: OK, good, we'll leave it at that and then, we'll see you on Tuesday.
+
