@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+  html {
+    height: 100%;}
+  .wrapper {
+    margin-right: auto; /* 1 */
+    margin-left: auto; /* 1 */
+    max-width:700px; /* 2 */
+    padding-right: 0px; /* 3 */
+    padding-left: 0px; /* 3 */
+    background-color: rgb(38, 38, 38);
+    border-radius: 25px;
+    }
+  .text {
+    font-family: "Courier New";
+    #font-weight: bold;
+    #font-weight: 90;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    }
+  .button{
+  	margin:auto;
+  	display:block;
+    border-radius: 12px;
+    border-style: none;
+    height: 250px;
+    width: 500px;
+    vertical-align: top;
+  	text-align: left;
+    font-family: "Courier New";
+    font-size: 17px;}
+  .submit{
+  	margin:auto;
+  	display:block;
+    border-radius: 12px;
+    border-style: none;
+    height: 80px;
+    width: 200px;
+    vertical-align: top;
+  	text-align: center;
+    font-family: "Courier New";
+    font-size: 20px;
+  }
+     /**
+     .
+	*/
+  }
+}
+</style>
+
+<div class="text" style="opacity: 0;">
+.
+</div>
+
+<body class="wrapper" style="background: linear-gradient(#e66465, #9198e5)">
+  <div class="wrapper" style="background-color:rgb(255, 255, 255, 0.3)">
+      
+      <br></br>
+			
+      <div class="text">
+			Analyze your text:
+      </div>
+      
+      <br></br>
+      
+      <form>
+        <textarea class="button" rows = "5" cols = "2000" 
+        name="textarea" id="textarea">
+        </textarea><br><br>
+        
+        <input class="submit" type="submit" value="NLP analysis" formmethod="post">
+        
+        
+      </form>
+
+      
+      <div class="text" style="min-height: 45px;">
+      </div>
+      
+  </div>
+</body>
+
+<br></br>
+
+<div class="text"> Most frequent words:
+</div>
+<div class="text"> {{AI_output}}
+</div>
+
+</html>
