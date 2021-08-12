@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>What would you like to eat?</p>
+
+<div id="container1">
+    <select id="container1_" onchange="dropdownlist1(this)">
+        <option>-- select an option --</option>
+        <option>Nothing</option>
+        <option>Vegetarian</option>
+        <option>Meat</option>
+    </select>
+</div> 
+
+<br>
+
+<div id="container2" style="display:None">
+  <select id="container2_" >
+  </select>
+</div>
+
+</body>
+
+<script>
+
+    function dropdownlist1(current_div)
+    {
+        document.getElementById("container2").style.display = "None"
+        switch (current_div.value)
+        {   
+            case "Nothing":
+                //do nothing, container2 will remain hidden
+                break;
+
+            case "Vegetarian":
+                //container2 can reappear with these options
+                document.getElementById("container2_").options[0] = new Option('-- select an option --', 0)
+                document.getElementById("container2_").options[1] = new Option('Tomatoes', 0)
+                document.getElementById("container2_").options[2] = new Option('Zucchini', 0)
+                document.getElementById("container2").style.display = ""
+                break;
+        
+            case "Meat":
+                //container2 can reappear with these options
+                document.getElementById("container2_").options[0] = new Option('-- select an option --', 0)
+                document.getElementById("container2_").options[1] = new Option('Chicken', 0)
+                document.getElementById("container2_").options[2] = new Option('Beef', 0)
+                document.getElementById("container2_").options[3] = new Option('Sausage', 0)
+                document.getElementById("container2").style.display = ""
+                break;
+        }
+        
+    }
+
+</script>
+
+</html>
