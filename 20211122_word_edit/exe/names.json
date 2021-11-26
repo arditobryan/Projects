@@ -1,0 +1,16 @@
+{
+    "name1" : {
+        "%nome%" : "Aura Elena Ferrer Lopez",
+        "%codice fiscale%" : "FRRRLN62S61Z516F",
+        "%luogo di nascita%" : "Ciudad de Panama, Panama",
+        "%data di nascita%" :"21 novembre 1962",
+        "%indirizzo%" : "Calle Elida Diez, Nuevo Reparto El Carmen, Casa H-26, Ciudad de Panama, 07096, Panama"
+    },
+    "name2" : {
+        "%nome%" : "Marco Mazzeschi",
+        "%codice fiscale%" : "ABC",
+        "%luogo di nascita%" : "Colle",
+        "%data di nascita%" :"2021",
+        "%indirizzo%" : "Scorgiano" 
+    }
+}
