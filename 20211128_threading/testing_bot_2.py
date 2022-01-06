@@ -64,5 +64,4 @@ async def on_message(message):
         except:
             return
 
-
-client.run('OTE0NDQzOTYxMjk1MzMxMzg4.YaNITQ.J6rOMME35Bhek-RRg3t3cOvYtVY')
+client.run('<bot_id>')
