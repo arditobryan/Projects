@@ -8,3 +8,5 @@
 20211126_movie_plot_transformers/datasets/mpst_drop_encoded+.csv
 20211126_movie_plot_transformers/datasets/mpst_drop.csv
 20211126_movie_plot_transformers/datasets/mpst_raw.csv
+/20220205_training_word2vec/glove-wiki-gigaword-300.d2v
+/20220205_training_word2vec/glove-wiki-gigaword-300.d2v.vectors.npy
