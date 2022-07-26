@@ -1,0 +1,1 @@
+uvicorn main1:app --port 3000 --reload
